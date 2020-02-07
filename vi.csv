@@ -348,18 +348,18 @@ SHOW_DETAILS_USER_DATA,"Chi tiết"
 REDEMPTION_ID_DESCRIPTION,"ID đổi điểm:"
 OFFER_PAGE_TITLE,"Chi tiết đổi điểm"
 BY_CHOOSING_AGREE,"Chọn ""Đồng ý"" bạn chấp với chúng tôi về"
-PROVIDER_LIST,Danh sách nhà cung cấp
-VERIFY_PROVIDER,"Thêm nhà cung cấp"
-VERIFY_PROVIDER_TITLE_FAIL,"Thông tin không chính xác"
+VERIFY_PROVIDER,"Xác minh Nhà cung cấp"
 PROVIDER_NAME,"Tên Nhà cung cấp"
-PROVIDER_ADDR,"Địa chỉ ví Nhà cung cấp"
+PROVIDER_ADDR,"Địa chỉ Nhà cung cấp"
 YOUR_ID,"Id của bạn"
-VERIFY_PROVIDER_FAIL,"Thông tin Nhà cung cấp không hợp lệ"
-VERIFY_PROVIDER_SUCCESS,"Thêm Nhà cung cấp thành công"
-ALREADY_ADDED_PROVIDER,"Nhà cung cấp đã được thêm"
+VERIFY_PROVIDER_FAIL,"Không thể xác minh Nhà cung cấp"
+VERIFY_PROVIDER_SUCCESS,"Xác minh Nhà cung cấp thành công"
 VERIFY,"Xác minh"
+PROVIDER_LIST,"Danh sách nhà cung cấp"
+VERIFY_PROVIDER_TITLE_FAIL,"Thông tin không chính xác"
+ALREADY_ADDED_PROVIDER,"Nhà cung cấp đã được thêm"
 VERIFY_MNEMONIC_SAVE_BUTTON,Lưu
-TITLE_VERIFY_MNEMONIC,Từ ghi nhớ
+TITLE_VERIFY_MNEMONIC,"Từ ghi nhớ"
 NUMBER_KEYBOARD_1,1
 NUMBER_KEYBOARD_2,2
 NUMBER_KEYBOARD_3,3
@@ -379,3 +379,5 @@ QR_SCAN_USE_THE_SAME_ID_ERROR,"ID này đã được sử dụng"
 QR_SCAN_VERIFY_DATA_FALSE,"Xác minh dữ liệu bệnh nhân lỗi"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Xác minh lại dữ liệu bênh nhân lỗi"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Địa chỉ nhà cung cấp chưa được xác nhận"
+﻿ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,
+NEW_KEY,Translated
