@@ -380,4 +380,3 @@ QR_SCAN_VERIFY_DATA_FALSE,"Xác minh dữ liệu bệnh nhân lỗi"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Xác minh lại dữ liệu bênh nhân lỗi"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Địa chỉ nhà cung cấp chưa được xác nhận"
 ﻿ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your balance is too low."
-NEW_KEY,Translated
