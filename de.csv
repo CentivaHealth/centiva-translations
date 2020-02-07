@@ -1,0 +1,383 @@
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,Ihr Konto hat ein ungenügendes Guthaben. 
+ALERT_MOSAIC_IS_NOT_TRANSFERABLE,Das ausgewählte Mosaik ist nicht übertragbar. 
+ALERT_ONLY_MOBILE_DEVICE,Diese Funktionalität ist nur auf mobilen Geräten verfügbar.
+ALERT_PHONE_DISCONNECTED,Ihr Smartphone ist nicht mit dem Internet verbunden. 
+ALERT_SUBTITLE_PHONE_DISCONNECTED,"Öffnen Sie die App erneut, sobald Sie eine Internetverbindung haben."
+ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,Die Adresse ist nicht gültig für dieses Netzwerk. 
+ENTER_ALL_FIELDS,Bitte füllen Sie alle Felder aus.
+INVALID_PASSPHRASE,Ungültiges Passphrase
+NOT_ENOUGH_HIT,Ungenügendes HIT Guthaben.
+GENDER,Geschlecht 
+LOAD_MORE_TRANSACTION,Mehr Transaktion laden. 
+LANGUAGES.en,Englisch 
+LANGUAGES.de,Deutsch 
+LANGUAGES.fr,Französisch 
+LANGUAGES.ja,Japanisch 
+LANGUAGES.vi,Vietnamesisch 
+LANGUAGES.zh,Chinesisch 
+LANGUAGES.es,Spanisch 
+LANGUAGES_ONLY_SHOW_QUERY,Deutsch
+JANUARY,Januar
+FEBRUARY,Februar
+MARCH,März
+APRIL,April
+MAY,Mai
+JUNE,Juni
+JULY,Juli
+AUGUST,August
+SEPTEMBER,September
+OCTOBER,Oktober
+NOVEMBER,November
+DECEMBER,Dezember
+SMOKER_STATUS_NON_SMOKER,Nichtraucher
+SMOKER_STATUS_OCCASIONAL,Gelegenheitsraucher
+SMOKER_STATUS_REGULAR,regelmässiger Raucher
+SMOKER_STATUS_HEAVY,schwerer Raucher
+PHYSICAL_ACTIVITY_LOW,Selten
+PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,Gelegentlich
+PHYSICAL_ACTIVITY_REGULAR,Regelmässig
+PHYSICAL_ACTIVITY_HIGHT,Oft
+cancel,Abbrechen
+errormessage_error_occured,Ein Fehler ist aufgetreten
+errormessage_server_error_occured,Ein Serverfehler ist aufgetreten
+progress_dialog_wait_message,Bitte Warten…
+welcome,Herzlich Willkommen
+welcome_content,Health Information Traceability - Rückverfolgbarkeit von Gesundheitsinformationen. Bestimme wer Deine Gesundheitsdaten nutzt und erhalte einen fairen Gegenwert für Deine Daten. Wir schaffen die Gesundheitswährung der Zukunft.
+recover_existing_wallet,Bereits Wallet wiederherstellen
+create_new_wallet,Neues Wallet erstellen
+info_foundation,2018 HIT Foundation.
+recover_description,Bitte geben Sie die Passphrase ein um Ihr Wallet wiederherzustellen
+backup_phrase_hint,Bitte geben Sie Ihre Passphrase ein
+backup_phrase_popup_title,Haben Sie die Passphrase kopiert?
+backup_phrase_popup_message,"Falls nicht, kehren Sie zur vorherigen Seite zurück und kopieren Sie Ihre Passphrase. Sie können Ihr Wallet ohne die Passphrase nicht speichern"
+backup_phrase_popup_positive_button,Bestätigen
+backup_phrase_popup_negative_button,Abbrechen
+recover_wallet,Wallet wiederherstellen
+recover_wallet_success,Wiederherstellung des Wallets erfolgreich
+pin_description,"Verwenden Sie einen PIN für diese App. ACHTUNG: Wenn Sie keinen PIN festlegen, hat jeder der Zugriff auf Ihr Smartphone hat, auch Zugriff auf die App und Ihr HIT-Wallet!"
+set_pin_title,Set your App pin (XR18357)
+step_1_2,1 / 2 (XR18357)
+step_2_2,2 / 2 (XR18357)
+set_app_pin_first_description_first,First we need to set up a few things. (XR18357)
+set_app_pin_first_description_second,Let's start with setting your pin (XR18357)
+enter_pin_again,Enter Pin Again (XR18357)
+enter_pin_here,Enter Pin here (XR18357)
+enter_pin_here_again,Enter Pin here again  (XR18357)
+pin_does_not_match,Pin does not match. Try again or go back to set a different pin. (XR18357)
+create_wallet_step_1_3,1 / 3 (XR18357)
+create_wallet_step_2_3,2 / 3 (XR18357)
+create_wallet_step_3_3,3 / 3 (XR18357)
+creating_back_up_phrase,Creating your backup phrase (XR18357)
+backup_detail,"To make your backup phrase secure, we create a long passphrase to identify yourself with your account. (XR18357)"
+creating_randomness,Creating randomness... (XR18357)
+tap_to_copy,Tap to copy! (XR18357)
+remind_save_backup_phrase,Please save it in a secure location. You will need the passphrase to recover your wallet if reistalling the app (XR18357)
+created_wallet_description,Your wallet has been created. (XR18357)
+purpose_of_address,It is used to identify your wallet. Tokens you receive will be sent to this addess (XR18357)
+view_wallet_address_later,You can view your address later in your wallet (XR18357)
+mnemonic_title,Mnemonic Confirmation (XR18357)
+backup_phrase_mnemonic_description,Backup phrase: (XR18357)
+select_all_words_mnemonic_anounce,Please select all words. (XR18357)
+words_select_mnemonic,Please select words below to create your backup phrase: (XR18357)
+verify_phone_number_title,Verify Phone Number (XR18357)
+country_description,Country (XR18357)
+phone_number_description,Phone Number (XR18357)
+get_access_code_btn,Get Access Code (XR18357)
+health_data_title,Health Data (XR18357)
+location_description,Location (XR18357)
+physics_description,Physics (XR18357)
+health_description,Health (XR18357)
+health_conditions_description,Health Conditions (XR18357)
+location_explain,This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)
+physics_explain,This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)
+health_explain,This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)
+store_only_on_device,DATA STORED ON DEVICE ONLY. This data is not shared or transmitted! (XR18357)
+gender_question,What's your gender? (XR18357)
+invalid_weight,Invalid weight! (XR18357)
+invalid_height,Invalid height! (XR18357)
+next_page_btn,Next Page (XR18357)
+profile_btn,Profile (XR18357)
+done_btn,Done (XR18357)
+transactions_description,Transactions (XR18357)
+invite_friend_sub_description_1,Get up to (XR18357)
+invite_friend_sub_description_2,HIT for every friend who join! (XR18357)
+new_available_queries,new available: (XR18357)
+you_have_no_queries_yet,You have no accepted queries yet (XR18357)
+do_some_fancy_questionnaire,Do some fancy questionnaire and find your accepted queries here. (XR18357)
+title_show_all,Show all (XR18357)
+your_inbox_is_empty,Your inbox is empty. (XR18357)
+please_check_back_later,Please check back later. (XR18357)
+information_query_detail_description,Information (XR18357)
+time_need,Time needed: (XR18357)
+available_until,Available until: (XR18357)
+app_profile_setting,Settings (XR18357)
+enter_your_pin_pin_page,Enter your PIN (XR18357)
+enter_your_back_up_phrase,Enter Backup Phrase: (XR18357)
+my_wallet_is_long_hex_string,My backup is a long hex string (XR18357)
+enter_pin_to_show_backup,Enter your App Pin to show the Passphrase (XR18357)
+enter_pin_to_show_private_key,Enter your App Pin to show the Private Key (XR18357)
+pending_transactions,Pending (XR18357)
+help_agreement_btn,Help (XR18357)
+receive_token,Receive tokens (XR18357)
+purpose_query_detail,Purpose: (XR18357)
+redeem_highlights_new,Highlights: (XR18357)
+receive_token_title,Receive token (XR18357)
+address_description_receive_token_page,This is your address: (XR18357)
+tap_copy_address_description,"to receive HIT Token, just tap the address above to copy it. Then paste it  (XR18357)"
+scan_qr_description,Provide your address with custom QR code: (XR18357)
+hex_back_up_phrase,Hex back up phrase: (XR18357)
+referral_link_description,This is your referral link: (XR18357)
+referral_instruction_1,Invite a friend to HIT and earn (XR18357)
+referral_instruction_2,HIT tokens when your friend completes their registration. Just tap the link above to copy it and paste the link in an invitation email or instant message that you can send to your friend (XR18357)
+where_referral,(where?) (XR18357)
+save_back_up_phrase_title,Save Backup Phrase (XR18357)
+save_mnemonic_description,Please save this Mnemotic Backup Phrase in a secure location. You will need the passphrase to recover your wallet if reinstalling the app. (XR18357)
+save_passphrase_description,Please copy and save your backup Passphrase in a secure location. You will need the passphrase to recover your wallet if you reinstalling the app. (XR18357)
+next_word_match,Next: Word Match (XR18357)
+recipient,Recipient (XR18357)
+hit_available_amount,Available Amount: (XR18357)
+tx_fee,Transaction fee: (XR18357)
+xem_available,Append "XEM": (XR18357)
+add_xem_to_your_wallet,Add XEM to your wallet. Click (XR18357)
+for_instruction,for instructions. (XR18357)
+recipient_address_description,Recipient address: (XR18357)
+transaction_summary,Transaction summary (XR18357)
+sent_description,Sent (XR18357)
+ok_cool_btn,"Ok, cool! (XR18357)"
+detail_description,Details: (XR18357)
+message_description,Message: (XR18357)
+transaction_id,Transaction ID (XR18357)
+action_description,Actions: (XR18357)
+send_token_btn_tx_detail,Send Token (XR18357)
+receive_token_btn_tx_detail,Receive Token (XR18357)
+scan_code_btn_tx_detail,Scan Code (XR18357)
+redemption_info_title,Redemption Info (XR18357)
+access_code_description,Access Code (XR18357)
+wallet_passphrase_title,Wallet PassPhrase (XR18357)
+warning_descript_1,Security Update available (XR18357)
+warning_descript_2,Create your new mnemonic backup-pharase now. (XR18357)
+wallet_private_key_title,Wallet Private Key (XR18357)
+INVALID_ACCESS_CODE_TITLE,Invalid access code (XR18357)
+INVALID_ACCESS_CODE_CONTENT,Please make sure you enter correct access code (XR18357)
+transaction_confirm_title,Confirm (XR18357)
+button_negative_send,Don't send (XR18357)
+request_camera_permission_title,Cannot access the Camera (XR18357)
+request_camera_permission_sub_title,Centiva don't have Camera access permision. Allow the permission so you can use QR code scanner.<br>Go to 'Setting' => Choose 'Centiva' => Allow access 'Camera' (XR18357)
+button_positive_permission,Allow access (XR18357)
+birth_month_selector,Birth Month (XR18357)
+birth_year_selector,Birth Year (XR18357)
+denied_query_btn,Denied (XR18357)
+continue_btn,Continue (XR18357)
+copy_address_success,Address code copied! (XR18357)
+receive_tx_detail_title,Received (XR18357)
+transaction_detail_redemption,(Redemption) (XR18357)
+warning_create_wallet_back_up_1,Wallet Backup (XR18357)
+warning_create_wallet_back_up_2,Create you wallet backup now. (XR18357)
+words_not_match_message,Words do not match (XR18357)
+tap_here,Tap here (XR18357)
+change_to_mnemonic_toast_notification,Here goes a successfully saved notification! (XR18357)
+current_pin_title,Geben Sie hier Ihren aktuellen PIN ein
+new_pin_title,Geben Sie einen neuen PIN ein
+set_pin,PIN einrichten
+skip,Überspringen
+change_pin,PIN ändern
+generate_randomness,Zufällig (Entropie)
+next,Weiter
+backup_phrase,Passphrase
+copy_phrase,Code kopieren
+backup_phrase_description,Hier ist Ihre Backup-Phrase
+public_key,Public-Key
+public_key_description,"Wird intern von der App verwendet, um Transaktionen zu generieren und digitale Signaturen für die Authentifizierung zu erzeugen."
+private_key,Private-Key
+private_key_description,"Wird von der App verwendet, um Tokens in Ihrem Wallet zu sichern oder zu versenden. Bewahre Sie es sorgfältig auf!"
+wallet_address_description,Identifiziert Dein Wallet. Tokens für Dich werden an diese Adresse gesendet!
+wallet_address,Wallet-Adresse
+verify_phone_description,Für die Bestätigung der Telefonnummer senden wir Ihnen den Zugangscode per SMS.
+your_mobile_number,Ihre Mobilnummer
+resend_sms_code,Zugangscode erneut senden
+get_sms_code,Zugangscode senden
+verify_code_description,Füllen Sie Ihren Bestätigungscode im Eingabefeld ein
+verify_code,Überprüfen Sie den Code
+enter_sms_code,Geben Sie den SMS-Code ein
+set_pin_again_title,Geben Sie Ihren PIN erneut ein
+title_home,Zuhause
+invalid_phone_number,Ungültige Telefonnummer
+invalid_code,Ungültiger Code
+verify_phone_with_sms,Bestätigung des Smartphones via SMS
+account_wallet_name,HIT
+verify_phone_number,Telefonnummer bestätigen
+create_wallet_title_1,Wallet erstellen
+recover_wallet_title,Wallet wiederherstellen
+set_app_pin_title,Legen Sie den PIN für die App fest
+errormessage_confirm_pin_wrong,PIN stimmt nicht überein!
+errormessage_current_pin_wrong,Der aktuelle PIN ist falsch!
+errormessage_login_fail,Falscher PIN! Bitte versuchen Sie es erneut.
+successmessage_change_pin_success,PIN erfolgreich geändert
+successmessage_set_pin_success,Setzen des PIN erfolgreich!
+successmessage_save_basic_health_data_success,Grundlegende Gesundheitsinformationen erfolgreich gespeichert!
+bottom_navigation_inbox,Posteingang
+bottom_navigation_queries,Abfrage
+bottom_navigation_health_data,Gesundheitsdaten
+bottom_navigation_wallet,Wallet
+current_balance,Aktueller Kontostand
+change_app_pin,Ändern Sie Ihren PIN
+wallet_settings,Wallet-Einstellungen
+male,Männlich
+female,Weiblich
+month_of_birth,Geburtsmonat
+year_of_birth,Geburtsjahr
+height,Körpergrösse
+weight,Gewicht
+geographical_region,Geographische Region
+physical_activity,Körperliche Aktivität
+smoking,Raucher
+balance,Guthaben
+copy_address,Adresse kopieren
+amount,Menge
+send_token,Tokens senden
+send_tokens_successfully,Senden von Tokens war erfolgreich
+confirm,Bestätigen
+send,Senden
+no,Nr.
+all_tab_title,Alle
+all,Alle
+accepted,Akzeptiert
+deny,Ablehnen
+agree_and_continue,"Ja, an der Umfrage teilnehmen"
+open_url,URL öffnen
+forgot_pin,Forgot your PIN? (XR18357)
+close_forgot_pin,Close
+forgot_pin_description,Bitte installieren Sie die Anwendung erneut. \nVerwenden Sie Ihre Passphrase um Ihr Wallet wiederherzustellen.
+other,Andere
+consent_content,"Vielen Dank für Ihre Bereitschaft, an der folgenden Datenanfrage teilzunehmen. Mit dem Anklicken der Einverständniserklärung, erklären Sie sich damit einverstanden, dass Sie die angeforderten Daten zur Verfügung stellen und der Verarbeitung Ihrer personenbezogenen Daten gemäss der geltenden Datenschutzerklärung zustimmen."
+consent_title,Ihre Einverständniserklärung
+survey_information,Umfrageinformationen
+copy_success,Kopiert
+days_ago,Tage
+hours_ago,Stunden
+minutes_ago,Minuten
+seconds_ago,Sekunden
+query_from,von
+query_to,an
+language_title,Deutsch
+receive,Erhalten
+history,Übersicht
+scan_qr_code,QR Scannen
+qr_code,QR-Code scannen
+scan_qr_code_title,QR-Code Scannen
+message_read_QR_code,QR-Code erfolgreich eingelesen
+scan_fail_title,Dies ist kein Konto-QR
+data_not_recognised_message,Daten nicht erkannt
+scan_fail_button,OK
+permission_denied,Zugriff verweigert
+expiration_day_title,Verfügbar bis
+amount_offer,Tokens zur Verfügung gestellt
+offers_card_title,Angebote
+agreement_title,Nutzer Einverständnis
+Thank_you_description,"Vielen Dank, dass Sie die Centiva App der HIT Foundation heruntergeladen haben."
+read_term_berfore_proceeding,"Bitte lesen Sie die Zusammenfassung der Allgemeinen Geschäftsbedingungen, bevor Sie fortfahren:"
+first_agreement,"Centiva ist KEINE medizinische Anwendung und kann eine ärztliche Beratung nicht ersetzen. Wenn Sie medizinische Hilfe benötigen, wenden Sie sich bitte an einen Arzt oder eine medizinische Versorgungseinrichtung."
+second_agreement,"Sie müssen mindestens 13 Jahre alt sein, um ein HIT-Konto zu aktivieren."
+third_agreement,"Weder empfängt oder speichert die HIT Foundation Ihre Daten, noch gibt sie diese an Dritte weiter."
+fourth_agreement,"Ihre Gesundheits- und demographischen Daten, sowie die Wallet-Daten werden mit Ihrem PIN verschlüsselt und im lokalen Speicher Ihres Mobilgeräts hinterlegt. Die Übermittlung von Gesundheitsdaten an den Informationssuchenden erfolgt direkt von Ihrem Gerät, sofern Sie dem zugestimmt haben."
+fifth_agreement,"Sie allein sind verantwortlich für die Aufbewahrung Ihrer Daten, einschließlich Ihres PIN und der Sicherungskopie des Wallets."
+sixth_agreement,"Wenn Sie Daten über die HIT Plattform einem Informationssuchenden zur Verfügung stellen, gelten dessen Datenschutzrichtlinien sowie Nutzungsbedingungen und die von ihm angebotene Belohnung."
+agree_description,"Mit ""Zustimmen"" erklären Sie sich mit unseren Nutzungsbedingungen und der Datenschutzerklärung (siehe unten) einverstanden. Sollten Sie nicht damit einverstanden sein, können Sie leider nicht auf unsere Dienstleistung zugreifen."
+term_of_use,Nutzungsbedingungen
+and_of_term_policy,Datenschutzerklärung
+privacy_policy,Datenschutzbestimmungen
+decline_and_abort_registration,Registrierung ablehnen und abbrechen
+title_decline_and_abort_registration,"Um Fortzufahren, müssen Sie den Allgemeinen Geschäftsbedingungen und der Datenschutzerklärung zustimmen."
+message_decline_and_abort_resgistration,Möchten Sie die Anwendung wirklich beenden?
+not_enough_xem_warning,Ungenügendes XEM Guthaben.
+please_get_more_xem,XEM erweben an
+here,hier
+message_permission_accept,Der Zugang wird nur für die Registrierung im HIT-Netzwerk verwendet. Die App tätigt oder empfängt keine Telefonate.
+language,Sprache:
+app_settings,App Einstellungen
+app_language,App Sprache
+only_show_query_in_language,Zeige nur Anfragen in
+faq,Häufig gestellte Fragen
+feedback_to_email,Send feedback (XR18357)
+show_private_key,Private-Key anzeigen
+SENT,Gesendet
+MESSAGE,Nachricht
+TIME_TRANSACTION_DETAIL,Zeit
+MAIL_SHARE_ERROR_TITLE,Keine Email-Konten
+MAIL_SHARE_ERROR_SUB_TITLE,Bitte erstellen Sie ein Email-Konto um Ihnen eine Email zukommen zu lassen.
+SHARE_OPTION_TITLE,Wählen Sie eine App.
+STORE_BACKUP_PHRASE_BUTTON,Backup-Phrase speichern.
+PASTE_BACKUP_PHRASE,Backup-Phrase kopieren.
+REFERRAL_CARD_TITLE,Laden Sie einen Freund ein.
+REFERRAL_DESCRIPTION,Laden Sie einen Freund zu HIT ein und erhalten Sie
+REFERRAL_SUBDESCRIPTION,wenn Ihr Freund die Registrierung komplett abschliesst.
+COPY_BUTTON,Empfehlungslink kopieren.
+QR_CODE_SHARE_DESCRIPTION,Oder lassen Sie Ihren Freund diesen QR-Code scannen.
+TOKEN_DESCRIPTION,Token
+REDEEM_POPUP_TITLE,Info zur Rücknahme
+REDEEM_POPUP_MESSAGE,Das Angebot wird gesendet an (als Erklärung für Eberhard: Telefonnummer oder Emailadresse)
+REDEEM_SUCCESSFUL_MESSAGE,Rückzahlung erfolgreich. Sie werden in Kürze Informationen über Ihren Anspruch erhalten.
+REDEEM_HIGLIGHTS,Highlights
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,Ihre kostenlose Übersetzung
+REDEEM_QUANTITY_DESCRIPTION,Sie erhalten
+REDEEM_BUTTON,Jetzt einlösen
+INFO,Info
+USER_INFO_REDEMPTION,Einlösen
+USER_INFO_REDEMPTION_BUTTON,Einziehen
+AVAILABLE_QUERIES_HOME_PAGE,Zur Verfügung stehend
+COPY_CONFIRMATION_DETAIL,Bestätigungsdetails kopieren
+COPYRIGHT,Copyright &#9400; HIT Foundation 2019
+APP_VERSION,App-Version
+DEVICE_MODEL,Gerätemodell
+OS_VERSION,OS Version
+MANUFACTURER,Hersteller
+COPY,Kopieren
+ABOUT,App-Info
+OK,Ok
+REENTER_HEALTH_DATA_TITLE,Gesundheitsdaten sind nicht eingegeben worden | vorhanden.
+REENTER_HEALTH_DATA_MESSAGE,"Gesundheitsdaten konnten nach dem App-Update nicht gelesen werden, bitte erneut eingeben. "
+VERIFY_PHONE_AGAIN_TITLE,Die Überprüfung per SMS konnte nicht
+VERIFY_PHONE_AGAIN_MESSAGE,"Um den HIT Bonus zu erhalten, verifizieren Sie bitte erneut. "
+PLEASE_GET_MORE_HIT,bitte hol mehr HIT
+GET_SMS_CODE_FAIL_TITLE,SMS-Code konnte nicht empfangen werden
+GET_SMS_CODE_FAIL_CONTENT,Das Format der angegebenen Telefonnummer ist falsch. Die Telefonnummern werden im Format[+][Landesvorwahl][Teilnehmernummer mit Ortsvorwahl] geschrieben. 
+INCOMPLETE_BASIC_HEATH_TITLE,Unvollständige Basisdaten zur Gesundheitsvorsorge.
+INCOMPLETE_BASIC_HEATH_CONTENT,"Bitte halten Sie Ihre grundlegenden Gesundheitsinformationen vollständig und auf dem neuesten Stand, um das Beste aus der Centiva App herauszuholen. Diese Informationen werden nur auf Ihrem Gerät gespeichert und dienen zur Auswahl der für Sie relevanten Anfragen. Es wird mit niemandem geteilt."
+REDEMPTION_DETAILS,Rückzahlungsdetails 
+SHOW_DETAILS_USER_DATA,Details anzeigen 
+REDEMPTION_ID_DESCRIPTION,Rückzahlungskennzahl 
+OFFER_PAGE_TITLE,Angaben zum Angebot 
+BY_CHOOSING_AGREE,By choosing "Agree" you accept our (XR18357)
+PROVIDER_LIST,Providers (XR18357)
+VERIFY_PROVIDER,"Provider Added (XR18357)"
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
+PROVIDER_NAME,"Provider name (XR18357)"
+PROVIDER_ADDR,"Provider address (XR18357)"
+YOUR_ID,"Your id (XR18357)"
+VERIFY_PROVIDER_FAIL,"The provider information is not valid. (XR18357)"
+VERIFY_PROVIDER_SUCCESS,"The provider was added successfully. (XR18357)"
+ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
+VERIFY,Verify (XR18357)
+VERIFY_MNEMONIC_SAVE_BUTTON,Save (XR18357)
+TITLE_VERIFY_MNEMONIC,Your words selected (XR18357)
+NUMBER_KEYBOARD_1,1
+NUMBER_KEYBOARD_2,2
+NUMBER_KEYBOARD_3,3
+NUMBER_KEYBOARD_4,4
+NUMBER_KEYBOARD_5,5
+NUMBER_KEYBOARD_6,6
+NUMBER_KEYBOARD_7,7
+NUMBER_KEYBOARD_8,8
+NUMBER_KEYBOARD_9,9
+NUMBER_KEYBOARD_0,0
+ADD_PROVIDER_TITLE,"Add Provider (XR18357)"
+REVIEW_PROVIDER_TITLE,"Provider (XR18357)"
+PATIENT_NAME,"Patient name (XR18357)"
+NAME_NOT_PROVIDE,"Name not provided (XR18357)"
+QR_SCAN_CONNECTION_ERROR,"Connection error (XR18357)"
+QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used (XR18357)"
+QR_SCAN_VERIFY_DATA_FALSE,"Verify data false (XR18357)"
+QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false (XR18357)"
+PATIENT_NAME,"Patient name (XR18357)"
+NAME_NOT_PROVIDE,"Name not provided (XR18357)"
+ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers (XR18357)"

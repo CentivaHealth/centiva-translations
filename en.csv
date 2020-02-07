@@ -1,0 +1,381 @@
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your account has insufficient funds."
+ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"The selected mosaic is not transferable."
+ALERT_ONLY_MOBILE_DEVICE,"This functionality is only available in mobile devices."
+ALERT_PHONE_DISCONNECTED,"Your phone is disconnected from the internet."
+ALERT_SUBTITLE_PHONE_DISCONNECTED,"Open the app again once you have an internet connection."
+ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"The address is not valid for this network."
+ENTER_ALL_FIELDS,"Please fill all the fields"
+INVALID_PASSPHRASE,"Invalid Passphrase"
+NOT_ENOUGH_HIT,"Your wallet does not have enough HIT to complete this transaction."
+GENDER,Gender
+LOAD_MORE_TRANSACTION,"Load more transaction"
+LANGUAGES.en,English
+LANGUAGES.de,German
+LANGUAGES.fr,French
+LANGUAGES.ja,Japanese
+LANGUAGES.vi,Vietnamese
+LANGUAGES.zh,Chinese
+LANGUAGES.es,Spanish
+LANGUAGES_ONLY_SHOW_QUERY,English
+JANUARY,January
+FEBRUARY,February
+MARCH,March
+APRIL,April
+MAY,May
+JUNE,June
+JULY,July
+AUGUST,August
+SEPTEMBER,September
+OCTOBER,October
+NOVEMBER,November
+DECEMBER,December
+SMOKER_STATUS_NON_SMOKER,Non-smoker
+SMOKER_STATUS_OCCASIONAL,Occasional
+SMOKER_STATUS_REGULAR,Regular
+SMOKER_STATUS_HEAVY,Heavy
+PHYSICAL_ACTIVITY_LOW,Low
+PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,"Occasional Light"
+PHYSICAL_ACTIVITY_REGULAR,Regular
+PHYSICAL_ACTIVITY_HIGHT,High
+cancel,Cancel
+errormessage_error_occured,"An error has occurred"
+errormessage_server_error_occured,"Server error occurred"
+progress_dialog_wait_message,"Please wait…"
+welcome,"Welcome to"
+welcome_content,"Reshaping the way your health data is accessed and paid for."
+recover_existing_wallet,"Recover Existing Wallet"
+create_new_wallet,"Create New Wallet"
+info_foundation,"2019 HIT Foundation."
+recover_description,"Please enter your backup phrase to recover your wallet."
+backup_phrase_hint,"Please enter your backup phrase"
+backup_phrase_popup_title,"Have you copied and saved the Backup Phrase?"
+backup_phrase_popup_message,"If not, please return to the previous screen and copy it. You will not be able to recover your wallet without it."
+backup_phrase_popup_positive_button,Yes
+backup_phrase_popup_negative_button,"No, go back"
+recover_wallet,"Recover Wallet"
+recover_wallet_success,"Recover wallet success!"
+pin_description,"Use the app without a PIN. WARNING: Anyone with access to your phone will be able to access this app and your HIT Wallet!"
+set_pin_title,"Set your App PIN "
+step_1_2,"1 / 2 "
+step_2_2,"2 / 2 "
+set_app_pin_first_description_first,"First we need to set up a few things. "
+set_app_pin_first_description_second,"Let's start with setting your PIN."
+enter_pin_again,"Enter PIN Again"
+enter_pin_here,"Enter PIN here"
+enter_pin_here_again,"Enter PIN here again"
+pin_does_not_match,"PIN does not match. Try again or go back to set a different PIN."
+create_wallet_step_1_3,"1 / 3 "
+create_wallet_step_2_3,"2 / 3 "
+create_wallet_step_3_3,"3 / 3 "
+creating_back_up_phrase,"Creating your backup phrase "
+backup_detail,"To make your backup phrase secure, we create a long passphrase to identify yourself with your account. "
+creating_randomness,"Creating randomness... "
+tap_to_copy,"Tap to copy! "
+remind_save_backup_phrase,"Please save it in a secure location. You will need the passphrase to recover your wallet if reistalling the app "
+created_wallet_description,"Your wallet has been created."
+purpose_of_address,"It is used to identify your wallet. Tokens you receive will be sent to this addess."
+view_wallet_address_later,"You can view your address later in your wallet."
+mnemonic_title,"Mnemonic Confirmation "
+backup_phrase_mnemonic_description,"Backup phrase: "
+select_all_words_mnemonic_anounce,"Please select all words. "
+words_select_mnemonic,"Please select words below to create your backup phrase: "
+verify_phone_number_title,"Verify Phone Number "
+country_description,"Country "
+phone_number_description,"Phone Number "
+get_access_code_btn,"Get Access Code "
+health_data_title,"Health Data "
+location_description,"Location "
+physics_description,"Basic "
+health_description,"Health "
+health_conditions_description,"Health Conditions "
+location_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. "
+physics_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. "
+health_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. "
+store_only_on_device,"DATA STORED ON DEVICE ONLY. This data is not shared or transmitted! "
+gender_question,"What's your gender? "
+invalid_weight,"Invalid weight! "
+invalid_height,"Invalid height! "
+next_page_btn,"Next Page "
+profile_btn,"Profile "
+done_btn,"Done "
+transactions_description,"Transactions "
+invite_friend_sub_description_1,"Get up to "
+invite_friend_sub_description_2,"HIT for every friend who join! "
+new_available_queries,"new available: "
+you_have_no_queries_yet,"You have no accepted queries yet "
+do_some_fancy_questionnaire,"Do some fancy questionnaire and find your accepted queries here. "
+title_show_all,"Show all "
+your_inbox_is_empty,"Your inbox is empty. "
+please_check_back_later,"Please check back later. "
+information_query_detail_description,"Information "
+time_need,"Time needed: "
+available_until,"Available until: "
+app_profile_setting,"Settings "
+enter_your_pin_pin_page,"Enter your PIN "
+enter_your_back_up_phrase,"Enter Backup Phrase: "
+my_wallet_is_long_hex_string,"My backup is a long hex string "
+enter_pin_to_show_backup,"Enter your app PIN to show the Passphrase"
+enter_pin_to_show_private_key,"Enter your app PIN to show the Private Key"
+pending_transactions,"Pending "
+help_agreement_btn,"Help "
+receive_token,"Receive tokens "
+purpose_query_detail,"Purpose: "
+redeem_highlights_new,"Highlights: "
+receive_token_title,"Receive token "
+address_description_receive_token_page,"This is your address: "
+tap_copy_address_description,"to receive HIT Token."
+scan_qr_description,"Provide your address with custom QR code: "
+hex_back_up_phrase,"Hex back up phrase: "
+referral_link_description,"This is your referral link: "
+referral_instruction_1,"Invite a friend to Centiva and earn "
+referral_instruction_2,"HIT tokens when your friend completes their registration. Just tap the link above to copy it and paste the link in an invitation email or instant message that you can send to your friend"
+where_referral,"(where?) "
+save_back_up_phrase_title,"Save Backup Phrase "
+save_mnemonic_description,"Please save this Mnemotic Backup Phrase in a secure location. You will need the passphrase to recover your wallet if reinstalling the app. "
+save_passphrase_description,"Please copy and save your backup Passphrase in a secure location. You will need the passphrase to recover your wallet if you reinstalling the app."
+next_word_match,"Next: Word Match "
+recipient,"Recipient "
+hit_available_amount,"Available Amount: "
+tx_fee,"Transaction fee: "
+xem_available,"Available XEM:"
+add_xem_to_your_wallet,"Add XEM to your wallet. Click "
+for_instruction,"for instructions. "
+recipient_address_description,"Recipient address: "
+transaction_summary,"Transaction summary "
+sent_description,"Sent "
+ok_cool_btn,"Ok, cool! "
+detail_description,"Details: "
+message_description,"Message: "
+transaction_id,"Transaction ID "
+action_description,"Actions: "
+send_token_btn_tx_detail,"Send Token "
+receive_token_btn_tx_detail,"Receive Token "
+scan_code_btn_tx_detail,"Scan Code "
+redemption_info_title,"Redemption Info "
+access_code_description,"Access Code "
+wallet_passphrase_title,"Wallet PassPhrase "
+warning_descript_1,"Security Update available "
+warning_descript_2,"Create your new mnemonic backup-pharase now. "
+wallet_private_key_title,"Wallet Private Key "
+INVALID_ACCESS_CODE_TITLE,"Invalid access code "
+INVALID_ACCESS_CODE_CONTENT,"Please make sure you enter correct access code "
+transaction_confirm_title,"Confirm "
+button_negative_send,"Don't send "
+request_camera_permission_title,"Cannot access the Camera "
+request_camera_permission_sub_title,"Centiva doesn't have Camera access permission. Allow the permission so you can use the QR code scanner.<br>Go to 'Setting' => Choose 'Centiva' => Allow access 'Camera' "
+button_positive_permission,"Allow access "
+birth_month_selector,"Birth Month "
+birth_year_selector,"Birth Year "
+denied_query_btn,"Denied "
+continue_btn,"Continue "
+copy_address_success,"Address code copied!"
+receive_tx_detail_title,Received
+transaction_detail_redemption,(Redemption)
+warning_create_wallet_back_up_1,"Wallet Backup"
+warning_create_wallet_back_up_2,"Create you wallet backup now."
+words_not_match_message,"Words do not match"
+tap_here,"Tap here"
+change_to_mnemonic_toast_notification,"Here goes a successfully saved notification!"
+current_pin_title,"Enter your current PIN"
+new_pin_title,"Enter new PIN"
+set_pin,"Set PIN"
+skip,Skip
+change_pin,"Change PIN"
+generate_randomness,"Generating randomness (entropy)"
+next,Next
+backup_phrase,"Backup Phrase"
+copy_phrase,"Copy Phrase"
+backup_phrase_description,"Here is your backup phrase"
+public_key,"Public Key"
+public_key_description,"Used internally by the app to generate transactions and to generate digital signatures for the purposes of authentication."
+private_key,"Private Key"
+private_key_description,"Used internally by the app to secure and spend tokens in your wallet. It should be carefully guarded."
+wallet_address_description,"Your wallet has been created. Your wallet address is shown below. It is used to identify your wallet. Tokens you receive will be sent to this address."
+wallet_address,"Wallet Address"
+verify_phone_description,"We will send you an access code via SMS for mobile number verification."
+your_mobile_number,"Your Mobile Number"
+resend_sms_code,"Resend SMS Code"
+get_sms_code,"Get SMS Code"
+verify_code_description,"Enter your verification code below."
+verify_code,"Verify Code"
+enter_sms_code,"Enter SMS Code"
+set_pin_again_title,"Enter your PIN again"
+title_home,Home
+invalid_phone_number,"Invalid phone number"
+invalid_code,"Invalid code"
+verify_phone_with_sms,"Verify phone with SMS"
+account_wallet_name,HIT
+verify_phone_number,"Verify Phone Number"
+create_wallet_title_1,"Create Wallet "
+recover_wallet_title,"Recover Wallet"
+set_app_pin_title,"Set your App PIN"
+errormessage_confirm_pin_wrong,"Confirmation PIN does not match"
+errormessage_current_pin_wrong,"Current PIN incorrect"
+errormessage_login_fail,"Incorrect PIN. Please try again."
+successmessage_change_pin_success,"PIN change successful!"
+successmessage_set_pin_success,"PIN setup successful!"
+successmessage_save_basic_health_data_success,"Saved basic health data successfully!"
+bottom_navigation_inbox,Inbox
+bottom_navigation_queries,Queries
+bottom_navigation_health_data,"Health Data"
+bottom_navigation_wallet,Wallet
+current_balance,"Current Balance"
+show_private_key,"Show Private key"
+change_app_pin,"Change app PIN"
+wallet_settings,"Wallet settings"
+male,Male
+female,Female
+month_of_birth,"Month of Birth"
+year_of_birth,"Year of Birth"
+height,Height
+weight,Weight
+geographical_region,"Geographical Region"
+physical_activity,"Physical activity"
+smoking,Smoking
+balance,Balance
+copy_address,"Copy Address"
+amount,Amount
+send_token,"Send Tokens"
+send_tokens_successfully,"Sent Tokens successfully"
+confirm,Confirm
+send,Send
+no,No
+all_tab_title,All
+all,All
+accepted,Accepted
+deny,Deny
+agree_and_continue,"Agree and Continue"
+open_url,"Open URL"
+forgot_pin,"Forgot your PIN? "
+close_forgot_pin,Close
+forgot_pin_description,"Please Re-install this app and use Backup Phrase to Recover Wallet"
+other,Other
+consent_content,"Thank you for your willingness to participate in the following data request. By clicking Agree, you consent that you are willing to provide the requested data and agree to your personal data being processed as described in the applicable privacy statement."
+consent_title,"Your opinion matters"
+survey_information,"Data Disclaimer"
+copy_success,Copied
+days_ago," days ago"
+hours_ago," hours ago"
+minutes_ago," minutes ago"
+seconds_ago," seconds ago"
+query_from,"from "
+query_to,"to "
+language_title,English
+receive,Receive
+history,History
+scan_qr_code,"Scan QR code"
+qr_code,"QR code"
+scan_qr_code_title,"Scan QR code"
+message_read_QR_code,"Read address successfully"
+scan_fail_title,"Scan failed"
+data_not_recognised_message,"Data not recognized"
+scan_fail_button,OK
+permission_denied,Permission_denied
+expiration_day_title,"Available until"
+amount_offer,"Incentive offered"
+offers_card_title,Offers
+agreement_title,"User Agreement"
+Thank_you_description,"Thank you for downloading the Centiva app from HIT Foundation."
+read_term_berfore_proceeding,"Please read this summary of our terms of service before proceeding:"
+first_agreement,"Centiva is NOT a medical app and makes no claims to offer medical advice. If you are in need of medical care, please contact a medical professional or the emergency services."
+second_agreement,"You must be at least 13 years old or above to activate a Centiva account."
+third_agreement,"Centiva does not receive, store, or share with any third party your health information."
+fourth_agreement,"Your basic health and demographic data, as well as wallet data, is encrypted with your PIN and stored on your mobile device’s local storage. Any data you provide to seekers of your health information is transmitted directly from your device to the seeker."
+fifth_agreement,"You are solely responsible for the safekeeping of your information, including your PIN and wallet backups."
+sixth_agreement,"When you provide data requested by a seeker through this platform, the seeker’s privacy policies and terms of service are applicable to provided data as well as the incentives offered by the seeker."
+agree_description,"By choosing ""Agree"" below, you agree to be bound by our terms of use and privacy policy (linked below). These Terms of Use affect your legal rights and obligations. If you do not agree to be bound by all of these Terms of Use, do not access or use the Service."
+term_of_use,"Terms of Use"
+privacy_policy,"Privacy policy"
+and_of_term_policy,And
+decline_and_abort_registration,Decline
+title_decline_and_abort_registration,"You must agree the Terms and Pivacy Policy to continue"
+message_decline_and_abort_resgistration,"Do you really want to exit the application?"
+not_enough_xem_warning,"Your wallet does not have enough XEM to complete this transaction."
+please_get_more_xem,"Please get more XEM "
+here,here
+message_permission_accept,"This access will be used only to secure your registration on the HIT network. The app does not make or receive any telephone calls."
+language,Language:
+app_settings,"App Settings"
+app_language,"App language"
+only_show_query_in_language,"Only show queries in"
+faq,FAQ
+feedback_to_email,"Send feedback"
+SENT,sent
+MESSAGE,message
+TIME_TRANSACTION_DETAIL,Time
+MAIL_SHARE_ERROR_TITLE,"No Mail Accounts"
+MAIL_SHARE_ERROR_SUB_TITLE,"Please set up a Mail account in order to send email."
+SHARE_OPTION_TITLE,"Pick an app"
+STORE_BACKUP_PHRASE_BUTTON,"Store Backup Phrase"
+PASTE_BACKUP_PHRASE,"Paste Backup Phrase"
+REFERRAL_CARD_TITLE,"Invite a Friend"
+REFERRAL_DESCRIPTION,"Invite a friend to Centiva and earn"
+REFERRAL_SUBDESCRIPTION,"when your friend completes their registration."
+COPY_BUTTON,"Copy Referral Link"
+QR_CODE_SHARE_DESCRIPTION,"Or have your friend scan this QR code."
+TOKEN_DESCRIPTION,Tokens
+REDEEM_POPUP_TITLE,Redemption
+REDEEM_POPUP_MESSAGE,"The coupon will be sent to the "
+REDEEM_SUCCESSFUL_MESSAGE,"Redemption successful. You will receive claim information shortly."
+REDEEM_HIGLIGHTS,Highlights
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,"HIT Tokens required"
+REDEEM_QUANTITY_DESCRIPTION,"You get"
+REDEEM_BUTTON,"Redeem Now"
+INFO,Info
+USER_INFO_REDEMPTION,Redemption
+USER_INFO_REDEMPTION_BUTTON,Redeem
+AVAILABLE_QUERIES_HOME_PAGE,Available
+COPY_CONFIRMATION_DETAIL,"Copy Confirmation Details"
+COPYRIGHT,"Copyright &#9400; HIT Foundation 2019"
+APP_VERSION,"App version"
+DEVICE_MODEL,"Device model"
+OS_VERSION,"OS version"
+MANUFACTURER,Manufacturer
+COPY,Copy
+ABOUT,About
+OK,Ok
+REENTER_HEALTH_DATA_TITLE,"Health data is empty"
+REENTER_HEALTH_DATA_MESSAGE,"Health data could not be read following app update, please reenter"
+VERIFY_PHONE_AGAIN_TITLE,"Verify phone with SMS fail"
+VERIFY_PHONE_AGAIN_MESSAGE,"To get HIT bonus, please verify again"
+PLEASE_GET_MORE_HIT,"Please get more HIT"
+GET_SMS_CODE_FAIL_TITLE,"Failed to receive SMS code"
+GET_SMS_CODE_FAIL_CONTENT,"The format of the phone number provided is incorrect. Phone numbers are written in the format [+][country code][subcriber number including area code]."
+INCOMPLETE_BASIC_HEATH_TITLE,"Incomplete basic health data"
+INCOMPLETE_BASIC_HEATH_CONTENT,"Please keep your basic health information complete and up to date in order to get the most out of the Centiva app. This information is stored only on your device and used for selecting requests applicable to you. It is not shared with anyone."
+REDEMPTION_DETAILS,"Redemption details"
+SHOW_DETAILS_USER_DATA,"Show Details"
+REDEMPTION_ID_DESCRIPTION,"Redemption ID:"
+OFFER_PAGE_TITLE,"Offer Detail"
+BY_CHOOSING_AGREE,"By choosing ""Agree"" you accept our "
+PROVIDER_LIST,Providers
+VERIFY_PROVIDER,"Provider Added"
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion"
+PROVIDER_NAME,"Provider name"
+PROVIDER_ADDR,"Provider address"
+YOUR_ID,"Your id"
+VERIFY_PROVIDER_FAIL,"The provider information is not valid."
+VERIFY_PROVIDER_SUCCESS,"The provider was added successfully."
+ALREADY_ADDED_PROVIDER,"Already added provider"
+VERIFY,Verify
+VERIFY_MNEMONIC_SAVE_BUTTON,Save
+TITLE_VERIFY_MNEMONIC,Your words selected
+NUMBER_KEYBOARD_1,1
+NUMBER_KEYBOARD_2,2
+NUMBER_KEYBOARD_3,3
+NUMBER_KEYBOARD_4,4
+NUMBER_KEYBOARD_5,5
+NUMBER_KEYBOARD_6,6
+NUMBER_KEYBOARD_7,7
+NUMBER_KEYBOARD_8,8
+NUMBER_KEYBOARD_9,9
+NUMBER_KEYBOARD_0,0
+ADD_PROVIDER_TITLE,"Add Provider"
+REVIEW_PROVIDER_TITLE,"Provider"
+PATIENT_NAME,"Patient name"
+NAME_NOT_PROVIDE,"Name not provided"
+QR_SCAN_CONNECTION_ERROR,"Connection error"
+QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used"
+QR_SCAN_VERIFY_DATA_FALSE,"Verify data false"
+QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false"
+ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers"

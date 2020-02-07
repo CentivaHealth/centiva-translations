@@ -1,0 +1,383 @@
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,アカウントの資金が不足しています
+ALERT_MOSAIC_IS_NOT_TRANSFERABLE,選択したモザイクは譲渡できません
+ALERT_ONLY_MOBILE_DEVICE,この機能はモバイルデバイスでのみ利用可能です
+ALERT_PHONE_DISCONNECTED,あなたの電話はインターネットから切断されています
+ALERT_SUBTITLE_PHONE_DISCONNECTED,インターネットに接続したら、もう一度アプリを開きます
+ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,このネットワークではアドレスが無効です
+ENTER_ALL_FIELDS,すべての欄に記入してください
+INVALID_PASSPHRASE,無効なパスフレーズ
+NOT_ENOUGH_HIT,あなたの財布はこの取引を完了するのに十分なHITを持っていません。
+GENDER,性別
+LOAD_MORE_TRANSACTION,さらにトランザクションを読み込む
+LANGUAGES.en,英語
+LANGUAGES.de,ドイツ人
+LANGUAGES.fr,フランス語
+LANGUAGES.ja,日本人
+LANGUAGES.vi,ベトナム人
+LANGUAGES.zh,中国語
+LANGUAGES.es,スペイン語
+LANGUAGES_ONLY_SHOW_QUERY,日本
+JANUARY,1月
+FEBRUARY,2月
+MARCH,3月
+APRIL,4月
+MAY,5月
+JUNE,6月
+JULY,7月
+AUGUST,8月
+SEPTEMBER,9月
+OCTOBER,10月
+NOVEMBER,11月
+DECEMBER,12月
+SMOKER_STATUS_NON_SMOKER,非喫煙
+SMOKER_STATUS_OCCASIONAL,時折
+SMOKER_STATUS_REGULAR,普通
+SMOKER_STATUS_HEAVY,多い
+PHYSICAL_ACTIVITY_LOW,低い
+PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,弱低い
+PHYSICAL_ACTIVITY_REGULAR,普通
+PHYSICAL_ACTIVITY_HIGHT,高い
+cancel,キャンセル
+errormessage_error_occured,エラーが発生しました。
+errormessage_server_error_occured,サーバーのエラーが発生しました。
+progress_dialog_wait_message,お待ちください。â€¦
+welcome,ようこそ！
+welcome_content,"ヘルスインフォメーション トレーサビリティ. 健康情報はトークン化されそれによって将来の医療通貨に変換されます."
+recover_existing_wallet,復元する
+create_new_wallet,新規作成
+info_foundation,"2019 HIT Foundation."
+recover_description,ウォレットを復元するためのバックアップフレーズを入力してください。
+backup_phrase_hint,バックアップフレーズを入力してください。
+backup_phrase_popup_title,バックアップフレーズをコピーして保存しましたか？
+backup_phrase_popup_message,"そうでない場合は、前の画面に戻り、コピーしてください。 それがなければウォレットを復元することはできません。"
+backup_phrase_popup_positive_button,はい
+backup_phrase_popup_negative_button,"いいえ,前に戻る"
+recover_wallet,ウォレットを復元する
+recover_wallet_success,ウォレットの復元が成功!
+pin_description,"暗証番号なしでアプリを使用します。 警告：お使いの携帯電話にアクセスできるユーザーは、このアプリとHITウォレットにアクセスができます。"
+set_pin_title,アプリのパスワードを設定する
+step_1_2,"1 / 2 手順"
+step_2_2,"2 / 2 手順"
+set_app_pin_first_description_first,最初に、コンテンツを設定する必要があります。
+set_app_pin_first_description_second,パスワードの設定を始めましょう
+enter_pin_again,もう一度パスワードを入力してください
+enter_pin_here,ここにパスワードを入力してください
+enter_pin_here_again,ここにもう一度パスワードを入力してください
+pin_does_not_match,"パスワードが一致しません。 再試行するか、別のパスワードを設定するために戻ります"
+create_wallet_step_1_3,"1 / 3 手順"
+create_wallet_step_2_3,"2 / 3 手順"
+create_wallet_step_3_3,"3 / 3 手順"
+creating_back_up_phrase,フォールバックフレーズを作成する
+backup_detail,フォールバックを安全に保つために、自分のアカウントを識別できるように長いパスフレーズを作成しました
+creating_randomness,ランダム性の作成...
+tap_to_copy,タップしてコピー！
+remind_save_backup_phrase,パスワードを安全な場所に保管してください。アプリを再起動すると、ウォレットを回復するためにパスワードが必要になります
+created_wallet_description,ウォレットが作成されました
+purpose_of_address,ウォレットを識別するために使用され、受け取ったトークンはこのアドレスに送信されます
+view_wallet_address_later,後でウォレットで住所を確認できます
+mnemonic_title,ニーモニックの確認
+backup_phrase_mnemonic_description,フォールバック
+select_all_words_mnemonic_anounce,すべての単語を選択してください
+words_select_mnemonic,フォールバックフレーズを作成するには、以下の単語を選択してください:
+verify_phone_number_title,電話番号を確認
+country_description,国
+phone_number_description,電話番号
+get_access_code_btn,アクセスコードを取得する
+health_data_title,健康データ
+location_description,場所
+physics_description,物理学
+health_description,健康
+health_conditions_description,健康状態
+location_explain,この情報は、関連する研究と引用を提供するために必要であり、この情報が第三者に共有または送信されることはありません。
+physics_explain,この情報は、関連する研究と引用を提供するために必要であり、この情報が第三者に共有または送信されることはありません。
+health_explain,この情報は、関連する研究と引用を提供するために必要であり、この情報が第三者に共有または送信されることはありません。
+store_only_on_device,データはデバイスにのみ保存され、この情報は決して共有されたり、第三者に送信されたりすることはありません。
+gender_question,あなたの性別は何ですか
+invalid_weight,体重が間違っています！
+invalid_height,高さが間違っています！
+next_page_btn,次のページ
+profile_btn,個人データ
+done_btn,完成した
+transactions_description,トランザクション数
+invite_friend_sub_description_1,友達を招待する
+invite_friend_sub_description_2,参加したすべての友人はHIT報酬を受け取ります
+new_available_queries,独自の更新
+you_have_no_queries_yet,クエリを受け入れていません
+do_some_fancy_questionnaire,いくつかの花のアンケートを行い、ここで受け入れるクエリを見つけます。
+title_show_all,すべて表示
+your_inbox_is_empty,受信トレイが空です
+please_check_back_later,後でもう一度確認してください
+information_query_detail_description,情報
+time_need,時間が必要
+available_until,に利用可能
+app_profile_setting,設定する
+enter_your_pin_pin_page,パスワードを入力してください
+enter_your_back_up_phrase,代替フレーズを入力
+my_wallet_is_long_hex_string,バックアップフレーズが16の長いフレーズです
+enter_pin_to_show_backup,アプリケーションのパスワードを入力して、バックアップフレーズを表示します
+enter_pin_to_show_private_key,アプリケーションパスワードを入力して秘密鍵を表示します
+pending_transactions,決定される
+help_agreement_btn,助けて
+receive_token,トークンを受け取る
+purpose_query_detail,目的
+redeem_highlights_new,まとめ
+receive_token_title,トークンを受け取る
+address_description_receive_token_page,これはあなたの住所です：
+tap_copy_address_description,HITトークンを受け取るには、上のアドレスをタップしてコピーし、貼り付けます
+scan_qr_description,住所にカスタムQRコードを提供します
+hex_back_up_phrase,16進数のバックアップフレーズ
+referral_link_description,これはあなたの紹介リンクです
+referral_instruction_1,友達をHITに招待して獲得する
+referral_instruction_2,友人が登録を完了するとHITトークンを取得します。上のリンクをクリックしてコピーし、招待メールまたはメッセージに貼り付けて友人に送信します
+where_referral,（どこですか？）
+save_back_up_phrase_title,フォールバックを保存
+save_mnemonic_description,この代替フレーズは安全な場所に保管してください。アプリを再インストールする場合、ウォレットを復元するにはパスワードが必要になります。
+save_passphrase_description,フォールバックフレーズをコピーして安全な場所に保存してくださいアプリを再インストールする場合、ウォレットを復元するにはパスワードが必要になります。
+next_word_match,次のステップ：単語の一致
+recipient,受取人
+hit_available_amount,利用可能な金額：
+tx_fee,取引費用：
+xem_available,「XEM」を追加します：
+add_xem_to_your_wallet,"XEMをウォレットに追加します。 クリックしてください"
+for_instruction,手順については。
+recipient_address_description,受取人の住所：
+transaction_summary,取引概要
+sent_description,送信済み
+ok_cool_btn,うーん！
+detail_description,詳細：
+message_description,情報：
+transaction_id,取引番号
+action_description,アクション：
+send_token_btn_tx_detail,トークンを送信：
+receive_token_btn_tx_detail,トークンを受け取る：
+scan_code_btn_tx_detail,スキャンコード
+redemption_info_title,引き換え情報
+access_code_description,アクセスコード
+wallet_passphrase_title,ウォレットパスフレーズ
+warning_descript_1,利用可能なセキュリティ更新プログラム
+warning_descript_2,今すぐ新しいニーモニックパスフレーズを作成する
+wallet_private_key_title,ウォレット秘密鍵
+INVALID_ACCESS_CODE_TITLE,無効なアクセスコード
+INVALID_ACCESS_CODE_CONTENT,必ず正しいアクセスコードを入力してください
+transaction_confirm_title,確認する
+button_negative_send,送信しない
+request_camera_permission_title,カメラにアクセスできません
+request_camera_permission_sub_title,"Centivaには「カメラ」アクセス許可がありません。QRコードスキャナーを使用できるように許可を許可してください。 <br>「設定」に移動=>「Centiva」を選択=>「カメラ」へのアクセスを許可"
+button_positive_permission,アクセスを許可
+birth_month_selector,生年月
+birth_year_selector,生年
+denied_query_btn,拒否されました
+continue_btn,続ける
+copy_address_success,住所コードがコピーされました！
+receive_tx_detail_title,受け取った
+transaction_detail_redemption,引き換え
+warning_create_wallet_back_up_1,ウォレットバックアップ
+warning_create_wallet_back_up_2,今すぐウォレットのバックアップを作成してください。
+words_not_match_message,単語の不一致
+tap_here,こちらをクリック
+change_to_mnemonic_toast_notification,これが成功した保存通知です！
+current_pin_title,既存の暗証番号を入力してください
+new_pin_title,新しい暗証番号を入力してください
+set_pin,暗証番号を設定する
+skip,スキップ
+change_pin,暗証番号を変更する
+generate_randomness,ランダム性の生成（エントロピー）
+next,次へ
+backup_phrase,バックアップフレーズ
+copy_phrase,フレーズをコピーする
+backup_phrase_description,こちらはお客様のバックアップフレーズでございます。
+public_key,パブリックキー
+public_key_description,アプリの内部でトランザクションを作成し、認証の目的でデジタル署名を生成するために使用されます。
+private_key,プライベートキー
+private_key_description,"アプリの内部で、ウォレットにトークンを保護して使用します。 必ずご大切に保管してください。"
+wallet_address_description,"ウォレットアカウントを識別します。 お客様に送信されたトークンの受信アドレスです。"
+wallet_address,ウォレットアドレス
+verify_phone_description,携帯番号の確認のためにSMS経由でアクセスコードをお送りします
+your_mobile_number,"お客様の携帯番号 +xx xxxxxxxxx"
+resend_sms_code,SMSコードを再送する
+get_sms_code,SMSコードを取得する
+verify_code_description,確認コードを下記にご入力してください。
+verify_code,コードを確認する
+enter_sms_code,SMSコードご記入ください
+set_pin_again_title,暗証番号を再度ご入力ください
+title_home,ホームページ
+invalid_phone_number,無効な携帯番号
+invalid_code,無効なコード
+verify_phone_with_sms,SMSで携帯番号を確認する
+account_wallet_name,HIT
+verify_phone_number,携帯番号を確認する
+create_wallet_title_1,ウォレット作成
+recover_wallet_title,ウォレット復元
+set_app_pin_title,アプリの暗証番号を設定する
+errormessage_confirm_pin_wrong,暗証番号の再度確認が一致しません
+errormessage_current_pin_wrong,既存の暗証番号が正しくありません
+errormessage_login_fail,"暗証番号が正しくありません。 もう一度お試しください"
+successmessage_change_pin_success,暗証番号の変更が成功です!
+successmessage_set_pin_success,暗証番号の設定が成功です!
+successmessage_save_basic_health_data_success,健康データの保存が成功です!
+bottom_navigation_inbox,受信トレイ
+bottom_navigation_queries,お問合せ
+bottom_navigation_health_data,健康データ
+bottom_navigation_wallet,ウォレット
+current_balance,残高
+show_private_key,秘密鍵を表示
+change_app_pin,アプリの暗証番号を変更する
+wallet_settings,ウォレットの設定
+male,男性
+female,女性
+month_of_birth,生年月日の月
+year_of_birth,生年月日の年
+height,身長
+weight,重量
+geographical_region,地域
+physical_activity,身体活動
+smoking,喫煙状況
+balance,残高
+copy_address,アドレスをコピーする
+amount,金額
+send_token,トークンを送付する
+send_tokens_successfully,トークンを送付ができました。
+confirm,確認
+send,送る
+no,いいえ
+all_tab_title,すべて
+all,すべて
+accepted,受け入れました。
+deny,拒否する
+agree_and_continue,同意して続行する
+open_url,URLを開く
+forgot_pin,パスワードを忘れました？
+close_forgot_pin,閉じる
+forgot_pin_description,"このアプリを再インストールし、バックアップフレーズを使用してウォレットを復元してください"
+other,その他
+consent_content,"以下のデータリクエストにご参加いただき、ありがとうございます。 「同意する」ボタンをクリックすると、要求されたデータを提供し、該当要求者における「個人情報保護方針」に基づき、お客様の個人情報を適切に取り扱いことを同意するという意味です。"
+consent_title,お客様のご意見は重要です
+survey_information,データの免責事項
+copy_success,コピーしました
+days_ago,日前
+hours_ago,時間前
+minutes_ago,分前
+seconds_ago,秒前
+query_from,から
+query_to,へ
+language_title,英語
+receive,受け取り
+history,歴史
+scan_qr_code,QRコードをスキャンする
+qr_code,QRコード
+scan_qr_code_title,QRコードをスキャンする
+message_read_QR_code,アドレスを正常に読み取りました
+scan_fail_title,スキャンができませんでした
+data_not_recognised_message,データが認識できませんでした。
+scan_fail_button,OK
+permission_denied,アクセスに拒否されました
+expiration_day_title,までご参加が可能
+amount_offer,報酬額
+offers_card_title,報酬
+agreement_title,ユーザー契約
+Thank_you_description,HIT財団からCentivaアプリをダウンロードしていただきありがとうございます。
+read_term_berfore_proceeding,先に進む前に、利用規約の概要をお読みください。
+first_agreement,ハイトラストは医療アプリではなく、医療アドバイスを提供することを主張するものではありません。あなたが医療を必要としているならば、医療専門家か緊急サービスに連絡してください。
+second_agreement,HITアカウントを有効にするには、少なくとも13歳以上でなければなりません。
+third_agreement,HITはあなたの健康情報を受信、保存、または第三者と共有することはありません。
+fourth_agreement,基本的な健康状態と人口統計データ、および財布データは、PINで暗号化されてモバイルデバイスのローカルストレージに保存されます。あなたがあなたの健康情報の探索者に提供するデータはすべてあなたのデバイスから探索者に直接送信されます。
+fifth_agreement,あなたは、あなたのPINと財布のバックアップを含むあなたの情報の保管に対して全責任を負います。
+sixth_agreement,このプラットフォームを通じてシーカーが要求したデータを提供する場合、シーカーのプライバシーポリシーおよび利用規約は、シーカーが提供するインセンティブだけでなく提供されたデータにも適用されます。
+agree_description,下記の[同意する]を選択することにより、あなたは私たちの利用規約とプライバシーポリシー（下記にリンクされている）に拘束されることに同意することになります。これらの利用規約はあなたの法的権利と義務に影響を与えます。あなたがこれらの利用規約のすべてに拘束されることに同意しない場合は、本サービスにアクセスしたり使用したりしないでください。
+term_of_use,利用規約
+privacy_policy,個人情報保護方針
+and_of_term_policy,そして
+decline_and_abort_registration,拒否する
+title_decline_and_abort_registration,"続行するには、利用規約とPivacy Policyに同意する必要があります"
+message_decline_and_abort_resgistration,本当にアプリケーションを終了しますか？
+not_enough_xem_warning,あなたの財布はこの取引を完了するのに十分なXEMを持っていません。
+please_get_more_xem,もっとXEMしてください
+here,ここに
+message_permission_accept,このアクセスは、HITネットワークへの登録を保護するためにのみ使用されます。アプリは電話をかけたり受けたりしません。
+language,言語：
+app_settings,アプリ設定
+app_language,アプリの言語
+only_show_query_in_language,でクエリのみを表示
+faq,よくある質問
+feedback_to_email,フィードバックを送信
+SENT,送られた
+MESSAGE,メッセージ
+TIME_TRANSACTION_DETAIL,時間
+MAIL_SHARE_ERROR_TITLE,メールアカウントなし
+MAIL_SHARE_ERROR_SUB_TITLE,メールを送信するためにメールアカウントを設定してください。
+SHARE_OPTION_TITLE,アプリを選ぶ
+STORE_BACKUP_PHRASE_BUTTON,バックアップフレーズの保存
+PASTE_BACKUP_PHRASE,バックアップフレーズを貼り付ける
+REFERRAL_CARD_TITLE,友達を招待する
+REFERRAL_DESCRIPTION,友達をHITに招待して稼ぐ
+REFERRAL_SUBDESCRIPTION,友達が登録を完了したとき
+COPY_BUTTON,紹介リンクのコピー
+QR_CODE_SHARE_DESCRIPTION,または、このQRコードを友達にスキャンしてもらいます。
+TOKEN_DESCRIPTION,トークン
+REDEEM_POPUP_TITLE,償還情報
+REDEEM_POPUP_MESSAGE,クーポンはに送信されます
+REDEEM_SUCCESSFUL_MESSAGE,引き換えは成功しました。あなたはまもなく請求情報を受け取るでしょう。
+REDEEM_HIGLIGHTS,ハイライト
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,ヒットトークンが必要
+REDEEM_QUANTITY_DESCRIPTION,あなたが得る
+REDEEM_BUTTON,今すぐ交換
+INFO,情報
+USER_INFO_REDEMPTION,償還
+USER_INFO_REDEMPTION_BUTTON,引き換える
+AVAILABLE_QUERIES_HOME_PAGE,利用可能
+COPY_CONFIRMATION_DETAIL,確認詳細のコピー
+COPYRIGHT,著作権情報＃9400;ヒット財団2019
+APP_VERSION,アプリのバージョン
+DEVICE_MODEL,デバイスモデル
+OS_VERSION,OSのバージョン
+MANUFACTURER,メーカー
+COPY,コピーする
+ABOUT,約
+OK,Ok
+REENTER_HEALTH_DATA_TITLE,健康データが空です
+REENTER_HEALTH_DATA_MESSAGE,アプリの更新後、健康データを読み取ることができませんでした。再入力してください
+VERIFY_PHONE_AGAIN_TITLE,SMSで電話を確認できない
+VERIFY_PHONE_AGAIN_MESSAGE,HITボーナスを獲得するには、もう一度確認してください
+PLEASE_GET_MORE_HIT,もっとHITを取得してください
+GET_SMS_CODE_FAIL_TITLE,SMSコードを受信できません
+GET_SMS_CODE_FAIL_CONTENT,"指定された電話番号は正しい形式ではなく、電話番号は[+] [国コード] [市外局番付きのユーザー番号]の形式で記述されています。"
+INCOMPLETE_BASIC_HEATH_TITLE,不完全な基本的な健康データ
+INCOMPLETE_BASIC_HEATH_CONTENT,"Centivaアプリを最大限に活用するには、基本的な健康情報を完全かつ最新の状態に維持してください。 この情報はデバイスにのみ保存され、あなたに適用されるリクエストを選択するために使用されます。 誰とも共有していません。"
+REDEMPTION_DETAILS,特典交換の詳細
+SHOW_DETAILS_USER_DATA,詳細を表示
+REDEMPTION_ID_DESCRIPTION,引き換え番号：
+OFFER_PAGE_TITLE,オファーの詳細
+BY_CHOOSING_AGREE,「同意する」を選択すると、同意します
+PROVIDER_LIST,Providers (XR18357)
+VERIFY_PROVIDER,"Provider Added (XR18357)"
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
+PROVIDER_NAME,サプライヤー名
+PROVIDER_ADDR,サプライヤーの住所
+YOUR_ID,あなたのID
+VERIFY_PROVIDER_FAIL,"The provider information is not valid. (XR18357)"
+VERIFY_PROVIDER_SUCCESS,"The provider was added successfully. (XR18357)"
+ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
+VERIFY,確認する
+VERIFY_MNEMONIC_SAVE_BUTTON,Save (XR18357)
+TITLE_VERIFY_MNEMONIC,Your words selected (XR18357)
+NUMBER_KEYBOARD_1,1
+NUMBER_KEYBOARD_2,2
+NUMBER_KEYBOARD_3,3
+NUMBER_KEYBOARD_4,4
+NUMBER_KEYBOARD_5,5
+NUMBER_KEYBOARD_6,6
+NUMBER_KEYBOARD_7,7
+NUMBER_KEYBOARD_8,8
+NUMBER_KEYBOARD_9,9
+NUMBER_KEYBOARD_0,0
+ADD_PROVIDER_TITLE,"Add Provider (XR18357)"
+REVIEW_PROVIDER_TITLE,"Provider (XR18357)"
+PATIENT_NAME,"Patient name (XR18357)"
+NAME_NOT_PROVIDE,"Name not provided (XR18357)"
+QR_SCAN_CONNECTION_ERROR,"Connection error (XR18357)"
+QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used (XR18357)"
+QR_SCAN_VERIFY_DATA_FALSE,"Verify data false (XR18357)"
+QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false (XR18357)"
+PATIENT_NAME,"Patient name (XR18357)"
+NAME_NOT_PROVIDE,"Name not provided (XR18357)"
+ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers (XR18357)"
