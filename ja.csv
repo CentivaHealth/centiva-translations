@@ -248,7 +248,7 @@ agree_and_continue,同意して続行する
 open_url,URLを開く
 forgot_pin,パスワードを忘れました？
 close_forgot_pin,閉じる
-forgot_pin_description,"このアプリを再インストールし、バックアップフレーズを使用してウォレットを復元してください"
+forgot_pin_description,このアプリを再インストールし、バックアップフレーズを使用してウォレットを復元してください
 other,その他
 consent_content,"以下のデータリクエストにご参加いただき、ありがとうございます。 「同意する」ボタンをクリックすると、要求されたデータを提供し、該当要求者における「個人情報保護方針」に基づき、お客様の個人情報を適切に取り扱いことを同意するという意味です。"
 consent_title,お客様のご意見は重要です
@@ -348,18 +348,18 @@ SHOW_DETAILS_USER_DATA,詳細を表示
 REDEMPTION_ID_DESCRIPTION,引き換え番号：
 OFFER_PAGE_TITLE,オファーの詳細
 BY_CHOOSING_AGREE,「同意する」を選択すると、同意します
-PROVIDER_LIST,Providers (XR18357)
-VERIFY_PROVIDER,"Provider Added (XR18357)"
-VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
+VERIFY_PROVIDER,サプライヤーを確認
 PROVIDER_NAME,サプライヤー名
 PROVIDER_ADDR,サプライヤーの住所
 YOUR_ID,あなたのID
-VERIFY_PROVIDER_FAIL,"The provider information is not valid. (XR18357)"
-VERIFY_PROVIDER_SUCCESS,"The provider was added successfully. (XR18357)"
-ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
+VERIFY_PROVIDER_FAIL,ベンダーを確認できませんでした
+VERIFY_PROVIDER_SUCCESS,サプライヤーの成功を検証する
 VERIFY,確認する
-VERIFY_MNEMONIC_SAVE_BUTTON,Save (XR18357)
-TITLE_VERIFY_MNEMONIC,Your words selected (XR18357)
+PROVIDER_LIST,"Providers (XR18357)"
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
+ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
+VERIFY_MNEMONIC_SAVE_BUTTON,"Save (XR18357)"
+TITLE_VERIFY_MNEMONIC,"Your words selected (XR18357)"
 NUMBER_KEYBOARD_1,1
 NUMBER_KEYBOARD_2,2
 NUMBER_KEYBOARD_3,3
@@ -378,6 +378,6 @@ QR_SCAN_CONNECTION_ERROR,"Connection error (XR18357)"
 QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used (XR18357)"
 QR_SCAN_VERIFY_DATA_FALSE,"Verify data false (XR18357)"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false (XR18357)"
-PATIENT_NAME,"Patient name (XR18357)"
-NAME_NOT_PROVIDE,"Name not provided (XR18357)"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers (XR18357)"
+﻿ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,
+NEW_KEY,Translated
