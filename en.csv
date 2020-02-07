@@ -348,18 +348,18 @@ SHOW_DETAILS_USER_DATA,"Show Details"
 REDEMPTION_ID_DESCRIPTION,"Redemption ID:"
 OFFER_PAGE_TITLE,"Offer Detail"
 BY_CHOOSING_AGREE,"By choosing ""Agree"" you accept our "
-PROVIDER_LIST,Providers
-VERIFY_PROVIDER,"Provider Added"
-VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion"
+VERIFY_PROVIDER,"Verify provider"
 PROVIDER_NAME,"Provider name"
 PROVIDER_ADDR,"Provider address"
 YOUR_ID,"Your id"
-VERIFY_PROVIDER_FAIL,"The provider information is not valid."
-VERIFY_PROVIDER_SUCCESS,"The provider was added successfully."
-ALREADY_ADDED_PROVIDER,"Already added provider"
+VERIFY_PROVIDER_FAIL,"Can not verify provider"
+VERIFY_PROVIDER_SUCCESS,"Verify provider success"
 VERIFY,Verify
+PROVIDER_LIST,Providers
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion"
+ALREADY_ADDED_PROVIDER,"Already added provider"
 VERIFY_MNEMONIC_SAVE_BUTTON,Save
-TITLE_VERIFY_MNEMONIC,Your words selected
+TITLE_VERIFY_MNEMONIC,"Your words selected"
 NUMBER_KEYBOARD_1,1
 NUMBER_KEYBOARD_2,2
 NUMBER_KEYBOARD_3,3
@@ -371,11 +371,10 @@ NUMBER_KEYBOARD_8,8
 NUMBER_KEYBOARD_9,9
 NUMBER_KEYBOARD_0,0
 ADD_PROVIDER_TITLE,"Add Provider"
-REVIEW_PROVIDER_TITLE,"Provider"
+REVIEW_PROVIDER_TITLE,Provider
 PATIENT_NAME,"Patient name"
 NAME_NOT_PROVIDE,"Name not provided"
 QR_SCAN_CONNECTION_ERROR,"Connection error"
 QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used"
 QR_SCAN_VERIFY_DATA_FALSE,"Verify data false"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false"
-ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers"
