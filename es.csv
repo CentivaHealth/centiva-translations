@@ -1,14 +1,14 @@
-﻿ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,Su cuenta no tiene fondos suficientes
-ALERT_MOSAIC_IS_NOT_TRANSFERABLE,El mosaico seleccionado no es transferible
-ALERT_ONLY_MOBILE_DEVICE,Esta funcionalidad solo está disponible en dispositivos móviles
-ALERT_PHONE_DISCONNECTED,Su teléfono está desconectado de Internet
-ALERT_SUBTITLE_PHONE_DISCONNECTED,Abra la aplicación nuevamente una vez que tenga conexión a Internet
-ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,La dirección no es válida para esta red
-ENTER_ALL_FIELDS,Por favor llene todos los campos
-INVALID_PASSPHRASE,Frase de contraseña inválida
-NOT_ENOUGH_HIT,Su cartera no tiene suficientes HIT para completar esta transacción
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your account has insufficient funds."
+ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"El mosaico seleccionado no es transferible"
+ALERT_ONLY_MOBILE_DEVICE,"Esta funcionalidad solo está disponible en dispositivos móviles"
+ALERT_PHONE_DISCONNECTED,"Su teléfono está desconectado de Internet"
+ALERT_SUBTITLE_PHONE_DISCONNECTED,"Abra la aplicación nuevamente una vez que tenga conexión a Internet"
+ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"La dirección no es válida para esta red"
+ENTER_ALL_FIELDS,"Por favor llene todos los campos"
+INVALID_PASSPHRASE,"Frase de contraseña inválida"
+NOT_ENOUGH_HIT,"Su cartera no tiene suficientes HIT para completar esta transacción"
 GENDER,Género
-LOAD_MORE_TRANSACTION,Cargar más transacciones
+LOAD_MORE_TRANSACTION,"Cargar más transacciones"
 LANGUAGES.en,inglés
 LANGUAGES.de,alemán
 LANGUAGES.fr,francés
@@ -29,337 +29,341 @@ SEPTEMBER,septiembre
 OCTOBER,octubre
 NOVEMBER,noviembre
 DECEMBER,diciembre
-SMOKER_STATUS_NON_SMOKER,no fumador
-SMOKER_STATUS_OCCASIONAL,fumador ocasional
-SMOKER_STATUS_REGULAR,fumador habitual
-SMOKER_STATUS_HEAVY,fumador crónico
-PHYSICAL_ACTIVITY_LOW,baja actividad física
-PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,actividad física ocasional
+SMOKER_STATUS_NON_SMOKER,"no fumador"
+SMOKER_STATUS_OCCASIONAL,"fumador ocasional"
+SMOKER_STATUS_REGULAR,"fumador habitual"
+SMOKER_STATUS_HEAVY,"fumador crónico"
+PHYSICAL_ACTIVITY_LOW,"baja actividad física"
+PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,"actividad física ocasional"
 PHYSICAL_ACTIVITY_REGULAR,regular
 PHYSICAL_ACTIVITY_HIGHT,alta
 cancel,cancelar
-errormessage_error_occured,Se ha producido un error
-errormessage_server_error_occured,Se produjo un error de servidor
-progress_dialog_wait_message,Por favor espere
-welcome,Bienvenido a
-welcome_content,Health Information Traceability\nTokenizamos la información de la salud \nCreamos la moneda del sector sanitario del futuro
-recover_existing_wallet,Recuperar la cartera existente
-create_new_wallet,Crear una nueva cartera
-info_foundation,Fundación HIT
-recover_description,Por favor intruduzca la frase de contraseña para recuperar su cartera
-backup_phrase_hint,Por favor introduzca la frase de contraseña
-backup_phrase_popup_title,Ha copiado y guardado la frase de contraseña?
+errormessage_error_occured,"Se ha producido un error"
+errormessage_server_error_occured,"Se produjo un error de servidor"
+progress_dialog_wait_message,"Por favor espere"
+welcome,"Bienvenido a"
+welcome_content,"Health Information Traceability
+Tokenizamos la información de la salud 
+Creamos la moneda del sector sanitario del futuro"
+recover_existing_wallet,"Recuperar la cartera existente"
+create_new_wallet,"Crear una nueva cartera"
+info_foundation,"Fundación HIT"
+recover_description,"Por favor intruduzca la frase de contraseña para recuperar su cartera"
+backup_phrase_hint,"Por favor introduzca la frase de contraseña"
+backup_phrase_popup_title,"Ha copiado y guardado la frase de contraseña?"
 backup_phrase_popup_message,"Si no, por favor vuelva a la pantalla anterior y haga copia. No se puede recuperar la cartera sin ella"
 backup_phrase_popup_positive_button,Sí
 backup_phrase_popup_negative_button,"No, vuelva"
-recover_wallet,Recuperar la cartera
-recover_wallet_success,Se ha recuperado la cartera con éxito
-pin_description,Utilizar la aplicación sin un PIN. ADVERTENCIA: Cualquier persona que tenga acceso a su dispositivo móvil podrá entrar en esta aplicación y en su cartera de HITs!
-set_pin_title,Set your App pin (XR18357)
-step_1_2,1 / 2 (XR18357)
-step_2_2,2 / 2 (XR18357)
-set_app_pin_first_description_first,First we need to set up a few things. (XR18357)
-set_app_pin_first_description_second,Let's start with setting your pin (XR18357)
-enter_pin_again,Enter Pin Again (XR18357)
-enter_pin_here,Enter Pin here (XR18357)
-enter_pin_here_again,Enter Pin here again  (XR18357)
-pin_does_not_match,Pin does not match. Try again or go back to set a different pin. (XR18357)
-create_wallet_step_1_3,1 / 3 (XR18357)
-create_wallet_step_2_3,2 / 3 (XR18357)
-create_wallet_step_3_3,3 / 3 (XR18357)
-creating_back_up_phrase,Creating your backup phrase (XR18357)
+recover_wallet,"Recuperar la cartera"
+recover_wallet_success,"Se ha recuperado la cartera con éxito"
+pin_description,"Utilizar la aplicación sin un PIN. ADVERTENCIA: Cualquier persona que tenga acceso a su dispositivo móvil podrá entrar en esta aplicación y en su cartera de HITs!"
+set_pin_title,"Set your App pin (XR18357)"
+step_1_2,"1 / 2 (XR18357)"
+step_2_2,"2 / 2 (XR18357)"
+set_app_pin_first_description_first,"First we need to set up a few things. (XR18357)"
+set_app_pin_first_description_second,"Let's start with setting your pin (XR18357)"
+enter_pin_again,"Enter Pin Again (XR18357)"
+enter_pin_here,"Enter Pin here (XR18357)"
+enter_pin_here_again,"Enter Pin here again  (XR18357)"
+pin_does_not_match,"Pin does not match. Try again or go back to set a different pin. (XR18357)"
+create_wallet_step_1_3,"1 / 3 (XR18357)"
+create_wallet_step_2_3,"2 / 3 (XR18357)"
+create_wallet_step_3_3,"3 / 3 (XR18357)"
+creating_back_up_phrase,"Creating your backup phrase (XR18357)"
 backup_detail,"To make your backup phrase secure, we create a long passphrase to identify yourself with your account. (XR18357)"
-creating_randomness,Creating randomness... (XR18357)
-tap_to_copy,Tap to copy! (XR18357)
-remind_save_backup_phrase,Please save it in a secure location. You will need the passphrase to recover your wallet if reistalling the app (XR18357)
-created_wallet_description,Your wallet has been created. (XR18357)
-purpose_of_address,It is used to identify your wallet. Tokens you receive will be sent to this addess (XR18357)
-view_wallet_address_later,You can view your address later in your wallet (XR18357)
-mnemonic_title,Mnemonic Confirmation (XR18357)
-backup_phrase_mnemonic_description,Backup phrase: (XR18357)
-select_all_words_mnemonic_anounce,Please select all words. (XR18357)
-words_select_mnemonic,Please select words below to create your backup phrase: (XR18357)
-verify_phone_number_title,Verify Phone Number (XR18357)
-country_description,Country (XR18357)
-phone_number_description,Phone Number (XR18357)
-get_access_code_btn,Get Access Code (XR18357)
-health_data_title,Health Data (XR18357)
-location_description,Location (XR18357)
-physics_description,Physics (XR18357)
-health_description,Health (XR18357)
-health_conditions_description,Health Conditions
-location_explain,This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)
-physics_explain,This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)
-health_explain,This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)
-store_only_on_device,DATA STORED ON DEVICE ONLY. This data is not shared or transmitted! (XR18357)
-gender_question,What's your gender? (XR18357)
-invalid_weight,Invalid weight! (XR18357)
-invalid_height,Invalid height! (XR18357)
-next_page_btn,Next Page (XR18357)
-profile_btn,Profile (XR18357)
-done_btn,Done (XR18357)
-transactions_description,Transactions (XR18357)
-invite_friend_sub_description_1,Get up to (XR18357)
-invite_friend_sub_description_2,HIT for every friend who join! (XR18357)
-new_available_queries,new available: (XR18357)
-you_have_no_queries_yet,You have no accepted queries yet (XR18357)
-do_some_fancy_questionnaire,Do some fancy questionnaire and find your accepted queries here. (XR18357)
-title_show_all,Show all (XR18357)
-your_inbox_is_empty,Your inbox is empty. (XR18357)
-please_check_back_later,Please check back later. (XR18357)
-information_query_detail_description,Information (XR18357)
-time_need,Time needed: (XR18357)
-available_until,Available until: (XR18357)
-app_profile_setting,Settings (XR18357)
-enter_your_pin_pin_page,Enter your PIN (XR18357)
-enter_your_back_up_phrase,Enter Backup Phrase: (XR18357)
-my_wallet_is_long_hex_string,My backup is a long hex string (XR18357)
-enter_pin_to_show_backup,Enter your App Pin to show the Passphrase (XR18357)
-enter_pin_to_show_private_key,Enter your App Pin to show the Private Key (XR18357)
-pending_transactions,Pending (XR18357)
-help_agreement_btn,Help (XR18357)
-receive_token,Receive tokens (XR18357)
-purpose_query_detail,Purpose: (XR18357)
-redeem_highlights_new,Highlights: (XR18357)
-receive_token_title,Receive token (XR18357)
-address_description_receive_token_page,This is your address: (XR18357)
+creating_randomness,"Creating randomness... (XR18357)"
+tap_to_copy,"Tap to copy! (XR18357)"
+remind_save_backup_phrase,"Please save it in a secure location. You will need the passphrase to recover your wallet if reistalling the app (XR18357)"
+created_wallet_description,"Your wallet has been created. (XR18357)"
+purpose_of_address,"It is used to identify your wallet. Tokens you receive will be sent to this addess (XR18357)"
+view_wallet_address_later,"You can view your address later in your wallet (XR18357)"
+mnemonic_title,"Mnemonic Confirmation (XR18357)"
+backup_phrase_mnemonic_description,"Backup phrase: (XR18357)"
+select_all_words_mnemonic_anounce,"Please select all words. (XR18357)"
+words_select_mnemonic,"Please select words below to create your backup phrase: (XR18357)"
+verify_phone_number_title,"Verify Phone Number (XR18357)"
+country_description,"Country (XR18357)"
+phone_number_description,"Phone Number (XR18357)"
+get_access_code_btn,"Get Access Code (XR18357)"
+health_data_title,"Health Data (XR18357)"
+location_description,"Location (XR18357)"
+physics_description,"Physics (XR18357)"
+health_description,"Health (XR18357)"
+health_conditions_description,"Health Conditions"
+location_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)"
+physics_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)"
+health_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)"
+store_only_on_device,"DATA STORED ON DEVICE ONLY. This data is not shared or transmitted! (XR18357)"
+gender_question,"What's your gender? (XR18357)"
+invalid_weight,"Invalid weight! (XR18357)"
+invalid_height,"Invalid height! (XR18357)"
+next_page_btn,"Next Page (XR18357)"
+profile_btn,"Profile (XR18357)"
+done_btn,"Done (XR18357)"
+transactions_description,"Transactions (XR18357)"
+invite_friend_sub_description_1,"Get up to (XR18357)"
+invite_friend_sub_description_2,"HIT for every friend who join! (XR18357)"
+new_available_queries,"new available: (XR18357)"
+you_have_no_queries_yet,"You have no accepted queries yet (XR18357)"
+do_some_fancy_questionnaire,"Do some fancy questionnaire and find your accepted queries here. (XR18357)"
+title_show_all,"Show all (XR18357)"
+your_inbox_is_empty,"Your inbox is empty. (XR18357)"
+please_check_back_later,"Please check back later. (XR18357)"
+information_query_detail_description,"Information (XR18357)"
+time_need,"Time needed: (XR18357)"
+available_until,"Available until: (XR18357)"
+app_profile_setting,"Settings (XR18357)"
+enter_your_pin_pin_page,"Enter your PIN (XR18357)"
+enter_your_back_up_phrase,"Enter Backup Phrase: (XR18357)"
+my_wallet_is_long_hex_string,"My backup is a long hex string (XR18357)"
+enter_pin_to_show_backup,"Enter your App Pin to show the Passphrase (XR18357)"
+enter_pin_to_show_private_key,"Enter your App Pin to show the Private Key (XR18357)"
+pending_transactions,"Pending (XR18357)"
+help_agreement_btn,"Help (XR18357)"
+receive_token,"Receive tokens (XR18357)"
+purpose_query_detail,"Purpose: (XR18357)"
+redeem_highlights_new,"Highlights: (XR18357)"
+receive_token_title,"Receive token (XR18357)"
+address_description_receive_token_page,"This is your address: (XR18357)"
 tap_copy_address_description,"to receive HIT Token, just tap the address above to copy it. Then paste it  (XR18357)"
-scan_qr_description,Provide your address with custom QR code: (XR18357)
-hex_back_up_phrase,Hex back up phrase: (XR18357)
-referral_link_description,This is your referral link: (XR18357)
-referral_instruction_1,Invite a friend to HIT and earn (XR18357)
-referral_instruction_2,HIT tokens when your friend completes their registration. Just tap the link above to copy it and paste the link in an invitation email or instant message that you can send to your friend (XR18357)
-where_referral,(where?) (XR18357)
-save_back_up_phrase_title,Save Backup Phrase (XR18357)
-save_mnemonic_description,Please save this Mnemotic Backup Phrase in a secure location. You will need the passphrase to recover your wallet if reinstalling the app. (XR18357)
-save_passphrase_description,Please copy and save your backup Passphrase in a secure location. You will need the passphrase to recover your wallet if you reinstalling the app. (XR18357)
-next_word_match,Next: Word Match (XR18357)
-recipient,Recipient (XR18357)
-hit_available_amount,Available Amount: (XR18357)
-tx_fee,Transaction fee: (XR18357)
-xem_available,Append "XEM": (XR18357)
-add_xem_to_your_wallet,Add XEM to your wallet. Click (XR18357)
-for_instruction,for instructions. (XR18357)
-recipient_address_description,Recipient address: (XR18357)
-transaction_summary,Transaction summary (XR18357)
-sent_description,Sent (XR18357)
+scan_qr_description,"Provide your address with custom QR code: (XR18357)"
+hex_back_up_phrase,"Hex back up phrase: (XR18357)"
+referral_link_description,"This is your referral link: (XR18357)"
+referral_instruction_1,"Invite a friend to HIT and earn (XR18357)"
+referral_instruction_2,"HIT tokens when your friend completes their registration. Just tap the link above to copy it and paste the link in an invitation email or instant message that you can send to your friend (XR18357)"
+where_referral,"(where?) (XR18357)"
+save_back_up_phrase_title,"Save Backup Phrase (XR18357)"
+save_mnemonic_description,"Please save this Mnemotic Backup Phrase in a secure location. You will need the passphrase to recover your wallet if reinstalling the app. (XR18357)"
+save_passphrase_description,"Please copy and save your backup Passphrase in a secure location. You will need the passphrase to recover your wallet if you reinstalling the app. (XR18357)"
+next_word_match,"Next: Word Match (XR18357)"
+recipient,"Recipient (XR18357)"
+hit_available_amount,"Available Amount: (XR18357)"
+tx_fee,"Transaction fee: (XR18357)"
+xem_available,"Append ""XEM"": (XR18357)"
+add_xem_to_your_wallet,"Add XEM to your wallet. Click (XR18357)"
+for_instruction,"for instructions. (XR18357)"
+recipient_address_description,"Recipient address: (XR18357)"
+transaction_summary,"Transaction summary (XR18357)"
+sent_description,"Sent (XR18357)"
 ok_cool_btn,"Ok, cool! (XR18357)"
-detail_description,Details: (XR18357)
-message_description,Message: (XR18357)
-transaction_id,Transaction ID (XR18357)
-action_description,Actions: (XR18357)
-send_token_btn_tx_detail,Send Token (XR18357)
-receive_token_btn_tx_detail,Receive Token (XR18357)
-scan_code_btn_tx_detail,Scan Code (XR18357)
-redemption_info_title,Redemption Info (XR18357)
-access_code_description,Access Code (XR18357)
-wallet_passphrase_title,Wallet PassPhrase (XR18357)
-warning_descript_1,Security Update available (XR18357)
-warning_descript_2,Create your new mnemonic backup-pharase now. (XR18357)
-wallet_private_key_title,Wallet Private Key (XR18357)
-INVALID_ACCESS_CODE_TITLE,Invalid access code (XR18357)
-INVALID_ACCESS_CODE_CONTENT,Please make sure you enter correct access code (XR18357)
-transaction_confirm_title,Confirm (XR18357)
-button_negative_send,Don't send (XR18357)
-request_camera_permission_title,Cannot access the Camera (XR18357)
-request_camera_permission_sub_title,Centiva don't have Camera access permision. Allow the permission so you can use QR code scanner.<br>Go to 'Setting' => Choose 'Centiva' => Allow access 'Camera' (XR18357)
-button_positive_permission,Allow access (XR18357)
-birth_month_selector,Birth Month (XR18357)
-birth_year_selector,Birth Year (XR18357)
-denied_query_btn,Denied (XR18357)
-continue_btn,Continue (XR18357)
-copy_address_success,Address code copied! (XR18357)
-receive_tx_detail_title,Received (XR18357)
-transaction_detail_redemption,(Redemption) (XR18357)
-warning_create_wallet_back_up_1,Wallet Backup (XR18357)
-warning_create_wallet_back_up_2,Create you wallet backup now. (XR18357)
-words_not_match_message,Words do not match (XR18357)
-tap_here,Tap here (XR18357)
-change_to_mnemonic_toast_notification,Here goes a successfully saved notification! (XR18357)
-current_pin_title,Introduzca su PIN actual
-new_pin_title,Introduzca el nuevo PIN
-set_pin,Establecer el PIN
+detail_description,"Details: (XR18357)"
+message_description,"Message: (XR18357)"
+transaction_id,"Transaction ID (XR18357)"
+action_description,"Actions: (XR18357)"
+send_token_btn_tx_detail,"Send Token (XR18357)"
+receive_token_btn_tx_detail,"Receive Token (XR18357)"
+scan_code_btn_tx_detail,"Scan Code (XR18357)"
+redemption_info_title,"Redemption Info (XR18357)"
+access_code_description,"Access Code (XR18357)"
+wallet_passphrase_title,"Wallet PassPhrase (XR18357)"
+warning_descript_1,"Security Update available (XR18357)"
+warning_descript_2,"Create your new mnemonic backup-pharase now. (XR18357)"
+wallet_private_key_title,"Wallet Private Key (XR18357)"
+INVALID_ACCESS_CODE_TITLE,"Invalid access code (XR18357)"
+INVALID_ACCESS_CODE_CONTENT,"Please make sure you enter correct access code (XR18357)"
+transaction_confirm_title,"Confirm (XR18357)"
+button_negative_send,"Don't send (XR18357)"
+request_camera_permission_title,"Cannot access the Camera (XR18357)"
+request_camera_permission_sub_title,"Centiva don't have Camera access permision. Allow the permission so you can use QR code scanner.<br>Go to 'Setting' => Choose 'Centiva' => Allow access 'Camera' (XR18357)"
+button_positive_permission,"Allow access (XR18357)"
+birth_month_selector,"Birth Month (XR18357)"
+birth_year_selector,"Birth Year (XR18357)"
+denied_query_btn,"Denied (XR18357)"
+continue_btn,"Continue (XR18357)"
+copy_address_success,"Address code copied! (XR18357)"
+receive_tx_detail_title,"Received (XR18357)"
+transaction_detail_redemption,"(Redemption) (XR18357)"
+warning_create_wallet_back_up_1,"Wallet Backup (XR18357)"
+warning_create_wallet_back_up_2,"Create you wallet backup now. (XR18357)"
+words_not_match_message,"Words do not match (XR18357)"
+tap_here,"Tap here (XR18357)"
+change_to_mnemonic_toast_notification,"Here goes a successfully saved notification! (XR18357)"
+current_pin_title,"Introduzca su PIN actual"
+new_pin_title,"Introduzca el nuevo PIN"
+set_pin,"Establecer el PIN"
 skip,Saltar
-change_pin,Cambiar el PIN
-generate_randomness,Generador de números aleatorios
+change_pin,"Cambiar el PIN"
+generate_randomness,"Generador de números aleatorios"
 next,Siguiente
-backup_phrase,Frase de contraseña
-copy_phrase,Copiar la Frase
-backup_phrase_description,Esta es su frase de contraseña
-public_key,Llave pública
-public_key_description,Para uso interno de la aplicación y así poder generar transacciones y firmas digitales en la autenticación
-private_key,Llave privada
-private_key_description,Para uso interno de la aplicación y así poder obtener Tokens y gastarlos en la cartera. Guardar con cuidádo
-wallet_address_description,Se ha creado su cartera. Ver dirección de la cartera abajo. Se utiliza para identificar su cartera. Los Tokens obtenidos se enviarán a esta dirección
-wallet_address,Dirección de la cartera
-verify_phone_description,Le enviaremos un código de accesso por SMS para verificar el número de teléfono móvil
-your_mobile_number,Su número de teléfono móvil
-resend_sms_code,Enviar nuevamente el código de SMS
-get_sms_code,Obtener el código de SMS
-verify_code_description,Introduzca su código de confirmación
-verify_code,Confirmar código
-enter_sms_code,Introduzca su código de SMS
-set_pin_again_title,Introduzca nuevamente su PIN
+backup_phrase,"Frase de contraseña"
+copy_phrase,"Copiar la Frase"
+backup_phrase_description,"Esta es su frase de contraseña"
+public_key,"Llave pública"
+public_key_description,"Para uso interno de la aplicación y así poder generar transacciones y firmas digitales en la autenticación"
+private_key,"Llave privada"
+private_key_description,"Para uso interno de la aplicación y así poder obtener Tokens y gastarlos en la cartera. Guardar con cuidádo"
+wallet_address_description,"Se ha creado su cartera. Ver dirección de la cartera abajo. Se utiliza para identificar su cartera. Los Tokens obtenidos se enviarán a esta dirección"
+wallet_address,"Dirección de la cartera"
+verify_phone_description,"Le enviaremos un código de accesso por SMS para verificar el número de teléfono móvil"
+your_mobile_number,"Su número de teléfono móvil"
+resend_sms_code,"Enviar nuevamente el código de SMS"
+get_sms_code,"Obtener el código de SMS"
+verify_code_description,"Introduzca su código de confirmación"
+verify_code,"Confirmar código"
+enter_sms_code,"Introduzca su código de SMS"
+set_pin_again_title,"Introduzca nuevamente su PIN"
 title_home,Inicio
-invalid_phone_number,Número de teléfono invalido
-invalid_code,Código inválido
-verify_phone_with_sms,Verificar teléfono con el SMS
+invalid_phone_number,"Número de teléfono invalido"
+invalid_code,"Código inválido"
+verify_phone_with_sms,"Verificar teléfono con el SMS"
 account_wallet_name,HIT
-verify_phone_number,Verificar número de teléfono
-create_wallet_title_1,Crear Cartera
-recover_wallet_title,Recuperar cartera
-set_app_pin_title,Establecer el PIN de la aplicación
-errormessage_confirm_pin_wrong,El PIN de confirmación no coincide
-errormessage_current_pin_wrong,PIN actual inválido
-errormessage_login_fail,PIN inválido. Por favor trate nuevamente
-successmessage_change_pin_success,Se ha cambiado el PIN con éxito!
-successmessage_set_pin_success,Se ha establecido el PIN con éxito!
-successmessage_save_basic_health_data_success,Se han guardado los datos sanitarios con éxito!
+verify_phone_number,"Verificar número de teléfono"
+create_wallet_title_1,"Crear Cartera"
+recover_wallet_title,"Recuperar cartera"
+set_app_pin_title,"Establecer el PIN de la aplicación"
+errormessage_confirm_pin_wrong,"El PIN de confirmación no coincide"
+errormessage_current_pin_wrong,"PIN actual inválido"
+errormessage_login_fail,"PIN inválido. Por favor trate nuevamente"
+successmessage_change_pin_success,"Se ha cambiado el PIN con éxito!"
+successmessage_set_pin_success,"Se ha establecido el PIN con éxito!"
+successmessage_save_basic_health_data_success,"Se han guardado los datos sanitarios con éxito!"
 bottom_navigation_inbox,Buzón
 bottom_navigation_queries,Consultas
-bottom_navigation_health_data,Datos sanitarios
+bottom_navigation_health_data,"Datos sanitarios"
 bottom_navigation_wallet,Cartera
-current_balance,Saldo actual
-show_private_key,Mostrar la Llave Privada
-change_app_pin,Cambiar el PIN de la aplicación
-wallet_settings,Configuración de la cartera
+current_balance,"Saldo actual"
+show_private_key,"Mostrar la Llave Privada"
+change_app_pin,"Cambiar el PIN de la aplicación"
+wallet_settings,"Configuración de la cartera"
 male,Hombre
 female,Mujer
-month_of_birth,Mes de nacimiento
-year_of_birth,Año de nacimiento
+month_of_birth,"Mes de nacimiento"
+year_of_birth,"Año de nacimiento"
 height,Altura
 weight,Peso
 geographical_region,Región
-physical_activity,Actividad física
+physical_activity,"Actividad física"
 smoking,Fumar
 balance,Saldo
-copy_address,Copiar la dirección
+copy_address,"Copiar la dirección"
 amount,Cantidad
-send_token,Enviar Tokens
-send_tokens_successfully,Se ha enviado Tokens con éxito
+send_token,"Enviar Tokens"
+send_tokens_successfully,"Se ha enviado Tokens con éxito"
 confirm,Confirmar
-send,Enviar Tokens
-no,No se ha podido enviar Tokens
+send,"Enviar Tokens"
+no,"No se ha podido enviar Tokens"
 all_tab_title,Todo
 all,Todo
 accepted,Acceptado
 deny,Denegado
-agree_and_continue,Acceptar y Continuar
-open_url,Abrir la URL
-forgot_pin,Forgot your PIN? (XR18357)
+agree_and_continue,"Acceptar y Continuar"
+open_url,"Abrir la URL"
+forgot_pin,"Forgot your PIN? (XR18357)"
 close_forgot_pin,Cerrar
-forgot_pin_description,Por favor volver a instalar y habilitar esta aplicación\n Frase de respaldo para recuperar la cartera
+forgot_pin_description,"Por favor volver a instalar y habilitar esta aplicación
+ Frase de respaldo para recuperar la cartera"
 other,Otro
-consent_content,"Agradecemos su disposición para participar en la siguiente solicitud de datos.\n Haciendo clic en Acceptar, Usted dará su consetimiento para aportar los datos solicitados y aceptará que sus datos personales sean procesados según la Política de Privacidad que se aplica y que ha sido descrita anteriormente."
-consent_title,Su opinión cuenta
-survey_information,Aviso legal y protección de datos
+consent_content,"Agradecemos su disposición para participar en la siguiente solicitud de datos.
+ Haciendo clic en Acceptar, Usted dará su consetimiento para aportar los datos solicitados y aceptará que sus datos personales sean procesados según la Política de Privacidad que se aplica y que ha sido descrita anteriormente."
+consent_title,"Su opinión cuenta"
+survey_information,"Aviso legal y protección de datos"
 copy_success,Copiado
-days_ago,hace unos días
-hours_ago,hace unas horas
-minutes_ago,hace unos minutos
-seconds_ago,hace unos segundos
+days_ago,"hace unos días"
+hours_ago,"hace unas horas"
+minutes_ago,"hace unos minutos"
+seconds_ago,"hace unos segundos"
 query_from,de
 query_to,a
 language_title,inglés
 receive,recibir
 history,historial
-scan_qr_code,Escanear el código QR
-qr_code,código QR
-scan_qr_code_title,Escanear el código QR
-message_read_QR_code,Se ha leido la dirección con éxito!
-scan_fail_title,No se pudo escanear
-data_not_recognised_message,Datos no reconocidos
+scan_qr_code,"Escanear el código QR"
+qr_code,"código QR"
+scan_qr_code_title,"Escanear el código QR"
+message_read_QR_code,"Se ha leido la dirección con éxito!"
+scan_fail_title,"No se pudo escanear"
+data_not_recognised_message,"Datos no reconocidos"
 scan_fail_button,OK
-permission_denied,Permiso denegado
-expiration_day_title,Disponible hasta
-amount_offer,Incentivo en oferta
+permission_denied,"Permiso denegado"
+expiration_day_title,"Disponible hasta"
+amount_offer,"Incentivo en oferta"
 offers_card_title,Ofertas
-agreement_title,Acuerdo de usuario de la aplicación
-Thank_you_description,Gracias por descargar la aplicación Centiva de la Fundación HIT.
-read_term_berfore_proceeding,Por favor lea la informacion sumaria sobre nuestros términos de servicio antes de seguir:
+agreement_title,"Acuerdo de usuario de la aplicación"
+Thank_you_description,"Gracias por descargar la aplicación Centiva de la Fundación HIT."
+read_term_berfore_proceeding,"Por favor lea la informacion sumaria sobre nuestros términos de servicio antes de seguir:"
 first_agreement,"Centiva NO es una aplicación médica y en ningún momente pretende ofrecer consejos médicos. Si requiere atención médica, por favor póngase en contácto con un profesional médico o con los servicios de emergencia."
-second_agreement,Debe tener al menos 13 años de edad para activar una cuenta HIT
+second_agreement,"Debe tener al menos 13 años de edad para activar una cuenta HIT"
 third_agreement,"HIT no recibe, guarda ni comparte sus datos sanitarios con terceros."
-fourth_agreement,Sus datos sanitarios y demográficos al igual que los datos de su cartera están encriptados con su PIN y almacenados localmente en su dispositivo móvil
+fourth_agreement,"Sus datos sanitarios y demográficos al igual que los datos de su cartera están encriptados con su PIN y almacenados localmente en su dispositivo móvil"
 fifth_agreement,"Usted es el único responsable de preservar sus datos, como son su PIN y la frase de contraseña de su cartera"
 sixth_agreement,"En el caso en el que Usted responda a una solicitud de datos y proporciona sus datos a una entidad que los solicita, aplicarán las políticas de privacidad, los términos de servicio de esa entidad que solicita los datos y que al mismo tiempo ofrece recompensas. "
 agree_description,"Al elegir ""Accepto"" abajo, usted está de acuerdo a estar sujeto a nuestros términos de uso y políticas de privacidad (ver enlace abajo). Estos Términos de uso afectan sus derechos legales y sus obligaciones. Si no está de acuerdo a estar sujeto a estos términos de uso, no acceda ni use el servicio."
-term_of_use,Términos de uso
-privacy_policy,Política de privacidad
+term_of_use,"Términos de uso"
+privacy_policy,"Política de privacidad"
 and_of_term_policy,Y
 decline_and_abort_registration,Rechazar
-title_decline_and_abort_registration,Debe aceptar los términos de uso y política de privacidad para continuar
-message_decline_and_abort_resgistration,Está Usted seguro que desea salir de la aplicación?
-not_enough_xem_warning,Su cartera no tiene suficientes XEM para completar esta transacción
-please_get_more_xem,Por favor obtenga más XEM
+title_decline_and_abort_registration,"Debe aceptar los términos de uso y política de privacidad para continuar"
+message_decline_and_abort_resgistration,"Está Usted seguro que desea salir de la aplicación?"
+not_enough_xem_warning,"Su cartera no tiene suficientes XEM para completar esta transacción"
+please_get_more_xem,"Por favor obtenga más XEM"
 here,aquí
-message_permission_accept,Este permiso se utiliza únicamente para garantizar su registro en la red de HIT. La aplicación no hace ni recibe llamadas.
+message_permission_accept,"Este permiso se utiliza únicamente para garantizar su registro en la red de HIT. La aplicación no hace ni recibe llamadas."
 language,Idioma:
-app_settings,Configuración de la aplicación
-app_language,Idioma de la aplicación
-only_show_query_in_language,Mostrar consultas únicamente
-faq,Preguntas más frecuentes
-feedback_to_email,Send feedback (XR18357)
+app_settings,"Configuración de la aplicación"
+app_language,"Idioma de la aplicación"
+only_show_query_in_language,"Mostrar consultas únicamente"
+faq,"Preguntas más frecuentes"
+feedback_to_email,"Send feedback (XR18357)"
 SENT,Enviado
 MESSAGE,Mensaje
-TIME_TRANSACTION_DETAIL,la hora
-MAIL_SHARE_ERROR_TITLE,Sin cuenta de correo
+TIME_TRANSACTION_DETAIL,"la hora"
+MAIL_SHARE_ERROR_TITLE,"Sin cuenta de correo"
 MAIL_SHARE_ERROR_SUB_TITLE,"Por favor, establezca una cuenta de correo para el envío de correo electrónico"
-SHARE_OPTION_TITLE,Selecionar una aplicación
-STORE_BACKUP_PHRASE_BUTTON,Guardar la Frase de contraseña
-PASTE_BACKUP_PHRASE,Pegar la Frase de contraseña
-REFERRAL_CARD_TITLE,Recomiéndenos a un amigo
-REFERRAL_DESCRIPTION,Recomiénde HIT a un amigo y ganará Tokens
-REFERRAL_SUBDESCRIPTION,Cuando su amigo se registre
-COPY_BUTTON,Copiar el enlace de recomendación
-QR_CODE_SHARE_DESCRIPTION,O haga que su amigo su amigo escanée el código QR
+SHARE_OPTION_TITLE,"Selecionar una aplicación"
+STORE_BACKUP_PHRASE_BUTTON,"Guardar la Frase de contraseña"
+PASTE_BACKUP_PHRASE,"Pegar la Frase de contraseña"
+REFERRAL_CARD_TITLE,"Recomiéndenos a un amigo"
+REFERRAL_DESCRIPTION,"Recomiénde HIT a un amigo y ganará Tokens"
+REFERRAL_SUBDESCRIPTION,"Cuando su amigo se registre"
+COPY_BUTTON,"Copiar el enlace de recomendación"
+QR_CODE_SHARE_DESCRIPTION,"O haga que su amigo su amigo escanée el código QR"
 TOKEN_DESCRIPTION,Tokens
-REDEEM_POPUP_TITLE,Información para el canje
-REDEEM_POPUP_MESSAGE,Se enviará el cupón a
+REDEEM_POPUP_TITLE,"Información para el canje"
+REDEEM_POPUP_MESSAGE,"Se enviará el cupón a"
 REDEEM_SUCCESSFUL_MESSAGE,"Se ha hecho el canje con éxito. En breve, recibirá la información "
-REDEEM_HIGLIGHTS,A destacar
-REDEEM_TOKEN_REQUIRED_DESCRIPTION,Se necesitan Tokens HIT
-REDEEM_QUANTITY_DESCRIPTION,Usted obtendrá
-REDEEM_BUTTON,Canjear ahora
+REDEEM_HIGLIGHTS,"A destacar"
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Se necesitan Tokens HIT"
+REDEEM_QUANTITY_DESCRIPTION,"Usted obtendrá"
+REDEEM_BUTTON,"Canjear ahora"
 INFO,Información
 USER_INFO_REDEMPTION,Canje
 USER_INFO_REDEMPTION_BUTTON,Canjear
 AVAILABLE_QUERIES_HOME_PAGE,Disponible
-COPY_CONFIRMATION_DETAIL,Copiar los detalles de la confirmación
-COPYRIGHT,Derechos de autor
-APP_VERSION,Versión de la aplicación
-DEVICE_MODEL,Modelo del dispositivo
-OS_VERSION,Versión OS
+COPY_CONFIRMATION_DETAIL,"Copiar los detalles de la confirmación"
+COPYRIGHT,"Derechos de autor"
+APP_VERSION,"Versión de la aplicación"
+DEVICE_MODEL,"Modelo del dispositivo"
+OS_VERSION,"Versión OS"
 MANUFACTURER,Manufacturador
 COPY,Copiar
-ABOUT,Acerca de
+ABOUT,"Acerca de"
 OK,Ok
-REENTER_HEALTH_DATA_TITLE,Los datos sanitarios está vacío
+REENTER_HEALTH_DATA_TITLE,"Los datos sanitarios está vacío"
 REENTER_HEALTH_DATA_MESSAGE,"No se pudo leer los datos sanitarios en esta versión de la aplicación, por favor introducir datos sanitarios nuevamente"
-VERIFY_PHONE_AGAIN_TITLE,No se pudo verificar el número de teléfono con el código SMS
+VERIFY_PHONE_AGAIN_TITLE,"No se pudo verificar el número de teléfono con el código SMS"
 VERIFY_PHONE_AGAIN_MESSAGE,"Para obtener el extra de HITs, por favor verificar de nuevo "
-PLEASE_GET_MORE_HIT,La cantidad de Tokens HIT es insuficiente
-GET_SMS_CODE_FAIL_TITLE,No fue posible recibir el código del mensaje (SMS)
-GET_SMS_CODE_FAIL_CONTENT,El formato del número telefonico ingresado es incorrecto. El formato requerido es [+] [código de país] [su número de teléfono incluyendo el código del area]
-INCOMPLETE_BASIC_HEATH_TITLE,Los datos sanitarios están incompletos
-INCOMPLETE_BASIC_HEATH_CONTENT,Mantener los datos sanitarios completos y actualizados para obtener acceso a todos los beneficios de la aplicación Centiva. La información recibida es salvada solamente en su aparato y utilizada solamente en las encuestas que usted ha aceptado participar.  informacón
-REDEMPTION_DETAILS,Detalles del reembolso seleccionado
-SHOW_DETAILS_USER_DATA,Mostrar detalles
-REDEMPTION_ID_DESCRIPTION,Código de reembolso
-OFFER_PAGE_TITLE,Detalles de la oferta
-BY_CHOOSING_AGREE,By choosing "Agree" you accept our (XR18357)
-PROVIDER_LIST,Providers (XR18357)
-VERIFY_PROVIDER,"Provider Added (XR18357)"
-VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
+PLEASE_GET_MORE_HIT,"La cantidad de Tokens HIT es insuficiente"
+GET_SMS_CODE_FAIL_TITLE,"No fue posible recibir el código del mensaje (SMS)"
+GET_SMS_CODE_FAIL_CONTENT,"El formato del número telefonico ingresado es incorrecto. El formato requerido es [+] [código de país] [su número de teléfono incluyendo el código del area]"
+INCOMPLETE_BASIC_HEATH_TITLE,"Los datos sanitarios están incompletos"
+INCOMPLETE_BASIC_HEATH_CONTENT,"Mantener los datos sanitarios completos y actualizados para obtener acceso a todos los beneficios de la aplicación Centiva. La información recibida es salvada solamente en su aparato y utilizada solamente en las encuestas que usted ha aceptado participar.  informacón"
+REDEMPTION_DETAILS,"Detalles del reembolso seleccionado"
+SHOW_DETAILS_USER_DATA,"Mostrar detalles"
+REDEMPTION_ID_DESCRIPTION,"Código de reembolso"
+OFFER_PAGE_TITLE,"Detalles de la oferta"
+BY_CHOOSING_AGREE,"By choosing ""Agree"" you accept our (XR18357)"
+VERIFY_PROVIDER,"Verify provider (XR18357)"
 PROVIDER_NAME,"Provider name (XR18357)"
 PROVIDER_ADDR,"Provider address (XR18357)"
 YOUR_ID,"Your id (XR18357)"
-VERIFY_PROVIDER_FAIL,"The provider information is not valid. (XR18357)"
-VERIFY_PROVIDER_SUCCESS,"The provider was added successfully. (XR18357)"
+VERIFY_PROVIDER_FAIL,"Can not verify provider (XR18357)"
+VERIFY_PROVIDER_SUCCESS,"Verify provider success (XR18357)"
+VERIFY,"Verify (XR18357)"
+PROVIDER_LIST,"Providers (XR18357)"
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
 ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
-VERIFY,Verify (XR18357)
-VERIFY_MNEMONIC_SAVE_BUTTON,Save (XR18357)
-TITLE_VERIFY_MNEMONIC,Your words selected (XR18357)
+VERIFY_MNEMONIC_SAVE_BUTTON,"Save (XR18357)"
+TITLE_VERIFY_MNEMONIC,"Your words selected (XR18357)"
 NUMBER_KEYBOARD_1,1
 NUMBER_KEYBOARD_2,2
 NUMBER_KEYBOARD_3,3
@@ -378,6 +382,6 @@ QR_SCAN_CONNECTION_ERROR,"Connection error (XR18357)"
 QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used (XR18357)"
 QR_SCAN_VERIFY_DATA_FALSE,"Verify data false (XR18357)"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false (XR18357)"
-PATIENT_NAME,"Patient name (XR18357)"
-NAME_NOT_PROVIDE,"Name not provided (XR18357)"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers (XR18357)"
+﻿ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Su cuenta no tiene fondos suficientes"
+NEW_KEY,Translated
