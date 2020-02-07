@@ -380,4 +380,5 @@ QR_SCAN_VERIFY_DATA_FALSE,"Verify data false"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found."
 ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your balance is too low.",
-NEW_KEY,"do translate"
+NEW_KEY,"updated",
+NEW_KEY2,"do translate"
