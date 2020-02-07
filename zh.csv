@@ -40,7 +40,7 @@ PHYSICAL_ACTIVITY_HIGHT,專業運動型
 cancel,取消
 errormessage_error_occured,發生了錯誤
 errormessage_server_error_occured,伺服器發生錯誤
-progress_dialog_wait_message,"請耐心等候"
+progress_dialog_wait_message,請耐心等候
 welcome,歡迎
 welcome_content,"可追溯健康信息。 個人健康數據資產化 & 創建未來的醫療保健貨幣"
 recover_existing_wallet,恢復現有電子錢包
@@ -248,7 +248,7 @@ agree_and_continue,同意並繼續
 open_url,開啟網址
 forgot_pin,"Forgot your PIN? (XR18357)"
 close_forgot_pin,關閉
-forgot_pin_description,"請重新安裝此應用程式並使用安全短語來恢復電子錢包"
+forgot_pin_description,請重新安裝此應用程式並使用安全短語來恢復電子錢包
 other,其他
 consent_content,"感謝您願意參提供以下數據， 點擊同意即代表您同意提供請求的數據，並同意按隱私聲明中的條款處理你的個人數據"
 consent_title,你的意見是十分重要
@@ -348,18 +348,18 @@ SHOW_DETAILS_USER_DATA,顯示詳細資料
 REDEMPTION_ID_DESCRIPTION,顯示詳細資料
 OFFER_PAGE_TITLE,優惠詳情
 BY_CHOOSING_AGREE,選擇“同意”即表示您接受
-PROVIDER_LIST,Providers (XR18357)
-VERIFY_PROVIDER,"Provider Added (XR18357)"
-VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
-PROVIDER_NAME,供應商地址
+VERIFY_PROVIDER,驗證供應商
+PROVIDER_NAME,供應商名稱
 PROVIDER_ADDR,供應商地址
 YOUR_ID,你的身份
-VERIFY_PROVIDER_FAIL,"The provider information is not valid. (XR18357)"
-VERIFY_PROVIDER_SUCCESS,"The provider was added successfully. (XR18357)"
-ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
+VERIFY_PROVIDER_FAIL,無法驗證提供者
+VERIFY_PROVIDER_SUCCESS,驗證成功
 VERIFY,驗證
-VERIFY_MNEMONIC_SAVE_BUTTON,Save (XR18357)
-TITLE_VERIFY_MNEMONIC,Your words selected (XR18357)
+PROVIDER_LIST,"Providers (XR18357)"
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
+ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
+VERIFY_MNEMONIC_SAVE_BUTTON,"Save (XR18357)"
+TITLE_VERIFY_MNEMONIC,"Your words selected (XR18357)"
 NUMBER_KEYBOARD_1,1
 NUMBER_KEYBOARD_2,2
 NUMBER_KEYBOARD_3,3
@@ -378,6 +378,6 @@ QR_SCAN_CONNECTION_ERROR,"Connection error (XR18357)"
 QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used (XR18357)"
 QR_SCAN_VERIFY_DATA_FALSE,"Verify data false (XR18357)"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false (XR18357)"
-PATIENT_NAME,"Patient name (XR18357)"
-NAME_NOT_PROVIDE,"Name not provided (XR18357)"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Địa chỉ nhà cung cấp chưa được xác nhận"
+﻿ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,
+NEW_KEY,Translated
