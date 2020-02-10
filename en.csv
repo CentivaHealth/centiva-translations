@@ -1,4 +1,4 @@
-ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your account has insufficient funds."
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your balance is too low."
 ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"The selected mosaic is not transferable."
 ALERT_ONLY_MOBILE_DEVICE,"This functionality is only available in mobile devices."
 ALERT_PHONE_DISCONNECTED,"Your phone is disconnected from the internet."
@@ -379,6 +379,5 @@ QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used"
 QR_SCAN_VERIFY_DATA_FALSE,"Verify data false"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found."
-ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your balance is too low.",
-NEW_KEY,"updated",
+NEW_KEY,updated
 NEW_KEY2,"do translate"
