@@ -1,4 +1,4 @@
-ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your balance is too low."
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your account has insufficient funds."
 ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"The selected mosaic is not transferable."
 ALERT_ONLY_MOBILE_DEVICE,"This functionality is only available in mobile devices."
 ALERT_PHONE_DISCONNECTED,"Your phone is disconnected from the internet."
@@ -45,7 +45,7 @@ welcome,"Welcome to"
 welcome_content,"Reshaping the way your health data is accessed and paid for."
 recover_existing_wallet,"Recover Existing Wallet"
 create_new_wallet,"Create New Wallet"
-info_foundation,"2019 HIT Foundation."
+consent_alert_title,"Open URL in browser"
 recover_description,"Please enter your backup phrase to recover your wallet."
 backup_phrase_hint,"Please enter your backup phrase"
 backup_phrase_popup_title,"Have you copied and saved the Backup Phrase?"
@@ -245,7 +245,7 @@ all,All
 accepted,Accepted
 deny,Deny
 agree_and_continue,"Agree and Continue"
-open_url,"Open URL"
+consent_alert_agree,"Continue"
 forgot_pin,"Forgot your PIN? "
 close_forgot_pin,Close
 forgot_pin_description,"Please Re-install this app and use Backup Phrase to Recover Wallet"
@@ -348,18 +348,18 @@ SHOW_DETAILS_USER_DATA,"Show Details"
 REDEMPTION_ID_DESCRIPTION,"Redemption ID:"
 OFFER_PAGE_TITLE,"Offer Detail"
 BY_CHOOSING_AGREE,"By choosing ""Agree"" you accept our "
-VERIFY_PROVIDER,"Verify provider"
+PROVIDER_LIST,Providers
+VERIFY_PROVIDER,"Provider Added"
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion"
 PROVIDER_NAME,"Provider name"
 PROVIDER_ADDR,"Provider address"
 YOUR_ID,"Your id"
-VERIFY_PROVIDER_FAIL,"Can not verify provider"
-VERIFY_PROVIDER_SUCCESS,"Verify provider success"
-VERIFY,Verify
-PROVIDER_LIST,Providers
-VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion"
+VERIFY_PROVIDER_FAIL,"The provider information is not valid."
+VERIFY_PROVIDER_SUCCESS,"The provider was added successfully."
 ALREADY_ADDED_PROVIDER,"Already added provider"
+VERIFY,Verify
 VERIFY_MNEMONIC_SAVE_BUTTON,Save
-TITLE_VERIFY_MNEMONIC,"Your words selected"
+TITLE_VERIFY_MNEMONIC,Your words selected
 NUMBER_KEYBOARD_1,1
 NUMBER_KEYBOARD_2,2
 NUMBER_KEYBOARD_3,3
@@ -378,6 +378,4 @@ QR_SCAN_CONNECTION_ERROR,"Connection error"
 QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used"
 QR_SCAN_VERIFY_DATA_FALSE,"Verify data false"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false"
-ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found."
-NEW_KEY,updated
-NEW_KEY2,"do translate"
+ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers"
