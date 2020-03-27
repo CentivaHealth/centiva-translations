@@ -45,7 +45,6 @@ welcome,"Welcome to"
 welcome_content,"Reshaping the way your health data is accessed and paid for."
 recover_existing_wallet,"Recover Existing Wallet"
 create_new_wallet,"Create New Wallet"
-consent_alert_title,"Open URL in browser"
 recover_description,"Please enter your backup phrase to recover your wallet."
 backup_phrase_hint,"Please enter your backup phrase"
 backup_phrase_popup_title,"Have you copied and saved the backup phrase?"
@@ -244,7 +243,6 @@ all,All
 accepted,Accepted
 deny,Deny
 agree_and_continue,"Agree and Continue"
-consent_alert_agree,"Continue"
 forgot_pin,"Forgot your PIN? "
 close_forgot_pin,Close
 forgot_pin_description,"Please reset or re-install this app and use backup phrase to recover wallet"
@@ -347,18 +345,18 @@ SHOW_DETAILS_USER_DATA,"Show Details"
 REDEMPTION_ID_DESCRIPTION,"Redemption ID:"
 OFFER_PAGE_TITLE,"Offer Details"
 BY_CHOOSING_AGREE,"By choosing ""Agree"" you accept our "
-PROVIDER_LIST,Providers
 VERIFY_PROVIDER,"Provider Added"
-VERIFY_PROVIDER_TITLE_FAIL,"Invalid information"
 PROVIDER_NAME,"Provider name"
 PROVIDER_ADDR,"Provider address"
 YOUR_ID,"Your id"
 VERIFY_PROVIDER_FAIL,"The provider information is not valid."
 VERIFY_PROVIDER_SUCCESS,"The provider was added successfully."
-ALREADY_ADDED_PROVIDER,"Provider already registered"
 VERIFY,Verify
+PROVIDER_LIST,Providers
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid information"
+ALREADY_ADDED_PROVIDER,"Provider already registered"
 VERIFY_MNEMONIC_SAVE_BUTTON,Save
-TITLE_VERIFY_MNEMONIC,Verify backup
+TITLE_VERIFY_MNEMONIC,"Verify backup"
 NUMBER_KEYBOARD_1,1
 NUMBER_KEYBOARD_2,2
 NUMBER_KEYBOARD_3,3
@@ -378,3 +376,5 @@ QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used"
 QR_SCAN_VERIFY_DATA_FALSE,"Failed to verify data"
 QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Failed to verify data"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers"
+consent_alert_title,"Open URL in browser"
+consent_alert_agree,Continue
