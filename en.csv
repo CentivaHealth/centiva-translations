@@ -305,9 +305,9 @@ MAIL_SHARE_ERROR_SUB_TITLE,"Please set up an email account in order to send emai
 SHARE_OPTION_TITLE,"Pick an app"
 STORE_BACKUP_PHRASE_BUTTON,"Store Backup Phrase"
 PASTE_BACKUP_PHRASE,"Paste Backup Phrase"
-REFERRAL_CARD_TITLE,"Invite a Friend"
-REFERRAL_DESCRIPTION,"Invite a friend to Centiva and earn"
-REFERRAL_SUBDESCRIPTION,"when your friend completes their registration."
+REFERRAL_CARD_TITLE,"Invite a Contact"
+REFERRAL_DESCRIPTION,"Invite a contact to Centiva"
+REFERRAL_SUBDESCRIPTION,"and help grow the platform"
 COPY_BUTTON,"Copy Referral Link"
 QR_CODE_SHARE_DESCRIPTION,"Or have your friend scan this QR code."
 TOKEN_DESCRIPTION,Tokens
