@@ -1,390 +1,384 @@
-ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Ihr Konto hat kein ausreichendes Guthaben. ",,,
-ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"Das ausgewählte Mosaik ist nicht übertragbar. ",,,
-ALERT_ONLY_MOBILE_DEVICE,"Diese Funktion ist nur auf mobilen Geräten verfügbar.",,,
-ALERT_PHONE_DISCONNECTED,"Ihr Smartphone ist nicht mit dem Internet verbunden. ",,,
-ALERT_SUBTITLE_PHONE_DISCONNECTED,"Öffnen Sie die App erneut, sobald Sie eine Internetverbindung haben.",,,
-ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"Die Adresse ist nicht gültig für dieses Netzwerk. ",,,
-ENTER_ALL_FIELDS,"Bitte füllen Sie alle Felder aus.",,,
-INVALID_PASSPHRASE,"Ungültiges Passphrase",,,
-NOT_ENOUGH_HIT,"Kein ausreichendes Guthaben für diese Transaktion",,,
-GENDER,"Geschlecht ",,,
-LOAD_MORE_TRANSACTION,"Mehr Transaktion laden.",,,
-LANGUAGES.en,"Englisch ",,,
-LANGUAGES.de,"Deutsch ",,,
-LANGUAGES.fr,"Französisch ",,,
-LANGUAGES.ja,"Japanisch ",,,
-LANGUAGES.vi,"Vietnamesisch ",,,
-LANGUAGES.zh,"Chinesisch ",,,
-LANGUAGES.es,"Spanisch ",,,
-LANGUAGES_ONLY_SHOW_QUERY,Deutsch,,,
-JANUARY,Januar,,,
-FEBRUARY,Februar,,,
-MARCH,März,,,
-APRIL,April,,,
-MAY,Mai,,,
-JUNE,Juni,,,
-JULY,Juli,,,
-AUGUST,August,,,
-SEPTEMBER,September,,,
-OCTOBER,Oktober,,,
-NOVEMBER,November,,,
-DECEMBER,Dezember,,,
-SMOKER_STATUS_NON_SMOKER,Nichtraucher,,,
-SMOKER_STATUS_OCCASIONAL,Gelegenheitsraucher,,,
-SMOKER_STATUS_REGULAR,"regelmässiger Raucher",,,
-SMOKER_STATUS_HEAVY,"schwerer Raucher",,,
-PHYSICAL_ACTIVITY_LOW,Selten,,,
-PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,Gelegentlich,,,
-PHYSICAL_ACTIVITY_REGULAR,Regelmässig,,,
-PHYSICAL_ACTIVITY_HIGHT,Oft,,,
-cancel,Abbrechen,,,
-errormessage_error_occured,"Ein Fehler ist aufgetreten",,,
-errormessage_server_error_occured,"Ein Serverfehler ist aufgetreten",,,
-progress_dialog_wait_message,"Bitte warten…",,,
-welcome,"Herzlich Willkommen",,,
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Ihr Konto hat kein ausreichendes Guthaben. "
+ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"Das ausgewählte Mosaik ist nicht übertragbar. "
+ALERT_ONLY_MOBILE_DEVICE,"Diese Funktion ist nur auf mobilen Geräten verfügbar."
+ALERT_PHONE_DISCONNECTED,"Ihr Smartphone ist nicht mit dem Internet verbunden. "
+ALERT_SUBTITLE_PHONE_DISCONNECTED,"Öffnen Sie die App erneut, sobald Sie eine Internetverbindung haben."
+ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"Die Adresse ist nicht gültig für dieses Netzwerk. "
+ENTER_ALL_FIELDS,"Bitte füllen Sie alle Felder aus."
+INVALID_PASSPHRASE,"Ungültiges Passphrase"
+NOT_ENOUGH_HIT,"Kein ausreichendes Guthaben für diese Transaktion"
+GENDER,"Geschlecht "
+LOAD_MORE_TRANSACTION,"Mehr Transaktion laden."
+LANGUAGES.en,"Englisch "
+LANGUAGES.de,"Deutsch "
+LANGUAGES.fr,"Französisch "
+LANGUAGES.ja,"Japanisch "
+LANGUAGES.vi,"Vietnamesisch "
+LANGUAGES.zh,"Chinesisch "
+LANGUAGES.es,"Spanisch "
+LANGUAGES_ONLY_SHOW_QUERY,Deutsch
+JANUARY,Januar
+FEBRUARY,Februar
+MARCH,März
+APRIL,April
+MAY,Mai
+JUNE,Juni
+JULY,Juli
+AUGUST,August
+SEPTEMBER,September
+OCTOBER,Oktober
+NOVEMBER,November
+DECEMBER,Dezember
+SMOKER_STATUS_NON_SMOKER,Nichtraucher
+SMOKER_STATUS_OCCASIONAL,Gelegenheitsraucher
+SMOKER_STATUS_REGULAR,"regelmässiger Raucher"
+SMOKER_STATUS_HEAVY,"schwerer Raucher"
+PHYSICAL_ACTIVITY_LOW,Selten
+PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,Gelegentlich
+PHYSICAL_ACTIVITY_REGULAR,Regelmässig
+PHYSICAL_ACTIVITY_HIGHT,Oft
+cancel,Abbrechen
+errormessage_error_occured,"Ein Fehler ist aufgetreten"
+errormessage_server_error_occured,"Ein Serverfehler ist aufgetreten"
+progress_dialog_wait_message,"Bitte warten…"
+welcome,"Herzlich Willkommen"
 welcome_content,"Gesundheitsdaten teilen und gleichzeitig ihre Privatsphäre schützen!
-<b>Wichtig</b>: Aufgrund der COVID-19 Pandemie kann die App von Ihnen zur Information potentiell infizierter Personen eingesetzt werden! Die anonymisierten Daten werden vom <b>Schweizerischen Tropen- und Gesundheitsinstitut veröffentlicht</b>.",,,
-recover_existing_wallet,"Bestehendes Wallet wiederherstellen",,,
-create_new_wallet,"Neues Wallet erstellen",,,
-recover_description,"Bitte geben Sie die Passphrase ein um Ihr Wallet wiederherzustellen",,,
-backup_phrase_hint,"Bitte geben Sie Ihre Passphrase ein",,,
-backup_phrase_popup_title,"Haben Sie die Passphrase kopiert?",,,
-backup_phrase_popup_message,"Falls nicht, kehren Sie zur vorherigen Seite zurück und kopieren Sie Ihre Passphrase. Sie können Ihr Wallet ohne die Passphrase nicht speichern",,,
-backup_phrase_popup_positive_button,Bestätigen,,,
-backup_phrase_popup_negative_button,Abbrechen,,,
-recover_wallet,"Wallet wiederherstellen",,,
-recover_wallet_success,"Wiederherstellung des Wallets erfolgreich",,,
-pin_description,"Verwenden Sie einen PIN für diese App. ACHTUNG: Wenn Sie keinen PIN festlegen, hat jeder der Zugriff auf Ihr Smartphone hat, auch Zugriff auf die App und Ihr DHP Wallet!",,,
-set_pin_title,"App PIN festlegen",,,
-step_1_2,"1 / 2",,,
-step_2_2,"2 / 2",,,
-set_app_pin_first_description_first,"Zuerst müssen wir ein paar Dinge einrichten.",,,
-set_app_pin_first_description_second,"Neuen PIN wählen",,,
-enter_pin_again,"PIN erneut eingeben",,,
-enter_pin_here,"PIN hier eingeben",,,
-enter_pin_here_again,"PIN hier erneut eingeben",,,
-pin_does_not_match,"PIN stimmt nicht überein. Versuchen Sie es erneut oder gehen Sie zurück, um einen anderen PIN einzustellen.",,,
-create_wallet_step_1_3,"1 / 3",,,
-create_wallet_step_2_3,"2 / 3",,,
-create_wallet_step_3_3,"3 / 3",,,
-creating_back_up_phrase,"Erstellen Ihrer Backup-Phrase",,,
-backup_detail,"Zur Sicherung ihres Kontos erstellen wir eine lange Passphrase!",,,
-creating_randomness,"Zufälligkeit erzeugen... ",,,
-tap_to_copy,"Zum Kopieren antippen!",,,
-remind_save_backup_phrase,"Bitte speichern Sie sie an einem sicheren Ort. Sie benötigen die Passphrase zur Wiederherstellung Ihres Wallets, wenn Sie die App neu installieren. ",,,
-created_wallet_description,"Ihr Wallet wurde erstellt. ",,,
-purpose_of_address,"Sie dient zur Identifizierung Ihres Wallets. DHP werden an diese Adresse gesendet.",,,
-view_wallet_address_later,"Sie können Ihre Adresse später in Ihrem Wallet einsehen. ",,,
-mnemonic_title,"Mnemotechnische Bestätigung ",,,
-backup_phrase_mnemonic_description,Sicherungsphrase:,,,
-select_all_words_mnemonic_anounce,"Bitte wählen Sie alle Wörter aus. ",,,
-words_select_mnemonic,"Bitte wählen Sie die folgenden Wörter aus, um Ihre Sicherungsphrase zu erstellen:",,,
-verify_phone_number_title,"Telefonnummer verifizieren",,,
-country_description,Land,,,
-phone_number_description,Telefonnummer,,,
-get_access_code_btn,"Zugangscode erhalten",,,
-health_data_title,Gesundheitsdaten,,,
-location_description,Standort,,,
-physics_description,Person,,,
-health_description,Gesundheit,,,
-health_conditions_description,Gesundheitszustand,,,
+<b>Wichtig</b>: Aufgrund der COVID-19 Pandemie kann die App zur Information potentiell infizierter Personen eingesetzt werden! Dieser Service wurde gemeinsam mit dem <b>Schweizerisches Tropen- und Public Health-Institut (Swiss TPH)</b> entwickelt."
+recover_existing_wallet,"Bestehendes Wallet wiederherstellen"
+create_new_wallet,"Neues Wallet erstellen"
+recover_description,"Bitte geben Sie die Passphrase ein um Ihr Wallet wiederherzustellen"
+backup_phrase_hint,"Bitte geben Sie Ihre Passphrase ein"
+backup_phrase_popup_title,"Haben Sie die Passphrase kopiert?"
+backup_phrase_popup_message,"Falls nicht, kehren Sie zur vorherigen Seite zurück und kopieren Sie Ihre Passphrase. Sie können Ihr Wallet ohne die Passphrase nicht speichern"
+backup_phrase_popup_positive_button,Bestätigen
+backup_phrase_popup_negative_button,Abbrechen
+recover_wallet,"Wallet wiederherstellen"
+recover_wallet_success,"Wiederherstellung des Wallets erfolgreich"
+pin_description,"Verwenden Sie einen PIN für diese App. ACHTUNG: Wenn Sie keinen PIN festlegen, hat jeder der Zugriff auf Ihr Smartphone hat, auch Zugriff auf die App und Ihr DHP Wallet!"
+set_pin_title,"App PIN festlegen"
+step_1_2,"1 / 2"
+step_2_2,"2 / 2"
+set_app_pin_first_description_first,"Zuerst müssen wir ein paar Dinge einrichten."
+set_app_pin_first_description_second,"Neuen PIN wählen"
+enter_pin_again,"PIN erneut eingeben"
+enter_pin_here,"PIN hier eingeben"
+enter_pin_here_again,"PIN hier erneut eingeben"
+pin_does_not_match,"PIN stimmt nicht überein. Versuchen Sie es erneut oder gehen Sie zurück, um einen anderen PIN einzustellen."
+create_wallet_step_1_3,"1 / 3"
+create_wallet_step_2_3,"2 / 3"
+create_wallet_step_3_3,"3 / 3"
+creating_back_up_phrase,"Erstellen Ihrer Backup-Phrase"
+backup_detail,"Zur Sicherung ihres Kontos erstellen wir eine lange Passphrase!"
+creating_randomness,"Zufälligkeit erzeugen... "
+tap_to_copy,"Zum Kopieren antippen!"
+remind_save_backup_phrase,"Bitte speichern Sie sie an einem sicheren Ort. Sie benötigen die Passphrase zur Wiederherstellung Ihres Wallets, wenn Sie die App neu installieren. "
+created_wallet_description,"Ihr Wallet wurde erstellt. "
+purpose_of_address,"Sie dient zur Identifizierung Ihres Wallets. DHP werden an diese Adresse gesendet."
+view_wallet_address_later,"Sie können Ihre Adresse später in Ihrem Wallet einsehen. "
+mnemonic_title,"Mnemotechnische Bestätigung "
+backup_phrase_mnemonic_description,Sicherungsphrase:
+select_all_words_mnemonic_anounce,"Bitte wählen Sie alle Wörter aus. "
+words_select_mnemonic,"Bitte wählen Sie die folgenden Wörter aus, um Ihre Sicherungsphrase zu erstellen:"
+verify_phone_number_title,"Telefonnummer verifizieren"
+country_description,Land
+phone_number_description,Telefonnummer
+get_access_code_btn,"Zugangscode erhalten"
+health_data_title,Gesundheitsdaten
+location_description,Standort
+physics_description,Person
+health_description,Gesundheit
+health_conditions_description,Gesundheitszustand
 location_explain,"Diese Informationen werden benötigt, um Ihnen relevante Studien und Angebote zukommen zu lassen. Die Informationen werden niemals geteilt oder übermittelt.
-",,,
-physics_explain,"Diese Informationen werden benötigt, um Ihnen relevante Studien und Angebote zukommen zu lassen. Die Informationen werden niemals geteilt oder übermittelt.
-",,,
-health_explain,"Diese Informationen werden benötigt, um Ihnen relevante Studien und Angebote zukommen zu lassen. Die Informationen werden niemals geteilt oder übermittelt.",,,
-store_only_on_device,"DATEN NUR AUF DEM GERÄT GESPEICHERT. Diese Daten werden nicht geteilt oder übertragen!",,,
-gender_question,Geschlecht?,,,
-invalid_weight,"Unzulässiges Gewicht!",,,
-invalid_height,"Unzulässiges Gewicht!",,,
-next_page_btn,"Nächste Seite",,,
-profile_btn,Profil,,,
-done_btn,Erledigt,,,
-transactions_description,Transaktionen,,,
-invite_friend_sub_description_1,"Bis zu",,,
-invite_friend_sub_description_2,"DHP für jeden Kontakt, der beitritt!",,,
-new_available_queries,"neu verfügbar",,,
-you_have_no_queries_yet,"Sie haben noch keine akzeptierten Anfragen",,,
-do_some_fancy_questionnaire,"Anfragen, an denen Sie teilgenommen haben",,,
-title_show_all,"Alle anzeigen",,,
-your_inbox_is_empty,"Ihr Posteingang ist leer.",,,
-please_check_back_later,"Liste von Anfragen",,,
-information_query_detail_description,Informationen,,,
-time_need,"Benötigte Zeit:",,,
-available_until,"Verfügbar bis:",,,
-app_profile_setting,Einstellungen,,,
-enter_your_pin_pin_page,"Geben Sie Ihren PIN ein",,,
-enter_your_back_up_phrase,"Sicherungsphrase eingeben:",,,
+"
+physics_explain,"Diese Informationen werden benötigt, um Ihnen relevante Studien und Angebote zukommen zu lassen. Die Informationen werden niemals geteilt oder übermittelt."
+health_explain,"Diese Informationen werden benötigt, um Ihnen relevante Studien und Angebote zukommen zu lassen. Die Informationen werden niemals geteilt oder übermittelt."
+store_only_on_device,"DATEN NUR AUF DEM GERÄT GESPEICHERT. Diese Daten werden nicht geteilt oder übertragen!"
+gender_question,Geschlecht?
+invalid_weight,"Unzulässiges Gewicht!"
+invalid_height,"Unzulässiges Gewicht!"
+next_page_btn,"Nächste Seite"
+profile_btn,Profil
+done_btn,Erledigt
+transactions_description,Transaktionen
+invite_friend_sub_description_1,"Bis zu"
+invite_friend_sub_description_2,"DHP für jeden Kontakt, der beitritt!"
+new_available_queries,"neu verfügbar"
+you_have_no_queries_yet,"Sie haben noch keine akzeptierten Anfragen"
+do_some_fancy_questionnaire,"Anfragen, an denen Sie teilgenommen haben"
+title_show_all,"Alle anzeigen"
+your_inbox_is_empty,"Ihr Posteingang ist leer."
+please_check_back_later,"Liste von Anfragen"
+information_query_detail_description,Informationen
+time_need,"Benötigte Zeit:"
+available_until,"Verfügbar bis:"
+app_profile_setting,Einstellungen
+enter_your_pin_pin_page,"Geben Sie Ihren PIN ein"
+enter_your_back_up_phrase,"Sicherungsphrase eingeben:"
 my_wallet_is_long_hex_string,"Hexadezimale Zeichenkette zur Sicherung
-",,,
-enter_pin_to_show_backup,"App-PIN eingeben, um Passphrase anzuzeigen",,,
-enter_pin_to_show_private_key,"Geben Sie Ihren App-PIN ein, um den privaten Schlüssel anzuzeigen.
-",,,
-pending_transactions,Ausstehend,,,
-help_agreement_btn,Hilfe,,,
-receive_token,"DHP erhalten",,,
-purpose_query_detail,Zweck,,,
-redeem_highlights_new,Höhepunkte:,,,
-receive_token_title,"DHP erhalten",,,
-address_description_receive_token_page,"Ihre Adresse:",,,
-tap_copy_address_description,"um zu erhalten",,,
-scan_qr_description,"Adresse mit benutzerdefiniertem QR-Code:",,,
-hex_back_up_phrase,"Hexadezimale Sicherungsphrase:",,,
-referral_link_description,"Ihr Empfehlungs-Link:",,,
-referral_instruction_1,"Kontakt zu Centiva einladen und profitieren",,,
-referral_instruction_2,"DHP erhalten sobald sich Ihr Kontakt registriert. Den Link antippen, kopieren und an Ihren Kontakt senden.",,,
-save_back_up_phrase_title,"Sicherungsphrase speichern",,,
-save_mnemonic_description,"Bitte speichern Sie diese Passphrase an einem sicheren Ort. Diese benötigen Sie um Ihr Wallet bei einer Neuinstallation der App wiederherzustellen.",,,
-save_passphrase_description,"Bitte speichern Sie diese Passphrase an einem sicheren Ort. Diese benötigen Sie um Ihr Wallet bei einer Neuinstallation der App wiederherzustellen.",,,
-next_word_match,"Nächster: Wort-Match",,,
-recipient,Empfänger,,,
-hit_available_amount,"Verfügbarer Betrag:",,,
-tx_fee,Transaktionsgebühr:,,,
-xem_available,"Verfügbare XEM:",,,
-add_xem_to_your_wallet,"Fügen Sie XEM zu Ihrem Wallet hinzu. Klicken Sie auf",,,
-for_instruction,"für Instruktionen",,,
-recipient_address_description,"Adresse des Empfängers:",,,
-transaction_summary,"Zusammenfassung der Transaktion",,,
-sent_description,Gesendet,,,
-ok_cool_btn,"Ok, cool!",,,
-detail_description,Details:,,,
-message_description,Nachricht:,,,
-transaction_id,Transaktions-ID,,,
-action_description,Aktionen:,,,
-send_token_btn_tx_detail,"DHP senden",,,
-receive_token_btn_tx_detail,"DHP empfangen",,,
-scan_code_btn_tx_detail,"Code scannen",,,
-redemption_info_title,"Informationen zur Einlösung",,,
-access_code_description,Zugangscode,,,
-wallet_passphrase_title,"Wallet PassPhrase",,,
-warning_descript_1,"Sicherheits-Update verfügbar",,,
-warning_descript_2,"Erstellen Sie jetzt Ihre neue Sicherungsphase.",,,
-wallet_private_key_title,"Wallet Privater Schlüssel",,,
-INVALID_ACCESS_CODE_TITLE,"Ungültiger Zugangscode",,,
-INVALID_ACCESS_CODE_CONTENT,"Stellen Sie sicher, dass Sie den korrekten Zugangscode eingeben",,,
-transaction_confirm_title,Bestätigen,,,
-button_negative_send,"Nicht senden",,,
-request_camera_permission_title,"Kein Zugriff auf die Kamera möglich",,,
-request_camera_permission_sub_title,"Centiva hat keine Zugriffsberechtigung für die Kamera. Geben Sie die Erlaubnis, um den QR-Scanner zu verwenden. <br> Gehen Sie zu 'Einstellung' => Wählen Sie 'Centiva' => Zugriff auf 'Kamera' erlauben",,,
-button_positive_permission,"Zugriff erlauben",,,
-birth_month_selector,Geburtsmonat,,,
-birth_year_selector,Geburtsjahr,,,
-denied_query_btn,Abgelehnt,,,
-continue_btn,Fortfahren,,,
-copy_address_success,"Adresscode kopiert!",,,
-receive_tx_detail_title,Empfangen,,,
-transaction_detail_redemption,"(Einlösen) ",,,"Possible other translations: 
-Wiedergutmachung
-Ausgleich
-Erlösung"
-warning_create_wallet_back_up_1,"Wallet-Backup ",,,
-warning_create_wallet_back_up_2,"Erstellen Sie jetzt Ihr Wallet Backup. ",,,
-words_not_match_message,"Wörter stimmen nicht überein ",,,
-tap_here,"Tippen Sie hier! ",,,
-change_to_mnemonic_toast_notification,"Speichern erfolgreich!",,,
-current_pin_title,"Geben Sie hier Ihren aktuellen PIN ein",,,
-new_pin_title,"Geben Sie einen neuen PIN ein",,,
-set_pin,"PIN einrichten",,,
-skip,Überspringen,,,
-change_pin,"PIN ändern",,,
-generate_randomness,"Zufällig (Entropie)",,,
-next,Weiter,,,
-backup_phrase,Passphrase,,,
-copy_phrase,"Code kopieren",,,
-backup_phrase_description,"Hier ist Ihre Backup-Phrase",,,
-public_key,Public-Key,,,
-public_key_description,"Wird intern von der App verwendet, um Transaktionen zu generieren und digitale Signaturen für die Authentifizierung zu erzeugen.",,,
-private_key,Private-Key,,,
-private_key_description,"Wird von der App verwendet, um Tokens in Ihrem Wallet zu sichern oder zu versenden. Bewahre Sie es sorgfältig auf!",,,
-wallet_address_description,"Ihre Wallet wurde erstellt und die Adresse unten angezeigt. Es identifiziert Ihr Wallet und DHP werden an diese Adresse gesendet.",,,
-wallet_address,Wallet-Adresse,,,
-verify_phone_description,"Zur Bestätigung der Telefonnummer senden wir Ihnen den Zugangscode per SMS.",,,
-your_mobile_number,"Ihre Mobil-Nummer",,,
-resend_sms_code,"Zugangscode erneut senden",,,
-get_sms_code,"Zugangscode senden",,,
-verify_code_description,"Geben Sie Ihren Bestätigungscode ein",,,
-verify_code,"Überprüfen Sie den Code",,,
-enter_sms_code,"Geben Sie den SMS-Code ein",,,
-set_pin_again_title,"Geben Sie Ihren PIN erneut ein",,,
-title_home,Home,,,
-invalid_phone_number,"Ungültige Telefonnummer",,,
-invalid_code,"Ungültiger Code",,,
-verify_phone_with_sms,"Bestätigung Smartphones via SMS",,,
-account_wallet_name,DHP,,,
-verify_phone_number,"Telefonnummer bestätigen",,,
-create_wallet_title_1,"Wallet erstellen",,,
-recover_wallet_title,"Wallet wiederherstellen",,,
-set_app_pin_title,"Legen Sie den PIN für die App fest",,,
-errormessage_confirm_pin_wrong,"PIN stimmt nicht überein!",,,
-errormessage_current_pin_wrong,"Der aktuelle PIN ist falsch!",,,
-errormessage_login_fail,"Falscher PIN! Bitte erneut versuchen.",,,
-successmessage_change_pin_success,"PIN erfolgreich geändert",,,
-successmessage_set_pin_success,"Setzen des PIN erfolgreich!",,,
-successmessage_save_basic_health_data_success,"Gesundheitsinformationen erfolgreich gespeichert!",,,
-bottom_navigation_inbox,Inbox,,,
-bottom_navigation_queries,Anfragen,,,
-bottom_navigation_health_data,Gesundheitsdaten,,,
-bottom_navigation_wallet,Wallet,,,
-current_balance,"Aktueller Kontostand",,,
-show_private_key,"Private-Key anzeigen",,,
-change_app_pin,"Ändern Sie Ihren PIN",,,
-wallet_settings,Wallet-Einstellungen,,,
-male,Männlich,,,
-female,Weiblich,,,
-month_of_birth,Geburtsmonat,,,
-year_of_birth,Geburtsjahr,,,
-height,Körpergrösse,,,
-weight,Gewicht,,,
-geographical_region,"Geographische Region",,,
-physical_activity,"Körperliche Aktivität",,,
-smoking,Raucher,,,
-balance,Guthaben,,,
-copy_address,"Adresse kopieren",,,
-amount,Menge,,,
-send_token,"Tokens senden",,,
-send_tokens_successfully,"DHP erfolgreich gesendet",,,
-confirm,Bestätigen,,,
-send,Senden,,,
-no,Nr.,,,
-all_tab_title,Alle,,,
-all,Alle,,,
-accepted,Akzeptiert,,,
-deny,Ablehnen,,,
-agree_and_continue,"Teilnahme bestätigen",,,
-forgot_pin,"PIN vergessen? ",,,
-close_forgot_pin,Schliessen,,,
+"
+enter_pin_to_show_backup,"App-PIN eingeben, um Passphrase anzuzeigen"
+enter_pin_to_show_private_key,"Geben Sie Ihren App-PIN ein, um den privaten Schlüssel anzuzeigen."
+pending_transactions,Ausstehend
+help_agreement_btn,Hilfe
+receive_token,"DHP erhalten"
+purpose_query_detail,Zweck
+redeem_highlights_new,Höhepunkte:
+receive_token_title,"DHP erhalten"
+address_description_receive_token_page,"Ihre Adresse:"
+tap_copy_address_description,"um zu erhalten"
+scan_qr_description,"Adresse mit benutzerdefiniertem QR-Code:"
+hex_back_up_phrase,"Hexadezimale Sicherungsphrase:"
+referral_link_description,"Ihr Empfehlungs-Link:"
+referral_instruction_1,"Kontakt zu Centiva einladen und profitieren"
+referral_instruction_2,"DHP erhalten sobald sich Ihr Kontakt registriert. Den Link antippen, kopieren und an Ihren Kontakt senden."
+save_back_up_phrase_title,"Sicherungsphrase speichern"
+save_mnemonic_description,"Bitte speichern Sie diese Passphrase an einem sicheren Ort. Diese benötigen Sie um Ihr Wallet bei einer Neuinstallation der App wiederherzustellen."
+save_passphrase_description,"Bitte speichern Sie diese Passphrase an einem sicheren Ort. Diese benötigen Sie um Ihr Wallet bei einer Neuinstallation der App wiederherzustellen."
+next_word_match,"Nächster: Wort-Match"
+recipient,Empfänger
+hit_available_amount,"Verfügbarer Betrag:"
+tx_fee,Transaktionsgebühr:
+xem_available,"Verfügbare XEM:"
+add_xem_to_your_wallet,"Fügen Sie XEM zu Ihrem Wallet hinzu. Klicken Sie auf"
+for_instruction,"für Instruktionen"
+recipient_address_description,"Adresse des Empfängers:"
+transaction_summary,"Zusammenfassung der Transaktion"
+sent_description,Gesendet
+ok_cool_btn,"Ok, cool!"
+detail_description,Details:
+message_description,Nachricht:
+transaction_id,Transaktions-ID
+action_description,Aktionen:
+send_token_btn_tx_detail,"DHP senden"
+receive_token_btn_tx_detail,"DHP empfangen"
+scan_code_btn_tx_detail,"Code scannen"
+redemption_info_title,"Informationen zur Einlösung"
+access_code_description,Zugangscode
+wallet_passphrase_title,"Wallet PassPhrase"
+warning_descript_1,"Sicherheits-Update verfügbar"
+warning_descript_2,"Erstellen Sie jetzt Ihre neue Sicherungsphase."
+wallet_private_key_title,"Wallet Privater Schlüssel"
+INVALID_ACCESS_CODE_TITLE,"Ungültiger Zugangscode"
+INVALID_ACCESS_CODE_CONTENT,"Stellen Sie sicher, dass Sie den korrekten Zugangscode eingeben"
+transaction_confirm_title,Bestätigen
+button_negative_send,"Nicht senden"
+request_camera_permission_title,"Kein Zugriff auf die Kamera möglich"
+request_camera_permission_sub_title,"Centiva hat keine Zugriffsberechtigung für die Kamera. Geben Sie die Erlaubnis, um den QR-Scanner zu verwenden. <br> Gehen Sie zu 'Einstellung' => Wählen Sie 'Centiva' => Zugriff auf 'Kamera' erlauben"
+button_positive_permission,"Zugriff erlauben"
+birth_month_selector,Geburtsmonat
+birth_year_selector,Geburtsjahr
+denied_query_btn,Abgelehnt
+continue_btn,Fortfahren
+copy_address_success,"Adresscode kopiert!"
+receive_tx_detail_title,Empfangen
+transaction_detail_redemption,"(Einlösen) "
+warning_create_wallet_back_up_1,"Wallet-Backup "
+warning_create_wallet_back_up_2,"Erstellen Sie jetzt Ihr Wallet Backup. "
+words_not_match_message,"Wörter stimmen nicht überein "
+tap_here,"Tippen Sie hier! "
+change_to_mnemonic_toast_notification,"Speichern erfolgreich!"
+current_pin_title,"Geben Sie hier Ihren aktuellen PIN ein"
+new_pin_title,"Geben Sie einen neuen PIN ein"
+set_pin,"PIN einrichten"
+skip,Überspringen
+change_pin,"PIN ändern"
+generate_randomness,"Zufällig (Entropie)"
+next,Weiter
+backup_phrase,Passphrase
+copy_phrase,"Code kopieren"
+backup_phrase_description,"Hier ist Ihre Backup-Phrase"
+public_key,Public-Key
+public_key_description,"Wird intern von der App verwendet, um Transaktionen zu generieren und digitale Signaturen für die Authentifizierung zu erzeugen."
+private_key,Private-Key
+private_key_description,"Wird von der App verwendet, um Tokens in Ihrem Wallet zu sichern oder zu versenden. Bewahre Sie es sorgfältig auf!"
+wallet_address_description,"Ihre Wallet wurde erstellt und die Adresse unten angezeigt. Es identifiziert Ihr Wallet und DHP werden an diese Adresse gesendet."
+wallet_address,Wallet-Adresse
+verify_phone_description,"Zur Bestätigung der Telefonnummer senden wir Ihnen den Zugangscode per SMS."
+your_mobile_number,"Ihre Mobil-Nummer"
+resend_sms_code,"Zugangscode erneut senden"
+get_sms_code,"Zugangscode senden"
+verify_code_description,"Geben Sie Ihren Bestätigungscode ein"
+verify_code,"Überprüfen Sie den Code"
+enter_sms_code,"Geben Sie den SMS-Code ein"
+set_pin_again_title,"Geben Sie Ihren PIN erneut ein"
+title_home,Home
+invalid_phone_number,"Ungültige Telefonnummer"
+invalid_code,"Ungültiger Code"
+verify_phone_with_sms,"Bestätigung Smartphones via SMS"
+account_wallet_name,DHP
+verify_phone_number,"Telefonnummer bestätigen"
+create_wallet_title_1,"Wallet erstellen"
+recover_wallet_title,"Wallet wiederherstellen"
+set_app_pin_title,"Legen Sie den PIN für die App fest"
+errormessage_confirm_pin_wrong,"PIN stimmt nicht überein!"
+errormessage_current_pin_wrong,"Der aktuelle PIN ist falsch!"
+errormessage_login_fail,"Falscher PIN! Bitte erneut versuchen."
+successmessage_change_pin_success,"PIN erfolgreich geändert"
+successmessage_set_pin_success,"Setzen des PIN erfolgreich!"
+successmessage_save_basic_health_data_success,"Gesundheitsinformationen erfolgreich gespeichert!"
+bottom_navigation_inbox,Inbox
+bottom_navigation_queries,Anfragen
+bottom_navigation_health_data,Gesundheitsdaten
+bottom_navigation_wallet,Wallet
+current_balance,"Aktueller Kontostand"
+show_private_key,"Private-Key anzeigen"
+change_app_pin,"Ändern Sie Ihren PIN"
+wallet_settings,Wallet-Einstellungen
+male,Männlich
+female,Weiblich
+month_of_birth,Geburtsmonat
+year_of_birth,Geburtsjahr
+height,Körpergrösse
+weight,Gewicht
+geographical_region,"Geographische Region"
+physical_activity,"Körperliche Aktivität"
+smoking,Raucher
+balance,Guthaben
+copy_address,"Adresse kopieren"
+amount,Menge
+send_token,"Tokens senden"
+send_tokens_successfully,"DHP erfolgreich gesendet"
+confirm,Bestätigen
+send,Senden
+no,Nr.
+all_tab_title,Alle
+all,Alle
+accepted,Akzeptiert
+deny,Ablehnen
+agree_and_continue,"Teilnahme bestätigen"
+forgot_pin,"PIN vergessen? "
+close_forgot_pin,Schliessen
 forgot_pin_description,"Bitte installieren Sie die Anwendung erneut. 
-Verwenden Sie Ihre Passphrase um Ihr Wallet wiederherzustellen.",,,
-other,Andere,,,
-consent_content,"Vielen Dank für Ihre Bereitschaft, an der folgenden Anfrage teilzunehmen. Sie sind damit einverstanden, dass die angeforderten Daten zur Verfügung zu stellen und Ihre personenbezogenen Daten gemäss der geltenden Datenschutzerklärung verarbeitet werden.",,,
-consent_title,"Wir danken für Ihre Teilnahme",,,
-survey_information,Disclaimer,,,
-copy_success,Kopiert,,,
-days_ago,Tage,,,
-hours_ago,Stunden,,,
-minutes_ago,Minuten,,,
-seconds_ago,Sekunden,,,
-query_from,von,,,
-query_to,an,,,
-language_title,Englisch,,,
-receive,Erhalten,,,
-history,Übersicht,,,
-scan_qr_code,"QR Code scannen",,,
-qr_code,"QR Code",,,
-scan_qr_code_title,"QR-Code scannen",,,
-message_read_QR_code,"QR-Code erfolgreich eingelesen",,,
-scan_fail_title,"Scan fehlgeschlagen",,,
-data_not_recognised_message,"Daten nicht erkannt",,,
-scan_fail_button,OK,,,
-permission_denied,"Zugriff verweigert",,,
-expiration_day_title,"Verfügbar bis",,,
-amount_offer,Belohnung,,,
-offers_card_title,Angebote,,,
-agreement_title,"Einverständnis des Nutzers",,,
-Thank_you_description,"Vielen Dank, dass Sie die Centiva App der HIT Stiftung heruntergeladen haben.",,,
-read_term_berfore_proceeding,"Bitte lesen Sie die Zusammenfassung der Allgemeinen Geschäftsbedingungen, bevor Sie fortfahren:",,,
-first_agreement,"Centiva ist KEINE medizinische Anwendung und kann eine ärztliche Beratung nicht ersetzen. Falls Sie medizinische Hilfe benötigen, wenden Sie sich bitte an einen Arzt oder eine medizinische Versorgungseinrichtung.",,,
-second_agreement,"Sie müssen mindestens 13 Jahre alt sein, um ein Konto zu eröffnen.",,,
-third_agreement,"Weder erhält oder speichert HIT Stiftung Ihre Daten, noch gibt sie diese an Dritte weiter.",,,
-fourth_agreement,"Ihre Gesundheits- und demographischen Daten, sowie die Wallet-Daten werden mit Ihrem PIN verschlüsselt und im lokalen Speicher Ihres Mobilgeräts gespeichert. Wenn Sie über die Centiva App an einer Datenabfrage durch eine externe Organisation teilnehmen, werden die Daten direkt von Ihrem Gerät an diese übertragen.",,,
-fifth_agreement,"Sie allein sind verantwortlich für die Aufbewahrung Ihrer Daten, einschließlich Ihres PIN und der Sicherungskopie des Wallets!",,,
-sixth_agreement,"Wenn Sie Daten über unsere Plattform einem Informationssuchenden zur Verfügung stellen, gelten dessen Datenschutzrichtlinien sowie Nutzungsbedingungen und die von ihm angebotene Gegenleistung.",,,
-agree_description,"Mit ""Zustimmen"" erklären Sie sich mit unseren Nutzungsbedingungen und der Datenschutzerklärung (siehe unten) einverstanden. Sollten Sie nicht damit einverstanden sein, können Sie leider nicht auf unsere Dienstleistung zugreifen.",,,
-term_of_use,Nutzungsbedingungen,,,
-privacy_policy,Datenschutzbestimmungen,,,
-and_of_term_policy,Datenschutzerklärung,,,
-decline_and_abort_registration,"Registrierung ablehnen und abbrechen",,,
-title_decline_and_abort_registration,"Um Fortzufahren, müssen Sie den Allgemeinen Geschäftsbedingungen und der Datenschutzerklärung zustimmen.",,,
-message_decline_and_abort_resgistration,"Möchten Sie die Anwendung wirklich beenden?",,,
-not_enough_xem_warning,"Ungenügendes XEM Guthaben.",,,
-please_get_more_xem,"XEM erweben an",,,
-here,hier,,,
-message_permission_accept,"Der Zugang wird nur für die Registrierung bei Centiva verwendet. Die App tätigt oder empfängt keine Telefonate.",,,
-language,Sprache:,,,
-app_settings,"App Einstellungen",,,
-app_language,"App Sprache",,,
-only_show_query_in_language,"Zeige nur Anfragen in",,,
-faq,"Häufig gestellte Fragen",,,
-feedback_to_email,"Feedback senden ",,,
-SENT,Gesendet,,,
-MESSAGE,Nachricht,,,
-TIME_TRANSACTION_DETAIL,Zeit,,,
-MAIL_SHARE_ERROR_TITLE,"Keine Email-Konto",,,
-MAIL_SHARE_ERROR_SUB_TITLE,"Bitte geben Sie ein Email-Konto an, damit wir Ihnen eine Email senden können.",,,
-SHARE_OPTION_TITLE,"Wählen Sie eine App.",,,
-STORE_BACKUP_PHRASE_BUTTON,"Backup-Phrase speichern.",,,
-PASTE_BACKUP_PHRASE,"Backup-Phrase kopieren.",,,
-REFERRAL_CARD_TITLE,"Laden Sie einen Kontakt ein.",,,
-REFERRAL_DESCRIPTION,"Laden Sie einen Kontakt zu CENTIVA ein und erhalten Sie",,,
-REFERRAL_SUBDESCRIPTION,"wenn Ihr Kontakt seine Registrierung abgeschlossen hat.",,,
-COPY_BUTTON,"Empfehlungslink kopieren.",,,
-QR_CODE_SHARE_DESCRIPTION,"Oder lassen Sie Ihren Freund diesen QR-Code scannen.",,,
-TOKEN_DESCRIPTION,"DHP Token",,,
-REDEEM_POPUP_TITLE,Einlösen,,,
-REDEEM_POPUP_MESSAGE,"Das Angebot wird gesendet an ",,,
-REDEEM_SUCCESSFUL_MESSAGE,"Einlösung erfolgreich. Sie werden in Kürze weitere Informationen erhalten.",,,
-REDEEM_HIGLIGHTS,Höhepunkte,,,
-REDEEM_TOKEN_REQUIRED_DESCRIPTION,"DHP nötig",,,
-REDEEM_QUANTITY_DESCRIPTION,"Sie erhalten",,,
-REDEEM_BUTTON,"Jetzt einlösen",,,
-INFO,Info,,,
-USER_INFO_REDEMPTION,Einlösen,,,
-USER_INFO_REDEMPTION_BUTTON,Einlösen,,,
-AVAILABLE_QUERIES_HOME_PAGE,Verfügbar,,,
-COPY_CONFIRMATION_DETAIL,"Bestätigungsdetails kopieren",,,
-COPYRIGHT,"Copyright &#9400; HIT Stiftung 2020",,,
-APP_VERSION,App-Version,,,
-DEVICE_MODEL,Gerätemodell,,,
-OS_VERSION,"OS Version",,,
-MANUFACTURER,Hersteller,,,
-COPY,Kopieren,,,
-ABOUT,"Über
-",,,
-OK,Ok,,,
-REENTER_HEALTH_DATA_TITLE,"Keine Gesundheitsdaten eingegeben | vorhanden.",,,
-REENTER_HEALTH_DATA_MESSAGE,"Gesundheitsdaten konnten nach dem App-Update nicht gelesen werden, bitte erneut eingeben. ",,,
-VERIFY_PHONE_AGAIN_TITLE,"Überprüfung per SMS nicht erfolgreich",,,
-VERIFY_PHONE_AGAIN_MESSAGE,"Erneut bestätigen um Registrierung abzuschliessen",,,
-PLEASE_GET_MORE_HIT,"Sie benötigen mehr DHP",,,
-GET_SMS_CODE_FAIL_TITLE,"SMS-Code konnte nicht empfangen werden",,,
-GET_SMS_CODE_FAIL_CONTENT,"Das Format der angegebenen Telefonnummer ist falsch. Die Telefonnummern haben folgendes Format[+][Landesvorwahl][Teilnehmernummer mit Ortsvorwahl]. ",,,
-INCOMPLETE_BASIC_HEATH_TITLE,"Unvollständige Gesundheitsangaben.",,,
-INCOMPLETE_BASIC_HEATH_CONTENT,"Halten Sie Ihre Gesundheitsinformationen auf dem aktuellen Stand, um das Beste aus der Centiva App herauszuholen. Diese Informationen werden nur auf Ihrem Gerät gespeichert und dienen zur Auswahl der für Sie relevanten Anfragen. Diese werden mit niemandem geteilt.",,,
-REDEMPTION_DETAILS,"Details zur Einlösung",,,
-SHOW_DETAILS_USER_DATA,"Details anzeigen ",,,
-REDEMPTION_ID_DESCRIPTION,Einlösungs-ID,,,
-OFFER_PAGE_TITLE,"Angaben zum Angebot ",,,
-BY_CHOOSING_AGREE,"Mit ihrer Zustimmung akzeptieren Sie unsere",,,
-VERIFY_PROVIDER,"Anbieter hinzugefügt",,,
-PROVIDER_NAME,"Name des Anbieters ",,,
-PROVIDER_ADDR,"Anbieter-Adresse ",,,
-YOUR_ID,"Ihre ID ",,,
-VERIFY_PROVIDER_FAIL,"Information des Anbieters ist nicht korrekt",,,
-VERIFY_PROVIDER_SUCCESS,"Der Anbieter wurde erfolgreich hinzugefügt",,,
-VERIFY,Verifizieren,,,
-PROVIDER_LIST,Anbieter,,,
-VERIFY_PROVIDER_TITLE_FAIL,"Ungültige Informationen",,,
-ALREADY_ADDED_PROVIDER,"Anbieter existiert bereits",,,
-VERIFY_MNEMONIC_SAVE_BUTTON,Speichern,,,
-TITLE_VERIFY_MNEMONIC,"Backup verifizieren",,,
-NUMBER_KEYBOARD_1,1,,,
-NUMBER_KEYBOARD_2,2,,,
-NUMBER_KEYBOARD_3,3,,,
-NUMBER_KEYBOARD_4,4,,,
-NUMBER_KEYBOARD_5,5,,,
-NUMBER_KEYBOARD_6,6,,,
-NUMBER_KEYBOARD_7,7,,,
-NUMBER_KEYBOARD_8,8,,,
-NUMBER_KEYBOARD_9,9,,,
-NUMBER_KEYBOARD_0,0,,,
-ADD_PROVIDER_TITLE,"Anbieter hinzufügen",,,
-REVIEW_PROVIDER_TITLE,Anbieter,,,
-PATIENT_NAME,"Name des Patienten",,,
-NAME_NOT_PROVIDE,"Name nicht angegeben",,,
-QR_SCAN_CONNECTION_ERROR,Verbindungsfehler,,,
-QR_SCAN_USE_THE_SAME_ID_ERROR,"ID wird bereits verwendet",,,
-QR_SCAN_VERIFY_DATA_FALSE,"Überprüfung der Daten fehlgeschlagen",,,
-QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Überprüfung der Daten fehlgeschlagen",,,
-ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Adresse nicht gefunden.",,,
-consent_alert_title,"Öffnen der URL im Browser",,,
-consent_alert_agree,Weiter,,,
+Verwenden Sie Ihre Passphrase um Ihr Wallet wiederherzustellen."
+other,Andere
+consent_content,"Vielen Dank für Ihre Bereitschaft, an der folgenden Anfrage teilzunehmen. Sie sind damit einverstanden, dass die angeforderten Daten zur Verfügung zu stellen und Ihre personenbezogenen Daten gemäss der geltenden Datenschutzerklärung verarbeitet werden."
+consent_title,"Wir danken für Ihre Teilnahme"
+survey_information,Disclaimer
+copy_success,Kopiert
+days_ago,Tage
+hours_ago,Stunden
+minutes_ago,Minuten
+seconds_ago,Sekunden
+query_from,von
+query_to,an
+language_title,Englisch
+receive,Erhalten
+history,Übersicht
+scan_qr_code,"QR Code scannen"
+qr_code,"QR Code"
+scan_qr_code_title,"QR-Code scannen"
+message_read_QR_code,"QR-Code erfolgreich eingelesen"
+scan_fail_title,"Scan fehlgeschlagen"
+data_not_recognised_message,"Daten nicht erkannt"
+scan_fail_button,OK
+permission_denied,"Zugriff verweigert"
+expiration_day_title,"Verfügbar bis"
+amount_offer,Belohnung
+offers_card_title,Angebote
+agreement_title,"Einverständnis des Nutzers"
+Thank_you_description,"Vielen Dank, dass Sie die Centiva App der HIT Stiftung heruntergeladen haben."
+read_term_berfore_proceeding,"Bitte lesen Sie die Zusammenfassung der Allgemeinen Geschäftsbedingungen, bevor Sie fortfahren:"
+first_agreement,"Centiva ist KEINE medizinische Anwendung und kann eine ärztliche Beratung nicht ersetzen. Falls Sie medizinische Hilfe benötigen, wenden Sie sich bitte an einen Arzt oder eine medizinische Versorgungseinrichtung."
+second_agreement,"Sie müssen mindestens 13 Jahre alt sein, um ein Konto zu eröffnen."
+third_agreement,"Weder erhält oder speichert HIT Stiftung Ihre Daten, noch gibt sie diese an Dritte weiter."
+fourth_agreement,"Ihre Gesundheits- und demographischen Daten, sowie die Wallet-Daten werden mit Ihrem PIN verschlüsselt und im lokalen Speicher Ihres Mobilgeräts gespeichert. Wenn Sie über die Centiva App an einer Datenabfrage durch eine externe Organisation teilnehmen, werden die Daten direkt von Ihrem Gerät an diese übertragen."
+fifth_agreement,"Sie allein sind verantwortlich für die Aufbewahrung Ihrer Daten, einschließlich Ihres PIN und der Sicherungskopie des Wallets!"
+sixth_agreement,"Wenn Sie Daten über unsere Plattform einem Informationssuchenden zur Verfügung stellen, gelten dessen Datenschutzrichtlinien sowie Nutzungsbedingungen und die von ihm angebotene Gegenleistung."
+agree_description,"Mit ""Zustimmen"" erklären Sie sich mit unseren Nutzungsbedingungen und der Datenschutzerklärung (siehe unten) einverstanden. Sollten Sie nicht damit einverstanden sein, können Sie leider nicht auf unsere Dienstleistung zugreifen."
+term_of_use,Nutzungsbedingungen
+privacy_policy,Datenschutzbestimmungen
+and_of_term_policy,Datenschutzerklärung
+decline_and_abort_registration,"Registrierung ablehnen und abbrechen"
+title_decline_and_abort_registration,"Um Fortzufahren, müssen Sie den Allgemeinen Geschäftsbedingungen und der Datenschutzerklärung zustimmen."
+message_decline_and_abort_resgistration,"Möchten Sie die Anwendung wirklich beenden?"
+not_enough_xem_warning,"Ungenügendes XEM Guthaben."
+please_get_more_xem,"XEM erweben an"
+here,hier
+message_permission_accept,"Der Zugang wird nur für die Registrierung bei Centiva verwendet. Die App tätigt oder empfängt keine Telefonate."
+language,Sprache:
+app_settings,"App Einstellungen"
+app_language,"App Sprache"
+only_show_query_in_language,"Zeige nur Anfragen in"
+faq,"Häufig gestellte Fragen"
+feedback_to_email,"Feedback senden "
+SENT,Gesendet
+MESSAGE,Nachricht
+TIME_TRANSACTION_DETAIL,Zeit
+MAIL_SHARE_ERROR_TITLE,"Keine Email-Konto"
+MAIL_SHARE_ERROR_SUB_TITLE,"Bitte geben Sie ein Email-Konto an, damit wir Ihnen eine Email senden können."
+SHARE_OPTION_TITLE,"Wählen Sie eine App."
+STORE_BACKUP_PHRASE_BUTTON,"Backup-Phrase speichern."
+PASTE_BACKUP_PHRASE,"Backup-Phrase kopieren."
+REFERRAL_CARD_TITLE,"Laden Sie einen Kontakt ein."
+REFERRAL_DESCRIPTION,"Laden Sie einen Kontakt zu CENTIVA ein und erhalten Sie"
+REFERRAL_SUBDESCRIPTION,"wenn Ihr Kontakt seine Registrierung abgeschlossen hat."
+COPY_BUTTON,"Empfehlungslink kopieren."
+QR_CODE_SHARE_DESCRIPTION,"Oder lassen Sie Ihren Freund diesen QR-Code scannen."
+TOKEN_DESCRIPTION,"DHP Token"
+REDEEM_POPUP_TITLE,Einlösen
+REDEEM_POPUP_MESSAGE,"Das Angebot wird gesendet an "
+REDEEM_SUCCESSFUL_MESSAGE,"Einlösung erfolgreich. Sie werden in Kürze weitere Informationen erhalten."
+REDEEM_HIGLIGHTS,Höhepunkte
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,"DHP nötig"
+REDEEM_QUANTITY_DESCRIPTION,"Sie erhalten"
+REDEEM_BUTTON,"Jetzt einlösen"
+INFO,Info
+USER_INFO_REDEMPTION,Einlösen
+USER_INFO_REDEMPTION_BUTTON,Einlösen
+AVAILABLE_QUERIES_HOME_PAGE,Verfügbar
+COPY_CONFIRMATION_DETAIL,"Bestätigungsdetails kopieren"
+COPYRIGHT,"Copyright &#9400; HIT Stiftung 2020"
+APP_VERSION,App-Version
+DEVICE_MODEL,Gerätemodell
+OS_VERSION,"OS Version"
+MANUFACTURER,Hersteller
+COPY,Kopieren
+ABOUT,Über
+OK,Ok
+REENTER_HEALTH_DATA_TITLE,"Keine Gesundheitsdaten eingegeben | vorhanden."
+REENTER_HEALTH_DATA_MESSAGE,"Gesundheitsdaten konnten nach dem App-Update nicht gelesen werden, bitte erneut eingeben. "
+VERIFY_PHONE_AGAIN_TITLE,"Überprüfung per SMS nicht erfolgreich"
+VERIFY_PHONE_AGAIN_MESSAGE,"Erneut bestätigen um Registrierung abzuschliessen"
+PLEASE_GET_MORE_HIT,"Sie benötigen mehr DHP"
+GET_SMS_CODE_FAIL_TITLE,"SMS-Code konnte nicht empfangen werden"
+GET_SMS_CODE_FAIL_CONTENT,"Das Format der angegebenen Telefonnummer ist falsch. Die Telefonnummern haben folgendes Format[+][Landesvorwahl][Teilnehmernummer mit Ortsvorwahl]. "
+INCOMPLETE_BASIC_HEATH_TITLE,"Unvollständige Gesundheitsangaben."
+INCOMPLETE_BASIC_HEATH_CONTENT,"Halten Sie Ihre Gesundheitsinformationen auf dem aktuellen Stand, um das Beste aus der Centiva App herauszuholen. Diese Informationen werden nur auf Ihrem Gerät gespeichert und dienen zur Auswahl der für Sie relevanten Anfragen. Diese werden mit niemandem geteilt."
+REDEMPTION_DETAILS,"Details zur Einlösung"
+SHOW_DETAILS_USER_DATA,"Details anzeigen "
+REDEMPTION_ID_DESCRIPTION,Einlösungs-ID
+OFFER_PAGE_TITLE,"Angaben zum Angebot "
+BY_CHOOSING_AGREE,"Mit ihrer Zustimmung akzeptieren Sie unsere"
+VERIFY_PROVIDER,"Anbieter hinzugefügt"
+PROVIDER_NAME,"Name des Anbieters "
+PROVIDER_ADDR,"Anbieter-Adresse "
+YOUR_ID,"Ihre ID "
+VERIFY_PROVIDER_FAIL,"Information des Anbieters ist nicht korrekt"
+VERIFY_PROVIDER_SUCCESS,"Der Anbieter wurde erfolgreich hinzugefügt"
+VERIFY,Verifizieren
+PROVIDER_LIST,Anbieter
+VERIFY_PROVIDER_TITLE_FAIL,"Ungültige Informationen"
+ALREADY_ADDED_PROVIDER,"Anbieter existiert bereits"
+VERIFY_MNEMONIC_SAVE_BUTTON,Speichern
+TITLE_VERIFY_MNEMONIC,"Backup verifizieren"
+NUMBER_KEYBOARD_1,1
+NUMBER_KEYBOARD_2,2
+NUMBER_KEYBOARD_3,3
+NUMBER_KEYBOARD_4,4
+NUMBER_KEYBOARD_5,5
+NUMBER_KEYBOARD_6,6
+NUMBER_KEYBOARD_7,7
+NUMBER_KEYBOARD_8,8
+NUMBER_KEYBOARD_9,9
+NUMBER_KEYBOARD_0,0
+ADD_PROVIDER_TITLE,"Anbieter hinzufügen"
+REVIEW_PROVIDER_TITLE,Anbieter
+PATIENT_NAME,"Name des Patienten"
+NAME_NOT_PROVIDE,"Name nicht angegeben"
+QR_SCAN_CONNECTION_ERROR,Verbindungsfehler
+QR_SCAN_USE_THE_SAME_ID_ERROR,"ID wird bereits verwendet"
+QR_SCAN_VERIFY_DATA_FALSE,"Überprüfung der Daten fehlgeschlagen"
+QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Überprüfung der Daten fehlgeschlagen"
+ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Adresse nicht gefunden."
+consent_alert_title,"Öffnen der URL im Browser"
+consent_alert_agree,Weiter
