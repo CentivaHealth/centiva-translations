@@ -44,7 +44,7 @@ errormessage_server_error_occured,"Erreur du serveur",,,
 progress_dialog_wait_message,"Attendez s'il vous plait",,,
 welcome,Bienvenue,,,
 welcome_content,"Partagez vos données sur votre santé tout en protegéant votre confidentialité!
-Dans le cadre de l'épédimie COVID-19, cette application peut vous informer  d' individus infectés  ( se situant dans votre proximité ? ). Ce service a été développé avec la collaboration de l'institut Suisse des maladies tropicales et de la santé",,,
+Dans le cadre de l'épédimie COVID-19, cette application peut vous informer  d' individus infectés. Ce service a été développé avec la collaboration de l'institut Suisse des maladies tropicales et de la santé",,,
 recover_existing_wallet,"Récuperer un Porte-monnaie Existant",,,
 create_new_wallet,"Créer Nouveau Porte-monnaie",,,
 recover_description,"Saisissez votre phrase de sauvegarde pour récuperer votre porte-monnaie",,,
