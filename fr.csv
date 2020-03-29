@@ -1,382 +1,381 @@
-ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Votre compte n'a pas assez de credits",,,
-ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"Ce mosaïque ne peut pas être envoyer",,,
-ALERT_ONLY_MOBILE_DEVICE,"Cette operation est uniquement disponible sur les appareils portables.",,,
-ALERT_PHONE_DISCONNECTED,"Votre accès internet ne fonctionne pas",,,"Vous n'etes pas connectes a internet"
-ALERT_SUBTITLE_PHONE_DISCONNECTED,"Veuillez reconnecter a l'internet et relancer l'appli.",,,
-ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"Adresse non valable",,,
-ENTER_ALL_FIELDS,"Veuillez remplir tout les champs",,,
-INVALID_PASSPHRASE,"phrase de sauvegarde non valable",,,
-NOT_ENOUGH_HIT,"Vous n'avez pas assez de crédits DHP",,,"vous n'avez pas assez de credits HIT"
-GENDER,"Sexe
-",,,
-LOAD_MORE_TRANSACTION,"Télécharger plus de transactions",,,
-LANGUAGES.en,Anglais,,,
-LANGUAGES.de,Allemand,,,
-LANGUAGES.fr,Français,,,
-LANGUAGES.ja,Japonais,,,
-LANGUAGES.vi,Vietnamien,,,
-LANGUAGES.zh,Mandarin,,,
-LANGUAGES.es,Espagnol,,,
-LANGUAGES_ONLY_SHOW_QUERY,Français,,,
-JANUARY,janvier,,,
-FEBRUARY,février,,,
-MARCH,mars,,,
-APRIL,avril,,,
-MAY,mai,,,
-JUNE,juin,,,
-JULY,juillet,,,
-AUGUST,août,,,
-SEPTEMBER,septembre,,,
-OCTOBER,octobre,,,
-NOVEMBER,novembre,,,
-DECEMBER,décembre,,,
-SMOKER_STATUS_NON_SMOKER,"Non fumeur",,,
-SMOKER_STATUS_OCCASIONAL,"Fumeur occasionel",,,
-SMOKER_STATUS_REGULAR,"Fumeur regulier",,,
-SMOKER_STATUS_HEAVY,"Grand fumeur",,,
-PHYSICAL_ACTIVITY_LOW,"Inactif ou sédentaire",,,
-PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,"Peu actif",,,
-PHYSICAL_ACTIVITY_REGULAR,"Modérément actif",,,
-PHYSICAL_ACTIVITY_HIGHT,"Très actif",,,
-cancel,Annuler,,,
-errormessage_error_occured,"Une erreur est survenue",,,
-errormessage_server_error_occured,"Erreur du serveur",,,
-progress_dialog_wait_message,"Attendez s'il vous plait",,,
-welcome,Bienvenue,,,
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Votre compte n'a pas assez de credits"
+ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"Ce mosaïque ne peut pas être envoyer"
+ALERT_ONLY_MOBILE_DEVICE,"Cette operation est uniquement disponible sur les appareils portables."
+ALERT_PHONE_DISCONNECTED,"Votre accès internet ne fonctionne pas""Vous n'etes pas connectes a internet"
+ALERT_SUBTITLE_PHONE_DISCONNECTED,"Veuillez reconnecter a l'internet et relancer l'appli."
+ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"Adresse non valable"
+ENTER_ALL_FIELDS,"Veuillez remplir tout les champs"
+INVALID_PASSPHRASE,"phrase de sauvegarde non valable"
+NOT_ENOUGH_HIT,"Vous n'avez pas assez de crédits DHP""vous n'avez pas assez de credits HIT"
+GENDER,"Sexe"
+LOAD_MORE_TRANSACTION,"Télécharger plus de transactions"
+LANGUAGES.en,Anglais
+LANGUAGES.de,Allemand
+LANGUAGES.fr,Français
+LANGUAGES.ja,Japonais
+LANGUAGES.vi,Vietnamien
+LANGUAGES.zh,Mandarin
+LANGUAGES.es,Espagnol
+LANGUAGES_ONLY_SHOW_QUERY,Français
+JANUARY,janvier
+FEBRUARY,février
+MARCH,mars
+APRIL,avril
+MAY,mai
+JUNE,juin
+JULY,juillet
+AUGUST,août
+SEPTEMBER,septembre
+OCTOBER,octobre
+NOVEMBER,novembre
+DECEMBER,décembre
+SMOKER_STATUS_NON_SMOKER,"Non fumeur"
+SMOKER_STATUS_OCCASIONAL,"Fumeur occasionel"
+SMOKER_STATUS_REGULAR,"Fumeur regulier"
+SMOKER_STATUS_HEAVY,"Grand fumeur"
+PHYSICAL_ACTIVITY_LOW,"Inactif ou sédentaire"
+PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,"Peu actif"
+PHYSICAL_ACTIVITY_REGULAR,"Modérément actif"
+PHYSICAL_ACTIVITY_HIGHT,"Très actif"
+cancel,Annuler
+errormessage_error_occured,"Une erreur est survenue"
+errormessage_server_error_occured,"Erreur du serveur"
+progress_dialog_wait_message,"Attendez s'il vous plait"
+welcome,Bienvenue
 welcome_content,"Partagez vos données sur votre santé tout en protegéant votre confidentialité!
-Dans le cadre de l'épédimie COVID-19, cette application peut vous informer  d' individus infectés. Ce service a été développé avec la collaboration de l'institut Suisse des maladies tropicales et de la santé",,,
-recover_existing_wallet,"Récuperer un Porte-monnaie Existant",,,
-create_new_wallet,"Créer Nouveau Porte-monnaie",,,
-recover_description,"Saisissez votre phrase de sauvegarde pour récuperer votre porte-monnaie",,,
-backup_phrase_hint,"Saisissez votre phrase de sauvegarde",,,
-backup_phrase_popup_title,"Avez-vous copier la phrase de sauvegarde?",,,
-backup_phrase_popup_message,"Si non, veuillez retourner à la page précédente et copier la. Il n'est pas possible de récuperer le porte-monnaie sans la phrase de sauvegarde. ",,,
-backup_phrase_popup_positive_button,Oui,,,
-backup_phrase_popup_negative_button,"Non: retournez à la page précédente",,,
-recover_wallet,"Récuperation Porte-monnaie",,,
-recover_wallet_success,"Récuperation Porte-monnaie Réussie",,,
-pin_description,"Proceder sans NIP. AVERTISSEMENT: Toutes les personnes ayant acces à votre appareil pourront accéder à cette application et à votre porte-monnaie  DHP!",,,
-set_pin_title,"Configuration du NIP ",,,
-step_1_2,"1 / 2 ",,,
-step_2_2,"2 / 2 ",,,
-set_app_pin_first_description_first,"Quelques petites étapes de configuration avant de commencer... ",,,
-set_app_pin_first_description_second,"Veuillez configurer votre NIP",,,
-enter_pin_again,"Verifiez votre NIP",,,
-enter_pin_here,"Composez votre NIP",,,
-enter_pin_here_again,"Verifiez votre NIP à nouveau",,,
-pin_does_not_match,"Non concordance des NIP. Veuillez réssayer ou retournez à la page précédante pour séléctioner un nouveau NIP.",,,
-create_wallet_step_1_3,"1 / 3 ",,,
-create_wallet_step_2_3,"2 / 3 ",,,
-create_wallet_step_3_3,"3 / 3 ",,,
-creating_back_up_phrase,"Configuration de la phrase de sauvegarde",,,
-backup_detail,"Une longue phrase secrète sera crée afin de sécuriser votre porte-monnaie",,,
-creating_randomness,"Calcul des valeurs aléatoires",,,
-tap_to_copy,"Cliquer ici pour copier ",,,
-remind_save_backup_phrase,"Veuillez bien sécuriser la phrase secrète. Elle est nécessaire pour restaurer votre porte-monnaie en cas de réinstallation.",,,
-created_wallet_description,"Création de porte-monnaie réussie",,,
-purpose_of_address,"Il est l'identifiant de votre porte-monnaie et l'adresse de réception des tokens.",,,
-view_wallet_address_later,"L'adresse peut être affichée sur l'onglet ""Porte-monnaie""",,,
-mnemonic_title,"Verification de la phrase mnemonique",,,
-backup_phrase_mnemonic_description,"Phrase de sauvegarde",,,
-select_all_words_mnemonic_anounce,"Veuillez sélectionner tous les mots.",,,
-words_select_mnemonic,"Veuillez recomposer votre phrase de sauvegarde: ",,,
-verify_phone_number_title,"Verification du numéro de telephone",,,
-country_description,Pays,,,
-phone_number_description,"Numéro de téléphone",,,
-get_access_code_btn,"Recevoir le code d'acces",,,
-health_data_title,"Données santé",,,
-location_description,Lieu,,,
-physics_description,"Informations élementaires",,,
-health_description,Santé,,,
-health_conditions_description,"l'état de santé",,,
-location_explain,"Cette information est nécéssaire pour vous proposer des offres et opportunitées de participer à d'autres sondages ou études. Elle n'est jamais partagée ou transmise.",,,
-physics_explain,"Cette information est nécéssaire pour vous proposer des offres et opportunitées de participer à d'autres sondages ou études. Elle n'est jamais partagée ou transmise.",,,
-health_explain,"Cette information est nécéssaire pour vous proposer des offres et opportunitées de participer à d'autres sondages ou études. Elle n'est jamais partagée ou transmise.",,,
-store_only_on_device,"Cette  information est sauvegardée uniquement dans votre téléphone mobile pour filtrer les demandes d'information. Elle n'est jamais partagée ou transmise.",,,
-gender_question,"Sexe: ",,,
-invalid_weight,"Valeur  éronnée",,,
-invalid_height,"Valeur éronnée",,,
-next_page_btn,"Page suivante ",,,
-profile_btn,Profil,,,
-done_btn,Terminé.,,,
-transactions_description,Transactions,,,
-invite_friend_sub_description_1,"Vous recevrez",,,
-invite_friend_sub_description_2,"DHP crédits pour chacun de vos amis qui s'inscrivent",,,
-new_available_queries,"nouvelles requêtes disponibles: ",,,
-you_have_no_queries_yet,"vous n'avez pas encore accorder des requêtes",,,
-do_some_fancy_questionnaire,"Vous trouverez ici des requêtes dans lesquelles vous avez participé.",,,
-title_show_all,"Afficher tout",,,
-your_inbox_is_empty,"Boite de réception vide",,,
-please_check_back_later,"Essayer plus tard.",,,
-information_query_detail_description,Information,,,
-time_need,"Durée estimée: ",,,
-available_until,"Disponible jusq'au: ",,,
-app_profile_setting,"Parametres ",,,
-enter_your_pin_pin_page,"Votre code NIP: ",,,
-enter_your_back_up_phrase,"La phrase de sauvegarde: ",,,
-my_wallet_is_long_hex_string,"Ma phrase de sauvegarde est en forme d'un long code alphanumérique.",,,
-enter_pin_to_show_backup,"Composez votre NIP pour afficher la phrase de sauvegarde",,,
-enter_pin_to_show_private_key,"Composez votre NIP pour afficher la clé privée",,,
-pending_transactions,"En attente ",,,
-help_agreement_btn,"Aide ",,,
-receive_token,"Réception de Tokens",,,
-purpose_query_detail,Objectif,,,
-redeem_highlights_new,Résumé,,,
-receive_token_title,"Réception de Tokens",,,
-address_description_receive_token_page,"Voici votre adresse:",,,
-tap_copy_address_description,"Copier et coller l'adresse de réception de Tokens",,,
-scan_qr_description,"Voice le code QR correspondant a votre adresse:",,,
-hex_back_up_phrase,"La phrase ancienne de sauvegarde",,,
-referral_link_description,"Le lien de parrainage",,,
-referral_instruction_1,"Invitez vos amis a rejoindre Centiva et profitez!",,,
-referral_instruction_2,"tokens HIT lorsque votre ami s'inscrit sur l'appli. Veuillez copier le lien ci-dessus et le coller dans un email ou une message instantanée à votre ami.",,,
-save_back_up_phrase_title,"Enregistrer la phrase de sauvegarde",,,
-save_mnemonic_description,"Veuillez bien sauvegarder cette phrase mnemonique. Elle est necessaire pour restaurer votre portemonnaie en cas de réinstallation.",,,
-save_passphrase_description,"Veuillez bien sauvegarder cette phrase. Elle est necessaire pour restaurer votre portemonnaie en cas de réinstallation.",,,
-next_word_match,"Suivant: verification",,,
-recipient,Destinataire,,,
-hit_available_amount,"Montant disponible",,,
-tx_fee,"Frais de transaction",,,
-xem_available,"Quantité de XEM:",,,
-add_xem_to_your_wallet,"Ajouter XEM",,,
-for_instruction,renseignements,,,
-recipient_address_description,"L'adresse du destinataire",,,
-transaction_summary,"Le sommaire de la transaction",,,
-sent_description,Envoyé,,,
-ok_cool_btn,Ok!,,,
-detail_description,Details,,,
-message_description,Message:,,,
-transaction_id,"Identifiant de la transaction",,,
-action_description,Operations,,,
-send_token_btn_tx_detail,"Envoie de tokens",,,
-receive_token_btn_tx_detail,"Réception de Tokens",,,
-scan_code_btn_tx_detail,"Scanner le code",,,
-redemption_info_title,"Détails d'échange",,,
-access_code_description,"Code d'accès",,,
-wallet_passphrase_title,"Phrase secrète",,,
-warning_descript_1,"MIse à jour disponible",,,
-warning_descript_2,"Veullez créer une phrase de sauvegarde mnémonique",,,
-wallet_private_key_title,"Clé Privée",,,
-INVALID_ACCESS_CODE_TITLE,"Code d'acces non valable",,,
-INVALID_ACCESS_CODE_CONTENT,"Veuillez verifier le code d'acces",,,
-transaction_confirm_title,Confirmation,,,
-button_negative_send,Annuler,,,
-request_camera_permission_title,"Ne peut pas accéder a la camera",,,
-request_camera_permission_sub_title,"Centiva n'a pas pu accéder a la camera. Veuillez permettre l'appli de l'accéder afin de pouvoir scanner le code QR. Cliquez ""Parametres"", choissisez ""Centiva"" et ""Permettre accès à la camera""",,,
-button_positive_permission,"Permettre l'acces",,,
-birth_month_selector,"Mois de naissance",,,
-birth_year_selector,"L'année de naissance",,,
-denied_query_btn,Refusé,,,
-continue_btn,Continuer,,,
-copy_address_success,"Code d'accès copié",,,
-receive_tx_detail_title,Reçu,,,
-transaction_detail_redemption,échange,,,
-warning_create_wallet_back_up_1,"Sauvegarde du portemonnaie",,,
-warning_create_wallet_back_up_2,"Veuillez créer une phrase de sauvegarde",,,
-words_not_match_message,"La phrase n'a pas été verifiée",,,
-tap_here,"Cliquez ici",,,
-change_to_mnemonic_toast_notification,"Sauvegarde réussi",,,
-current_pin_title,"Saisissez votre NIP actuel",,,
-new_pin_title,"Saisissez nouveau NIP",,,
-set_pin,"Configuration NIP",,,
-skip,Ignorer,,,
-change_pin,"Changement NIP",,,
-generate_randomness,"Génération de numbres aléatoires pour sécuriser votre porte-monnaie",,,
-next,Suivant,,,
-backup_phrase,"Phrase de Sauvegarde",,,
-copy_phrase,"Copier la Phrase",,,
-backup_phrase_description,"Voice votre phrase de sauvegarde",,,
-public_key,"Clé Publique",,,
-public_key_description,"Utilisée par l'application pour construire des transactions est des signatures digitales numériques pour l'authentication",,,
-private_key,"Clé Privée",,,
-private_key_description,"Utilisée par l'application pour envoyer des transactions. Veuillez la garder soigneusement.",,,
-wallet_address_description,"L'identification de votre compte HIT, et l'adresse de destination pour des transaction reçues.",,,
-wallet_address,"Adresse compte",,,
-verify_phone_description,"Vous recevrez un code d'activation par SMS",,,
-your_mobile_number,"Votre numéro telephone portable +xx xxxxxxxxx",,,
-resend_sms_code,"Renvoyer code SMS",,,
-get_sms_code,"Obtenez code SMS",,,
-verify_code_description,"Saisissez votre code SMS",,,
-verify_code,"Vérification Code",,,
-enter_sms_code,"Saisissez code SMS",,,
-set_pin_again_title,"Resaisissez votre NIP",,,
-title_home,Accueil,,,
-invalid_phone_number,"Numéro de telephone érronée",,,
-invalid_code,"Code érronée",,,
-verify_phone_with_sms,"Vérification par SMS",,,
-account_wallet_name,HIT,,,
-verify_phone_number,"Vérification par SMS",,,
-create_wallet_title_1,"Création Porte-monnaie",,,
-recover_wallet_title,"Récuperation Porte-monnaie",,,
-set_app_pin_title,"Configuration NIP",,,
-errormessage_confirm_pin_wrong,"Les NIP saisis ne corrrespondent pas",,,
-errormessage_current_pin_wrong,"NIP actuel n'est pas correct",,,
-errormessage_login_fail,"NIP n'est pas correct. Veuillez resssayer.",,,
-successmessage_change_pin_success,"Changement NIP réussi",,,
-successmessage_set_pin_success,"Configuration NIP réussi",,,
-successmessage_save_basic_health_data_success,"Sauvegarde données réussie",,,
-bottom_navigation_inbox,"Boite de reception",,,
-bottom_navigation_queries,Recherches,,,
-bottom_navigation_health_data,"Données Santé",,,
-bottom_navigation_wallet,Porte-monnaie,,,
-current_balance,"Solde Actuel",,,
-show_private_key,"Afficher la clé privée",,,
-change_app_pin,"Changement NIP",,,
-wallet_settings,"Configuration Parametres",,,
-male,Masculin,,,
-female,Féminin,,,
-month_of_birth,"Mois de naissance",,,
-year_of_birth,"Année de naissance",,,
-height,Taille,,,
-weight,Poids,,,
-geographical_region,"Région géographique",,,
-physical_activity,"niveau d'activité physique",,,
-smoking,"Statut fumeur",,,
-balance,Balance,,,
-copy_address,"Copier l'adresse",,,
-amount,Montant,,,
-send_token,"Envoyer Tokens",,,
-send_tokens_successfully,"La transaction a réussie",,,
-confirm,Confirmation,,,
-send,Envoyer,,,
-no,Non,,,
-all_tab_title,Ensemble,,,
-all,Ensemble,,,
-accepted,Accepté,,,
-deny,Refusé,,,
-agree_and_continue,"Accepter et continuer",,,
-forgot_pin,"NIP oublié ?",,,
-close_forgot_pin,Fermer,,,
-forgot_pin_description,"Veuillez Réinstaller l'appli et récuperer le porte-monnaie avec la phrase de sauvegarde.",,,
-other,Autre,,,
-consent_content,"Merci pour votre participation à  cette demande de données. En cliquant sur j'accepte, vous acceptez les conditions de la protection des données fournies par la déclaration de confidentialité du demandeur",,,
-consent_title,"Nous vous remercions de votre participation",,,
-survey_information,"clause de non responsabilité",,,
-copy_success,Copié,,,
-days_ago,jours,,,
-hours_ago,heures,,,
-minutes_ago,minutes,,,
-seconds_ago,secondes,,,
-query_from,de,,,
-query_to,à,,,
-language_title,Français,,,
-receive,Reçevoir,,,
-history,Historique,,,
-scan_qr_code,"Scanner code QR",,,
-qr_code,"code QR",,,
-scan_qr_code_title,"Scanner QR code",,,
-message_read_QR_code,"Lecture adresse réussie",,,
-scan_fail_title,"Scan échoué",,,
-data_not_recognised_message,"Données non reconnues",,,
-scan_fail_button,OK,,,
-permission_denied,Permission_refusée,,,
-expiration_day_title,"Disponible jusqu'au",,,
-amount_offer,"Tokens offerts",,,
-offers_card_title,Offres,,,
-agreement_title,"condition d'utilisation",,,
-Thank_you_description,"Merci de télécharger l'appli Centiva de HIT Foundation.",,,
-read_term_berfore_proceeding,"Nous vous prions de lire ce sommaire des conditions d'utilisation avant d'accéder ou d'utiliser Centiva:",,,
-first_agreement,"Centiva n'est pas une application medicale, et n'a pas la prétention d'offrir conseil médical. Si vous avez besoin d'aide médicale, veuillez contactez votre médecin ou appelez les services d'urgence. ",,,
-second_agreement,"Vous devez avoir 13 ans ou plus pour accéder au reseau HIT",,,
-third_agreement,"HIT ne reçoit, ne sauvegarde ni ne partage avec des tiers vos informations médicales.",,,
-fourth_agreement,"Vos données démographiques et médicales, ainsi que les données de votre portefeuille, sont encryptées avec votre code PIN et sauvegardées localement sur votre mobile. Toutes les données que vous fournissez aux demandeurs d'informations sur votre santé sont directement transmises de votre mobile au demandeur.",,,
-fifth_agreement,"Vous êtes seul responsable de la protection de vos informations, y compris de vos sauvegardes de codes PIN et de portefeuilles.",,,
-sixth_agreement,"Lorsque vous fournissez des données demandées par un demandeur via cette plate-forme, les règles de confidentialité et les conditions de service du demandeur s’appliquent aux données fournies ainsi qu’aux avantages offerts par le demandeur.",,,
-agree_description,"En cliquant sur ""Accepter"", vous acceptez d'être lié(e) par les conditions d'utilisation et par la politique de confidentialité en liens ci-dessous.",,,
-term_of_use,"Condition d'utilisation",,,
-privacy_policy,"Politique de confidentialité",,,
-and_of_term_policy,et,,,
-decline_and_abort_registration,Refuser,,,
-title_decline_and_abort_registration,"Vous devez accepter les conditions d'utilisation et la politique de confidentialité pour continuer",,,
-message_decline_and_abort_resgistration,"Voulez-vous quitter l'appli ?",,,
-not_enough_xem_warning,"Solde insuffisant de XEM pour cette transaction.",,,
-please_get_more_xem,"Obtenir d'avantage de XEM",,,
-here,ici:,,,
-message_permission_accept,"Cet accès est uniquement nécessaire pour sécuriser votre enregistrement. L'appli ne fait ni reçoit des appels.",,,
-language,Langue:,,,
-app_settings,"Configuration Appli",,,
-app_language,"Langue d'appli",,,
-only_show_query_in_language,"Afficher uniquement les requêtes en",,,
-faq,FAQ,,,
-feedback_to_email,"Envoyer vos commentaires",,,
-SENT,envoyé,,,
-MESSAGE,message,,,
-TIME_TRANSACTION_DETAIL,Heure,,,
-MAIL_SHARE_ERROR_TITLE,"Pas de compte email disponible",,,
-MAIL_SHARE_ERROR_SUB_TITLE,"Veuillez configurer un comptle email",,,
-SHARE_OPTION_TITLE,"Choisissez une appli",,,
-STORE_BACKUP_PHRASE_BUTTON,"Sauvegarde la phrase",,,
-PASTE_BACKUP_PHRASE,"Coller la phrase de sauvegarde",,,
-REFERRAL_CARD_TITLE,"Inviter un ami",,,
-REFERRAL_DESCRIPTION,"Invitez un ami a HIT et gagnez",,,
-REFERRAL_SUBDESCRIPTION,"lorsqu'il crée un compte HIT",,,
-COPY_BUTTON,"Copier le lien de réference",,,
-QR_CODE_SHARE_DESCRIPTION,"ou présenter ce QR code",,,
-TOKEN_DESCRIPTION,Tokens,,,
-REDEEM_POPUP_TITLE,échange,,,
-REDEEM_POPUP_MESSAGE,"Le code sera envoyé à",,,
-REDEEM_SUCCESSFUL_MESSAGE,"Echange reussi. Vous recevrez prochainement les détails",,,
-REDEEM_HIGLIGHTS,"Points saillants ou résumé",,,
-REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Montant HIT",,,
-REDEEM_QUANTITY_DESCRIPTION,"Vous recevrez",,,
-REDEEM_BUTTON,"Echanger maintenant",,,
-INFO,Informations,,,
-USER_INFO_REDEMPTION,Echange,,,
-USER_INFO_REDEMPTION_BUTTON,Echanger,,,
-AVAILABLE_QUERIES_HOME_PAGE,Disponible,,,
-COPY_CONFIRMATION_DETAIL,"Copier les détails de la transaction",,,
-COPYRIGHT,"Copyright &#9400; HIT Foundation 2019",,,
-APP_VERSION,Version,,,
-DEVICE_MODEL,Appareil,,,
-OS_VERSION,"Version OS",,,
-MANUFACTURER,Fabricant,,,
-COPY,Copier,,,
-ABOUT,"À propos",,,
-OK,Ok,,,
-REENTER_HEALTH_DATA_TITLE,"Données d'utilisateur non remplies",,,
-REENTER_HEALTH_DATA_MESSAGE,"Echec de restitution des données d'utilisateur. Veuillez les reremplir",,,
-VERIFY_PHONE_AGAIN_TITLE,"Echec de verification par SMS",,,
-VERIFY_PHONE_AGAIN_MESSAGE,"Veuillez ressayer la verification SMS",,,
-PLEASE_GET_MORE_HIT,"Obtenir plus de HIT",,,
-GET_SMS_CODE_FAIL_TITLE,"Code SMS non reçu",,,
-GET_SMS_CODE_FAIL_CONTENT,"Le format du numéro de telephone doit etre [+][l'indicatif du pays][numéro telephone]",,,
-INCOMPLETE_BASIC_HEATH_TITLE," Données d'utilisateur partiellement remplies",,,
-INCOMPLETE_BASIC_HEATH_CONTENT,"Veuillez mettre à jour vos données essentielles afin de mieux bénéficier de l'appli Centiva. Cette information est sauvegardée uniquement dans votre portable  et seulement utilisée pour des fins applicables a votre cas . Elle n'est jamais partagée et transmise",,,
-REDEMPTION_DETAILS,"Détails d'échange",,,
-SHOW_DETAILS_USER_DATA,"Afficher les détails",,,
-REDEMPTION_ID_DESCRIPTION,"Identifiant de la transaction d'échange",,,
-OFFER_PAGE_TITLE,"Détails de l'offre",,,
-BY_CHOOSING_AGREE,"En choisissant ""Agreer"" vous accepter les",,,
-VERIFY_PROVIDER,"Verification du fournisseur de soins de santé",,,
-PROVIDER_NAME,"Fournisseur de soins de santé",,,
-PROVIDER_ADDR,"L'adresse du fournisseur de soins de santé",,,
-YOUR_ID,"Votre identifiant",,,
-VERIFY_PROVIDER_FAIL,"Le fournisseur de soins de santé n'a pas été vérifié",,,
-VERIFY_PROVIDER_SUCCESS,"Le fournisseur de soins de santé vérifié",,,
-VERIFY,Verification,,,
-PROVIDER_LIST,"Providers (XR18357)",,,
-VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)",,,
-ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)",,,
-VERIFY_MNEMONIC_SAVE_BUTTON,"Save (XR18357)",,,
-TITLE_VERIFY_MNEMONIC,"Your words selected (XR18357)",,,
-NUMBER_KEYBOARD_1,1,,,
-NUMBER_KEYBOARD_2,2,,,
-NUMBER_KEYBOARD_3,3,,,
-NUMBER_KEYBOARD_4,4,,,
-NUMBER_KEYBOARD_5,5,,,
-NUMBER_KEYBOARD_6,6,,,
-NUMBER_KEYBOARD_7,7,,,
-NUMBER_KEYBOARD_8,8,,,
-NUMBER_KEYBOARD_9,9,,,
-NUMBER_KEYBOARD_0,0,,,
-ADD_PROVIDER_TITLE,"Ajouter le centre de santé",,,
-REVIEW_PROVIDER_TITLE,"Centre de santé",,,
-PATIENT_NAME,"Nom de santé",,,
-NAME_NOT_PROVIDE,"Nom non fourni",,,
-QR_SCAN_CONNECTION_ERROR,"Erreur de connection",,,
-QR_SCAN_USE_THE_SAME_ID_ERROR,"ID déja utilisée",,,
-QR_SCAN_VERIFY_DATA_FALSE,"Vérification érronée",,,
-QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Vérification érronée",,,
-ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Adresse inexistente dans la liste des utilisateurs authorisée",,,
-consent_alert_title,"Ouvrez ce lien dans votre navigateur web",,,
-consent_alert_agree,Continuez,,,
+Dans le cadre de l'épédimie COVID-19, cette application peut vous informer  d' individus infectés. Ce service a été développé avec la collaboration de l'institut Suisse des maladies tropicales et de la santé"
+recover_existing_wallet,"Récuperer un Porte-monnaie Existant"
+create_new_wallet,"Créer Nouveau Porte-monnaie"
+recover_description,"Saisissez votre phrase de sauvegarde pour récuperer votre porte-monnaie"
+backup_phrase_hint,"Saisissez votre phrase de sauvegarde"
+backup_phrase_popup_title,"Avez-vous copier la phrase de sauvegarde?"
+backup_phrase_popup_message,"Si non, veuillez retourner à la page précédente et copier la. Il n'est pas possible de récuperer le porte-monnaie sans la phrase de sauvegarde. "
+backup_phrase_popup_positive_button,Oui
+backup_phrase_popup_negative_button,"Non: retournez à la page précédente"
+recover_wallet,"Récuperation Porte-monnaie"
+recover_wallet_success,"Récuperation Porte-monnaie Réussie"
+pin_description,"Proceder sans NIP. AVERTISSEMENT: Toutes les personnes ayant acces à votre appareil pourront accéder à cette application et à votre porte-monnaie  DHP!"
+set_pin_title,"Configuration du NIP "
+step_1_2,"1 / 2 "
+step_2_2,"2 / 2 "
+set_app_pin_first_description_first,"Quelques petites étapes de configuration avant de commencer... "
+set_app_pin_first_description_second,"Veuillez configurer votre NIP"
+enter_pin_again,"Verifiez votre NIP"
+enter_pin_here,"Composez votre NIP"
+enter_pin_here_again,"Verifiez votre NIP à nouveau"
+pin_does_not_match,"Non concordance des NIP. Veuillez réssayer ou retournez à la page précédante pour séléctioner un nouveau NIP."
+create_wallet_step_1_3,"1 / 3 "
+create_wallet_step_2_3,"2 / 3 "
+create_wallet_step_3_3,"3 / 3 "
+creating_back_up_phrase,"Configuration de la phrase de sauvegarde"
+backup_detail,"Une longue phrase secrète sera crée afin de sécuriser votre porte-monnaie"
+creating_randomness,"Calcul des valeurs aléatoires"
+tap_to_copy,"Cliquer ici pour copier "
+remind_save_backup_phrase,"Veuillez bien sécuriser la phrase secrète. Elle est nécessaire pour restaurer votre porte-monnaie en cas de réinstallation."
+created_wallet_description,"Création de porte-monnaie réussie"
+purpose_of_address,"Il est l'identifiant de votre porte-monnaie et l'adresse de réception des tokens."
+view_wallet_address_later,"L'adresse peut être affichée sur l'onglet ""Porte-monnaie"""
+mnemonic_title,"Verification de la phrase mnemonique"
+backup_phrase_mnemonic_description,"Phrase de sauvegarde"
+select_all_words_mnemonic_anounce,"Veuillez sélectionner tous les mots."
+words_select_mnemonic,"Veuillez recomposer votre phrase de sauvegarde: "
+verify_phone_number_title,"Verification du numéro de telephone"
+country_description,Pays
+phone_number_description,"Numéro de téléphone"
+get_access_code_btn,"Recevoir le code d'acces"
+health_data_title,"Données santé"
+location_description,Lieu
+physics_description,"Informations élementaires"
+health_description,Santé
+health_conditions_description,"l'état de santé"
+location_explain,"Cette information est nécéssaire pour vous proposer des offres et opportunitées de participer à d'autres sondages ou études. Elle n'est jamais partagée ou transmise."
+physics_explain,"Cette information est nécéssaire pour vous proposer des offres et opportunitées de participer à d'autres sondages ou études. Elle n'est jamais partagée ou transmise."
+health_explain,"Cette information est nécéssaire pour vous proposer des offres et opportunitées de participer à d'autres sondages ou études. Elle n'est jamais partagée ou transmise."
+store_only_on_device,"Cette  information est sauvegardée uniquement dans votre téléphone mobile pour filtrer les demandes d'information. Elle n'est jamais partagée ou transmise."
+gender_question,"Sexe: "
+invalid_weight,"Valeur  éronnée"
+invalid_height,"Valeur éronnée"
+next_page_btn,"Page suivante "
+profile_btn,Profil
+done_btn,Terminé.
+transactions_description,Transactions
+invite_friend_sub_description_1,"Vous recevrez"
+invite_friend_sub_description_2,"DHP crédits pour chacun de vos amis qui s'inscrivent"
+new_available_queries,"nouvelles requêtes disponibles: "
+you_have_no_queries_yet,"vous n'avez pas encore accorder des requêtes"
+do_some_fancy_questionnaire,"Vous trouverez ici des requêtes dans lesquelles vous avez participé."
+title_show_all,"Afficher tout"
+your_inbox_is_empty,"Boite de réception vide"
+please_check_back_later,"Essayer plus tard."
+information_query_detail_description,Information
+time_need,"Durée estimée: "
+available_until,"Disponible jusq'au: "
+app_profile_setting,"Parametres "
+enter_your_pin_pin_page,"Votre code NIP: "
+enter_your_back_up_phrase,"La phrase de sauvegarde: "
+my_wallet_is_long_hex_string,"Ma phrase de sauvegarde est en forme d'un long code alphanumérique."
+enter_pin_to_show_backup,"Composez votre NIP pour afficher la phrase de sauvegarde"
+enter_pin_to_show_private_key,"Composez votre NIP pour afficher la clé privée"
+pending_transactions,"En attente "
+help_agreement_btn,"Aide "
+receive_token,"Réception de Tokens"
+purpose_query_detail,Objectif
+redeem_highlights_new,Résumé
+receive_token_title,"Réception de Tokens"
+address_description_receive_token_page,"Voici votre adresse:"
+tap_copy_address_description,"Copier et coller l'adresse de réception de Tokens"
+scan_qr_description,"Voice le code QR correspondant a votre adresse:"
+hex_back_up_phrase,"La phrase ancienne de sauvegarde"
+referral_link_description,"Le lien de parrainage"
+referral_instruction_1,"Invitez vos amis a rejoindre Centiva et profitez!"
+referral_instruction_2,"tokens HIT lorsque votre ami s'inscrit sur l'appli. Veuillez copier le lien ci-dessus et le coller dans un email ou une message instantanée à votre ami."
+save_back_up_phrase_title,"Enregistrer la phrase de sauvegarde"
+save_mnemonic_description,"Veuillez bien sauvegarder cette phrase mnemonique. Elle est necessaire pour restaurer votre portemonnaie en cas de réinstallation."
+save_passphrase_description,"Veuillez bien sauvegarder cette phrase. Elle est necessaire pour restaurer votre portemonnaie en cas de réinstallation."
+next_word_match,"Suivant: verification"
+recipient,Destinataire
+hit_available_amount,"Montant disponible"
+tx_fee,"Frais de transaction"
+xem_available,"Quantité de XEM:"
+add_xem_to_your_wallet,"Ajouter XEM"
+for_instruction,renseignements
+recipient_address_description,"L'adresse du destinataire"
+transaction_summary,"Le sommaire de la transaction"
+sent_description,Envoyé
+ok_cool_btn,Ok!
+detail_description,Details
+message_description,Message:
+transaction_id,"Identifiant de la transaction"
+action_description,Operations
+send_token_btn_tx_detail,"Envoie de tokens"
+receive_token_btn_tx_detail,"Réception de Tokens"
+scan_code_btn_tx_detail,"Scanner le code"
+redemption_info_title,"Détails d'échange"
+access_code_description,"Code d'accès"
+wallet_passphrase_title,"Phrase secrète"
+warning_descript_1,"MIse à jour disponible"
+warning_descript_2,"Veullez créer une phrase de sauvegarde mnémonique"
+wallet_private_key_title,"Clé Privée"
+INVALID_ACCESS_CODE_TITLE,"Code d'acces non valable"
+INVALID_ACCESS_CODE_CONTENT,"Veuillez verifier le code d'acces"
+transaction_confirm_title,Confirmation
+button_negative_send,Annuler
+request_camera_permission_title,"Ne peut pas accéder a la camera"
+request_camera_permission_sub_title,"Centiva n'a pas pu accéder a la camera. Veuillez permettre l'appli de l'accéder afin de pouvoir scanner le code QR. Cliquez ""Parametres"", choissisez ""Centiva"" et ""Permettre accès à la camera"""
+button_positive_permission,"Permettre l'acces"
+birth_month_selector,"Mois de naissance"
+birth_year_selector,"L'année de naissance"
+denied_query_btn,Refusé
+continue_btn,Continuer
+copy_address_success,"Code d'accès copié"
+receive_tx_detail_title,Reçu
+transaction_detail_redemption,échange
+warning_create_wallet_back_up_1,"Sauvegarde du portemonnaie"
+warning_create_wallet_back_up_2,"Veuillez créer une phrase de sauvegarde"
+words_not_match_message,"La phrase n'a pas été verifiée"
+tap_here,"Cliquez ici"
+change_to_mnemonic_toast_notification,"Sauvegarde réussi"
+current_pin_title,"Saisissez votre NIP actuel"
+new_pin_title,"Saisissez nouveau NIP"
+set_pin,"Configuration NIP"
+skip,Ignorer
+change_pin,"Changement NIP"
+generate_randomness,"Génération de numbres aléatoires pour sécuriser votre porte-monnaie"
+next,Suivant
+backup_phrase,"Phrase de Sauvegarde"
+copy_phrase,"Copier la Phrase"
+backup_phrase_description,"Voice votre phrase de sauvegarde"
+public_key,"Clé Publique"
+public_key_description,"Utilisée par l'application pour construire des transactions est des signatures digitales numériques pour l'authentication"
+private_key,"Clé Privée"
+private_key_description,"Utilisée par l'application pour envoyer des transactions. Veuillez la garder soigneusement."
+wallet_address_description,"L'identification de votre compte HIT, et l'adresse de destination pour des transaction reçues."
+wallet_address,"Adresse compte"
+verify_phone_description,"Vous recevrez un code d'activation par SMS"
+your_mobile_number,"Votre numéro telephone portable +xx xxxxxxxxx"
+resend_sms_code,"Renvoyer code SMS"
+get_sms_code,"Obtenez code SMS"
+verify_code_description,"Saisissez votre code SMS"
+verify_code,"Vérification Code"
+enter_sms_code,"Saisissez code SMS"
+set_pin_again_title,"Resaisissez votre NIP"
+title_home,Accueil
+invalid_phone_number,"Numéro de telephone érronée"
+invalid_code,"Code érronée"
+verify_phone_with_sms,"Vérification par SMS"
+account_wallet_name,HIT
+verify_phone_number,"Vérification par SMS"
+create_wallet_title_1,"Création Porte-monnaie"
+recover_wallet_title,"Récuperation Porte-monnaie"
+set_app_pin_title,"Configuration NIP"
+errormessage_confirm_pin_wrong,"Les NIP saisis ne corrrespondent pas"
+errormessage_current_pin_wrong,"NIP actuel n'est pas correct"
+errormessage_login_fail,"NIP n'est pas correct. Veuillez resssayer."
+successmessage_change_pin_success,"Changement NIP réussi"
+successmessage_set_pin_success,"Configuration NIP réussi"
+successmessage_save_basic_health_data_success,"Sauvegarde données réussie"
+bottom_navigation_inbox,"Boite de reception"
+bottom_navigation_queries,Recherches
+bottom_navigation_health_data,"Données Santé"
+bottom_navigation_wallet,Porte-monnaie
+current_balance,"Solde Actuel"
+show_private_key,"Afficher la clé privée"
+change_app_pin,"Changement NIP"
+wallet_settings,"Configuration Parametres"
+male,Masculin
+female,Féminin
+month_of_birth,"Mois de naissance"
+year_of_birth,"Année de naissance"
+height,Taille
+weight,Poids
+geographical_region,"Région géographique"
+physical_activity,"niveau d'activité physique"
+smoking,"Statut fumeur"
+balance,Balance
+copy_address,"Copier l'adresse"
+amount,Montant
+send_token,"Envoyer Tokens"
+send_tokens_successfully,"La transaction a réussie"
+confirm,Confirmation
+send,Envoyer
+no,Non
+all_tab_title,Ensemble
+all,Ensemble
+accepted,Accepté
+deny,Refusé
+agree_and_continue,"Accepter et continuer"
+forgot_pin,"NIP oublié ?"
+close_forgot_pin,Fermer
+forgot_pin_description,"Veuillez Réinstaller l'appli et récuperer le porte-monnaie avec la phrase de sauvegarde."
+other,Autre
+consent_content,"Merci pour votre participation à  cette demande de données. En cliquant sur j'accepte, vous acceptez les conditions de la protection des données fournies par la déclaration de confidentialité du demandeur"
+consent_title,"Nous vous remercions de votre participation"
+survey_information,"clause de non responsabilité"
+copy_success,Copié
+days_ago,jours
+hours_ago,heures
+minutes_ago,minutes
+seconds_ago,secondes
+query_from,de
+query_to,à
+language_title,Français
+receive,Reçevoir
+history,Historique
+scan_qr_code,"Scanner code QR"
+qr_code,"code QR"
+scan_qr_code_title,"Scanner QR code"
+message_read_QR_code,"Lecture adresse réussie"
+scan_fail_title,"Scan échoué"
+data_not_recognised_message,"Données non reconnues"
+scan_fail_button,OK
+permission_denied,Permission_refusée
+expiration_day_title,"Disponible jusqu'au"
+amount_offer,"Tokens offerts"
+offers_card_title,Offres
+agreement_title,"condition d'utilisation"
+Thank_you_description,"Merci de télécharger l'appli Centiva de HIT Foundation."
+read_term_berfore_proceeding,"Nous vous prions de lire ce sommaire des conditions d'utilisation avant d'accéder ou d'utiliser Centiva:"
+first_agreement,"Centiva n'est pas une application medicale, et n'a pas la prétention d'offrir conseil médical. Si vous avez besoin d'aide médicale, veuillez contactez votre médecin ou appelez les services d'urgence. "
+second_agreement,"Vous devez avoir 13 ans ou plus pour accéder au reseau HIT"
+third_agreement,"HIT ne reçoit, ne sauvegarde ni ne partage avec des tiers vos informations médicales."
+fourth_agreement,"Vos données démographiques et médicales, ainsi que les données de votre portefeuille, sont encryptées avec votre code PIN et sauvegardées localement sur votre mobile. Toutes les données que vous fournissez aux demandeurs d'informations sur votre santé sont directement transmises de votre mobile au demandeur."
+fifth_agreement,"Vous êtes seul responsable de la protection de vos informations, y compris de vos sauvegardes de codes PIN et de portefeuilles."
+sixth_agreement,"Lorsque vous fournissez des données demandées par un demandeur via cette plate-forme, les règles de confidentialité et les conditions de service du demandeur s’appliquent aux données fournies ainsi qu’aux avantages offerts par le demandeur."
+agree_description,"En cliquant sur ""Accepter"", vous acceptez d'être lié(e) par les conditions d'utilisation et par la politique de confidentialité en liens ci-dessous."
+term_of_use,"Condition d'utilisation"
+privacy_policy,"Politique de confidentialité"
+and_of_term_policy,et
+decline_and_abort_registration,Refuser
+title_decline_and_abort_registration,"Vous devez accepter les conditions d'utilisation et la politique de confidentialité pour continuer"
+message_decline_and_abort_resgistration,"Voulez-vous quitter l'appli ?"
+not_enough_xem_warning,"Solde insuffisant de XEM pour cette transaction."
+please_get_more_xem,"Obtenir d'avantage de XEM"
+here,ici:
+message_permission_accept,"Cet accès est uniquement nécessaire pour sécuriser votre enregistrement. L'appli ne fait ni reçoit des appels."
+language,Langue:
+app_settings,"Configuration Appli"
+app_language,"Langue d'appli"
+only_show_query_in_language,"Afficher uniquement les requêtes en"
+faq,FAQ
+feedback_to_email,"Envoyer vos commentaires"
+SENT,envoyé
+MESSAGE,message
+TIME_TRANSACTION_DETAIL,Heure
+MAIL_SHARE_ERROR_TITLE,"Pas de compte email disponible"
+MAIL_SHARE_ERROR_SUB_TITLE,"Veuillez configurer un comptle email"
+SHARE_OPTION_TITLE,"Choisissez une appli"
+STORE_BACKUP_PHRASE_BUTTON,"Sauvegarde la phrase"
+PASTE_BACKUP_PHRASE,"Coller la phrase de sauvegarde"
+REFERRAL_CARD_TITLE,"Inviter un ami"
+REFERRAL_DESCRIPTION,"Invitez un ami a HIT et gagnez"
+REFERRAL_SUBDESCRIPTION,"lorsqu'il crée un compte HIT"
+COPY_BUTTON,"Copier le lien de réference"
+QR_CODE_SHARE_DESCRIPTION,"ou présenter ce QR code"
+TOKEN_DESCRIPTION,Tokens
+REDEEM_POPUP_TITLE,échange
+REDEEM_POPUP_MESSAGE,"Le code sera envoyé à"
+REDEEM_SUCCESSFUL_MESSAGE,"Echange reussi. Vous recevrez prochainement les détails"
+REDEEM_HIGLIGHTS,"Points saillants ou résumé"
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Montant HIT"
+REDEEM_QUANTITY_DESCRIPTION,"Vous recevrez"
+REDEEM_BUTTON,"Echanger maintenant"
+INFO,Informations
+USER_INFO_REDEMPTION,Echange
+USER_INFO_REDEMPTION_BUTTON,Echanger
+AVAILABLE_QUERIES_HOME_PAGE,Disponible
+COPY_CONFIRMATION_DETAIL,"Copier les détails de la transaction"
+COPYRIGHT,"Copyright &#9400; HIT Foundation 2019"
+APP_VERSION,Version
+DEVICE_MODEL,Appareil
+OS_VERSION,"Version OS"
+MANUFACTURER,Fabricant
+COPY,Copier
+ABOUT,"À propos"
+OK,Ok
+REENTER_HEALTH_DATA_TITLE,"Données d'utilisateur non remplies"
+REENTER_HEALTH_DATA_MESSAGE,"Echec de restitution des données d'utilisateur. Veuillez les reremplir"
+VERIFY_PHONE_AGAIN_TITLE,"Echec de verification par SMS"
+VERIFY_PHONE_AGAIN_MESSAGE,"Veuillez ressayer la verification SMS"
+PLEASE_GET_MORE_HIT,"Obtenir plus de HIT"
+GET_SMS_CODE_FAIL_TITLE,"Code SMS non reçu"
+GET_SMS_CODE_FAIL_CONTENT,"Le format du numéro de telephone doit etre [+][l'indicatif du pays][numéro telephone]"
+INCOMPLETE_BASIC_HEATH_TITLE," Données d'utilisateur partiellement remplies"
+INCOMPLETE_BASIC_HEATH_CONTENT,"Veuillez mettre à jour vos données essentielles afin de mieux bénéficier de l'appli Centiva. Cette information est sauvegardée uniquement dans votre portable  et seulement utilisée pour des fins applicables a votre cas . Elle n'est jamais partagée et transmise"
+REDEMPTION_DETAILS,"Détails d'échange"
+SHOW_DETAILS_USER_DATA,"Afficher les détails"
+REDEMPTION_ID_DESCRIPTION,"Identifiant de la transaction d'échange"
+OFFER_PAGE_TITLE,"Détails de l'offre"
+BY_CHOOSING_AGREE,"En choisissant ""Agreer"" vous accepter les"
+VERIFY_PROVIDER,"Verification du fournisseur de soins de santé"
+PROVIDER_NAME,"Fournisseur de soins de santé"
+PROVIDER_ADDR,"L'adresse du fournisseur de soins de santé"
+YOUR_ID,"Votre identifiant"
+VERIFY_PROVIDER_FAIL,"Le fournisseur de soins de santé n'a pas été vérifié"
+VERIFY_PROVIDER_SUCCESS,"Le fournisseur de soins de santé vérifié"
+VERIFY,Verification
+PROVIDER_LIST,"Providers (XR18357)"
+VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
+ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
+VERIFY_MNEMONIC_SAVE_BUTTON,"Save (XR18357)"
+TITLE_VERIFY_MNEMONIC,"Your words selected (XR18357)"
+NUMBER_KEYBOARD_1,1
+NUMBER_KEYBOARD_2,2
+NUMBER_KEYBOARD_3,3
+NUMBER_KEYBOARD_4,4
+NUMBER_KEYBOARD_5,5
+NUMBER_KEYBOARD_6,6
+NUMBER_KEYBOARD_7,7
+NUMBER_KEYBOARD_8,8
+NUMBER_KEYBOARD_9,9
+NUMBER_KEYBOARD_0,0
+ADD_PROVIDER_TITLE,"Ajouter le centre de santé"
+REVIEW_PROVIDER_TITLE,"Centre de santé"
+PATIENT_NAME,"Nom de santé"
+NAME_NOT_PROVIDE,"Nom non fourni"
+QR_SCAN_CONNECTION_ERROR,"Erreur de connection"
+QR_SCAN_USE_THE_SAME_ID_ERROR,"ID déja utilisée"
+QR_SCAN_VERIFY_DATA_FALSE,"Vérification érronée"
+QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Vérification érronée"
+ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Adresse inexistente dans la liste des utilisateurs authorisée"
+consent_alert_title,"Ouvrez ce lien dans votre navigateur web"
+consent_alert_agree,Continuez

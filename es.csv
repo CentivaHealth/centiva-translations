@@ -42,9 +42,7 @@ errormessage_error_occured,"Se ha producido un error"
 errormessage_server_error_occured,"Se produjo un error de servidor"
 progress_dialog_wait_message,"Por favor espere"
 welcome,"Bienvenido a"
-welcome_content,"Health Information Traceability
-Tokenizamos la información de la salud 
-Creamos la moneda del sector sanitario del futuro"
+welcome_content,"Health Information Traceability \nTokenizamos la información de la salud \nCreamos la moneda del sector sanitario del futuro"
 recover_existing_wallet,"Recuperar la cartera existente"
 create_new_wallet,"Crear una nueva cartera"
 info_foundation,"Fundación HIT"
@@ -250,8 +248,7 @@ agree_and_continue,"Acceptar y Continuar"
 open_url,"Abrir la URL"
 forgot_pin,"Forgot your PIN? (XR18357)"
 close_forgot_pin,Cerrar
-forgot_pin_description,"Por favor volver a instalar y habilitar esta aplicación
- Frase de respaldo para recuperar la cartera"
+forgot_pin_description,"Por favor volver a instalar y habilitar esta aplicación \nFrase de respaldo para recuperar la cartera"
 other,Otro
 consent_content,"Agradecemos su disposición para participar en la siguiente solicitud de datos.
  Haciendo clic en Acceptar, Usted dará su consetimiento para aportar los datos solicitados y aceptará que sus datos personales sean procesados según la Política de Privacidad que se aplica y que ha sido descrita anteriormente."
