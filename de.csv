@@ -42,8 +42,7 @@ errormessage_error_occured,"Ein Fehler ist aufgetreten"
 errormessage_server_error_occured,"Ein Serverfehler ist aufgetreten"
 progress_dialog_wait_message,"Bitte warten…"
 welcome,"Herzlich Willkommen"
-welcome_content,"Gesundheitsdaten teilen und gleichzeitig ihre Privatsphäre schützen!
-<b>Wichtig</b>: Aufgrund der COVID-19 Pandemie kann die App zur Information potentiell infizierter Personen eingesetzt werden! Dieser Service wurde gemeinsam mit dem <b>Schweizerisches Tropen- und Public Health-Institut (Swiss TPH)</b> entwickelt."
+welcome_content,"Teilen Sie Gesundheitsdaten (einschließlich COVID-19-bezogener Daten) unter Wahrung Ihrer Privatsphäre. Dieser Service wurde in Zusammenarbeit mit Swiss TPH entwickelt."
 recover_existing_wallet,"Bestehendes Wallet wiederherstellen"
 create_new_wallet,"Neues Wallet erstellen"
 recover_description,"Bitte geben Sie die Passphrase ein um Ihr Wallet wiederherzustellen"
@@ -284,7 +283,7 @@ third_agreement,"Weder erhält oder speichert HIT Stiftung Ihre Daten, noch gibt
 fourth_agreement,"Ihre Gesundheits- und demographischen Daten, sowie die Wallet-Daten werden mit Ihrem PIN verschlüsselt und im lokalen Speicher Ihres Mobilgeräts gespeichert. Wenn Sie über die Centiva App an einer Datenabfrage durch eine externe Organisation teilnehmen, werden die Daten direkt von Ihrem Gerät an diese übertragen."
 fifth_agreement,"Sie allein sind verantwortlich für die Aufbewahrung Ihrer Daten, einschließlich Ihres PIN und der Sicherungskopie des Wallets!"
 sixth_agreement,"Wenn Sie Daten über unsere Plattform einem Informationssuchenden zur Verfügung stellen, gelten dessen Datenschutzrichtlinien sowie Nutzungsbedingungen und die von ihm angebotene Gegenleistung."
-agree_description,"Mit ""Zustimmen"" erklären Sie sich mit unseren Nutzungsbedingungen und der Datenschutzerklärung (siehe unten) einverstanden. Sollten Sie nicht damit einverstanden sein, können Sie leider nicht auf unsere Dienstleistung zugreifen."
+agree_description,"Mit \"Zustimmen\" erklären Sie sich mit unseren Nutzungsbedingungen und der Datenschutzerklärung (siehe unten) einverstanden. Sollten Sie nicht damit einverstanden sein, können Sie leider nicht auf unsere Dienstleistung zugreifen."
 term_of_use,Nutzungsbedingungen
 privacy_policy,Datenschutzbestimmungen
 and_of_term_policy,Datenschutzerklärung
@@ -382,3 +381,5 @@ QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Überprüfung der Daten fehlgeschlagen"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Adresse nicht gefunden."
 consent_alert_title,"Öffnen der URL im Browser"
 consent_alert_agree,Weiter
+fourth_agreement_covid,"Ihre Gesundheits- und demographischen Daten werden mit Ihrem PIN verschlüsselt und im lokalen Speicher Ihres Mobilgeräts gespeichert. Wenn Sie über die Centiva App an einer Datenabfrage durch eine externe Organisation teilnehmen, werden die Daten direkt von Ihrem Gerät an diese übertragen."
+fifth_agreement_covid,"Sie allein sind verantwortlich für die Aufbewahrung Ihrer Daten, einschließlich Ihres PIN und Ihrer E-Mail Zugangsdaten!"
