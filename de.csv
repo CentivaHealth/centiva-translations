@@ -113,8 +113,7 @@ available_until,"Verfügbar bis:"
 app_profile_setting,Einstellungen
 enter_your_pin_pin_page,"Geben Sie Ihren PIN ein"
 enter_your_back_up_phrase,"Sicherungsphrase eingeben:"
-my_wallet_is_long_hex_string,"Hexadezimale Zeichenkette zur Sicherung
-"
+my_wallet_is_long_hex_string,"Hexadezimale Zeichenkette zur Sicherung"
 enter_pin_to_show_backup,"App-PIN eingeben, um Passphrase anzuzeigen"
 enter_pin_to_show_private_key,"Geben Sie Ihren App-PIN ein, um den privaten Schlüssel anzuzeigen."
 pending_transactions,Ausstehend
