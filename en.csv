@@ -408,6 +408,14 @@ covid19_no_label,No
 covid19_invite_contact_title,Share
 covid19_invite_contact_share_reminder,Do you want to share your COVID-19 test outcome when informing contacts?
 covid19_invite_contact_tap_link_description,Tap the link below to invite contacts.
+covid19_symptoms_question,"Are you suffering from any of the following symptoms?"
+covid19_symptoms_cough_label,"Cough"
+covid19_symptoms_fever_label,"Fever"
+covid19_symptoms_tiredness_label,"Tiredness"
+covid19_symptoms_difficult_breathing_label,"Difficult breathing"
+covid19_close_contact_question,"Has someone recently notified you of being tested positively for COVID-19, and you have been in close contact with that person within the 11 days before the test?"
+covid19_close_proximity_positive_question,"As you have been in contact with positively diagnosed COVID-19 patient, please follow local self-isolation guidance (not leaving your house for anything other than critical needs, food, medication,etc.)"
+covid19_symptoms_shareable_question,"Would you like to share your symptoms anonymously with Swiss TPH to support transmission tracking and tracing?"
 verify_email_1_title,"Sign up with email"
 verify_email_1_get_email_description,"Please provide your email address. A verification link will be sent to this email address. It must be opened on this device in order to complete app sign-in."
 verify_email_1_email_description,"Email"
