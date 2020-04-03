@@ -381,26 +381,27 @@ consent_alert_agree,Continue
 fourth_agreement_covid,"Your basic health and demographic data is encrypted with your PIN and stored on your mobile device’s local storage. Any data you provide to seekers of your health information is transmitted directly from your device to the seeker."
 fifth_agreement_covid,"You are solely responsible for the safekeeping of your information such as your PIN and account email credentials."
 covid19_homepage_status,"Current Status"
-covid19_homepage_status_2,"COVID-19"
-covid19_homepage_status_1,"Observing"
-covid19_homepage_status_0,"Healthy"
+covid19_homepage_status_2,COVID-19
+covid19_homepage_status_1,Observing
+covid19_homepage_status_0,Healthy
 covid19_homepage_tested_question,"Have you been tested for COVID-19?"
+covid19_test_questions_title,"COVID-19 TEST QUESTIONS"
+covid19_test_location,"Location where COVID-19 test was performed"
 covid19_test_diagnosed_question,"As you have been positively diagnosed with COVID-19, would you like to share this information with people you have recently been in physical contact with to support the tracking and tracing of transmission?"
 covid19_inform_contact_description,"Inform a contact of your COVID-19 test outcome"
 covid19_inform_contact_sub_description,"(who you have been in contact with within the last 14 days)"
 covid19_invited_description,"You have been invited by a contact. Invite contacts who may be interested in tracking symptoms."
 covid19_invite_description,"Invite contacts who may be interested in tracking symptoms."
 covid19_information_description,"During the coming days/weeks, you will receive questionnaires via the app (in your inbox) to monitor your symptoms and advise on potential next steps."
-covid19_test_questions_title,"COVID-19 TEST QUESTIONS"
 covid19_test_location_label,"Location where COVID-19 test was performed"
-covid19_search_address_label, "Search for address"
+covid19_search_address_label,"Search for address"
 covid19_test_date_label,"Date when COVID-19 test was performed"
-covid19_day_label,"Day"
-covid19_month_label,"Month"
-covid19_year_label,"Year"
+covid19_day_label,Day
+covid19_month_label,Month
+covid19_year_label,Year
 covid19_test_outcome_label,"Outcome of COVID-19 test"
-covid19_test_outcome_positive_label,"Positive"
-covid19_test_outcome_negative_label,"Negative"
+covid19_test_outcome_positive_label,Positive
+covid19_test_outcome_negative_label,Negative
 covid19_test_outcome_shareable_label,"Would you like to share the outcome of your COVID-19 test anonymously with Swiss TPH to support transmission tracking and tracing?"
-covid19_yes_label,"Yes"
-covid19_no_label,"No"
+covid19_yes_label,Yes
+covid19_no_label,No
