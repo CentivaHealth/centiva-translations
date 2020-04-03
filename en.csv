@@ -405,3 +405,13 @@ covid19_test_outcome_negative_label,Negative
 covid19_test_outcome_shareable_label,"Would you like to share the outcome of your COVID-19 test anonymously with Swiss TPH to support transmission tracking and tracing?"
 covid19_yes_label,Yes
 covid19_no_label,No
+covid19_invite_contact_title,Share
+covid19_invite_contact_share_reminder,Do you want to share your COVID-19 test outcome when informing contacts?
+covid19_invite_contact_tap_link_description,Tap the link below to invite contacts.
+verify_email_1_title,"Sign up with email"
+verify_email_1_get_email_description,"Please provide your email address. A verification link will be sent to this email address. It must be opened on this device in order to complete app sign-in."
+verify_email_1_email_description,"Email"
+verify_email_1_invalid_email_1,"Invalid email!"
+verify_email_1_send_sign_in_email_button,"Send sign in email"
+verify_email_2_title,"Verify email"
+verify_email_2_get_link_description,"Please click on the verification link on this device to complete app sign-in"
