@@ -384,7 +384,6 @@ covid19_homepage_status,"Current Status"
 covid19_homepage_status_2,COVID-19
 covid19_homepage_status_1,Observing
 covid19_homepage_status_0,Healthy
-covid19_homepage_tested_question,"Have you been tested for COVID-19?"
 covid19_test_questions_title,"COVID-19 Testing"
 covid19_test_questions_subtitle, "Report result of a diagnostic test"
 covid19_test_location,"Test location"
@@ -401,8 +400,8 @@ covid19_day_label,Day
 covid19_month_label,Month
 covid19_year_label,Year
 covid19_test_outcome_label,"Outcome of COVID-19 test"
-covid19_test_outcome_positive_label,"Positive, meaning you are infected with COVID-19"
-covid19_test_outcome_negative_label,"Negative, meaning you are NOT infected with COVID-19"
+covid19_test_outcome_positive_label,Positive
+covid19_test_outcome_negative_label,Negative
 covid19_test_outcome_shareable_label,"Would you like to share the outcome of your COVID-19 test anonymously with Swiss TPH to support transmission tracking and tracing?"
 covid19_yes_label,Yes
 covid19_no_label,No
