@@ -47,6 +47,7 @@ recover_existing_wallet,"Recover Existing Wallet"
 create_new_wallet,"Create New Wallet"
 recover_description,"Please enter your backup phrase to recover your wallet."
 backup_phrase_hint,"Please enter your backup phrase"
+
 backup_phrase_popup_title,"Have you copied and saved the backup phrase?"
 backup_phrase_popup_message,"If not, please return to the previous screen and copy it. You will not be able to recover your wallet without it."
 backup_phrase_popup_positive_button,Yes
@@ -422,6 +423,7 @@ covid19_close_proximity_positive_question,"As you have been in contact with posi
 covid19_symptoms_shareable_question,"Would you like to share your symptoms anonymously with Swiss TPH to support transmission tracking and tracing?"
 covid19_0_or_1_information1, "During the covid-19 pandemic outbreak, to safeguard the health system it is important to slow down transmission. The app monitors your health status and allows you to alert others should you be diagnosed with covid-19. Upon a positive diagnosis, please inform those contacts you know of, with whom you have been in contact with in the recent 3 days."
 covid19_0_or_1_information2, "Follow the national strategy intended to control the pandemic outbreak of covid-19. If asked to, please stay home and isolate, wear a mask, keep a safe distance from others and wash your hands frequently. At any time, follow the guidance by your doctor."
+covid19_join_now_button,Join now
 verify_email_1_title,"Sign up with email"
 verify_email_1_get_email_description,"Please provide your email address. A verification link will be sent to this email address. It must be opened on this device in order to complete app sign-in."
 verify_email_1_email_description,"Email"

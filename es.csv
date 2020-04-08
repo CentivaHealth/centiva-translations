@@ -42,9 +42,7 @@ errormessage_error_occured,"Se ha producido un error"
 errormessage_server_error_occured,"Se produjo un error de servidor"
 progress_dialog_wait_message,"Por favor espere"
 welcome,"Bienvenido a"
-welcome_content,"Health Information Traceability
-Tokenizamos la información de la salud 
-Creamos la moneda del sector sanitario del futuro"
+welcome_content,"Health Information Traceability Tokenizamos la información de la salud Creamos la moneda del sector sanitario del futuro"
 recover_existing_wallet,"Recuperar la cartera existente"
 create_new_wallet,"Crear una nueva cartera"
 info_foundation,"Fundación HIT"
