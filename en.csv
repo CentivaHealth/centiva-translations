@@ -393,6 +393,7 @@ covid19_inform_contact_description,"Invite others OR Alert contacts you met 3 da
 covid19_invited_description,"You have been invited by a contact. Invite contacts who may be interested in tracking symptoms."
 covid19_invite_description,"Invite contacts who may be interested in tracking symptoms."
 covid19_information_description,"During the coming days/weeks, you will receive questionnaires via the app (in your inbox) to monitor your symptoms and advise on potential next steps."
+covid19_test_location_label,"Test location"
 covid19_search_address_label,"Address"
 covid19_test_date_label,"Date when COVID-19 test was taken"
 covid19_test_confirmed_date_label,"Date when result was confirmed"
