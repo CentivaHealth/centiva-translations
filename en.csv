@@ -423,6 +423,19 @@ covid19_symptoms_shareable_question,"Would you like to share your symptoms anony
 covid19_0_or_1_information1, "During the COVID-19 pandemic outbreak, to safeguard the health system it is critical to slow transmission. CovAid monitors your health status and allows you to alert others should you be diagnosed with COVID-19. Upon positive diagnosis, please inform those contacts you know of, whom you have been in close proximity to within the last 3 days."
 covid19_0_or_1_information2, ""
 covid19_join_now_button,Join now
+covid19_fever_question,"Do you currently have a fever (greater than 100.4 F or 38.0 C)?"
+covid19_which_symtomp_question,"Which symptoms are you currently experiencing?"
+covid19_shortness_of_breath,Shortness of breath
+covid19_sore_throat,Sore Throat
+covid19_cough,Cough
+covid19_chest_pain,Chest Pain
+covid19_headache,Headache
+covid19_fatigue,Fatigue
+covid19_nausea,Nausea
+covid19_muscle_pain,Muscle pain
+covid19_runny_nose,Runny nose
+covid19_diarrhea,Diarrhea
+covid19_lost_of_smell_or_taste,Loss of smell or taste
 verify_email_1_title,"Sign up with email"
 verify_email_1_get_email_description,"Please provide your email address. A verification link will be sent to this email address. It must be opened on this device in order to complete app sign-in."
 verify_email_1_email_description,"Email"
