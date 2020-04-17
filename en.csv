@@ -42,7 +42,7 @@ errormessage_error_occured,"An error has occurred"
 errormessage_server_error_occured,"Server error occurred"
 progress_dialog_wait_message,"Please wait…"
 welcome,"Welcome to"
-welcome_content,CovAid was developed in cooperation with The University of Basel, The Swiss Tropical and Publich Health Institute (Swiss TPH) and Novartis Global Health.
+welcome_content,"CovAid was developed in cooperation with The University of Basel, The Swiss Tropical and Publich Health Institute (Swiss TPH) and Novartis Global Health."
 recover_existing_wallet,"Recover Existing Wallet"
 create_new_wallet,"Create New Wallet"
 recover_description,"Please enter your backup phrase to recover your wallet."
