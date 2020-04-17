@@ -438,6 +438,7 @@ covid19_diarrhea,Diarrhea
 covid19_daily_check_button,Daily Check
 covid19_test_report_button,Report a Test
 covid19_lost_of_smell_or_taste,Loss of smell or taste
+covid19_share_with_contacts,Share with contacts
 verify_email_1_title,"Sign up with email"
 verify_email_1_get_email_description,"Please provide your email address. A verification link will be sent to this email address. It must be opened on this device in order to complete app sign-in."
 verify_email_1_email_description,"Email"
