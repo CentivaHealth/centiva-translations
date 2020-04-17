@@ -380,10 +380,10 @@ consent_alert_title,"Open URL in browser"
 consent_alert_agree,Continue
 fourth_agreement_covid,"Your basic health and demographic data is encrypted with your PIN and stored on your mobile device’s local storage. Any data you provide to seekers of your health information is transmitted directly from your device to the seeker."
 fifth_agreement_covid,"You are solely responsible for the safekeeping of your information such as your PIN and account email credentials."
-covid19_homepage_status,""
+covid19_homepage_status,"Current status"
 covid19_homepage_status_2,Diagnosed with COVID-19
-covid19_homepage_status_1,Not Diagnosed with COVID-19
-covid19_homepage_status_0,Not Diagnosed with COVID-19
+covid19_homepage_status_1,Observing Symptoms
+covid19_homepage_status_0,Healthy
 covid19_test_questions_title,"COVID-19 Testing"
 covid19_test_questions_subtitle, "Report result of a diagnostic test"
 covid19_test_location,"Test location"
@@ -401,8 +401,8 @@ covid19_day_label,Day
 covid19_month_label,Month
 covid19_year_label,Year
 covid19_test_outcome_label,"Outcome of COVID-19 test"
-covid19_test_outcome_positive_label,Positive
-covid19_test_outcome_negative_label,Negative
+covid19_test_outcome_positive_label,Positive (Diagnosed with COVID-19)
+covid19_test_outcome_negative_label,Negative (No infection)
 covid19_test_outcome_shareable_label,"Would you like to share the outcome of your COVID-19 test anonymously with Swiss TPH to support transmission tracking and tracing?"
 covid19_yes_label,Yes
 covid19_no_label,No
@@ -436,8 +436,8 @@ covid19_nausea,Nausea
 covid19_muscle_pain,Muscle pain
 covid19_runny_nose,Runny nose
 covid19_diarrhea,Diarrhea
-covid19_daily_check_button,Daily Check
-covid19_test_report_button,Report a Test
+covid19_daily_check_button,Symptom Check
+covid19_test_report_button,Report a COVID-19 Test
 covid19_lost_of_smell_or_taste,Loss of smell or taste
 covid19_share_with_contacts,Share with contacts
 verify_email_1_title,"Sign up with email"
