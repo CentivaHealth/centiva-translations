@@ -413,6 +413,7 @@ covid19_invite_contact_text2,You will be able to edit the text of your message b
 covid19_invite_contact_text3,Please be aware that sharing will divulge your identity.
 covid19_invite_contact_button_label,Share with contacts
 covid19_invite_contact_tap_link_description," "
+covid19_symptom_questions_title,"COVID-19 Daily Symptom Check"
 covid19_symptoms_question,"Are you suffering from any of the following symptoms?"
 covid19_symptoms_cough_label,"Cough"
 covid19_symptoms_fever_label,"Fever"
