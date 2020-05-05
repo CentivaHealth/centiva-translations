@@ -460,3 +460,4 @@ covid_19_questionnaire_test_no_response_3,"You reported shortness of breath, a c
 covid_19_questionnaire_test_no_response_4,"You experience symptoms that are related to COVID-19, and you have been in contact with a person diagnosed with COVID-19. There is a high likelihood that you have contracted the new coronavirus. You must stay at home for at least ten days and monitor your symptoms.",
 covid_19_questionnaire_test_no_understood_button,Understood,
 covid_19_share_location_data_question,"Do you agree to share your location check-in data with Swiss TPH in order to anonymously alert other users?",
+LANGUAGES.it,Italian,
