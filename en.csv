@@ -458,3 +458,4 @@ verify_email_1_invalid_email_1,"Invalid email!"
 verify_email_1_send_sign_in_email_button,"Send sign in email"
 verify_email_2_title,"Verify email"
 verify_email_2_get_link_description,"Please click on the verification link on this device to complete app sign-in"
+warning,Warning
