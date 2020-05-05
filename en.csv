@@ -441,6 +441,15 @@ covid19_daily_check_button,Symptom Check
 covid19_test_report_button,Report a COVID-19 Test
 covid19_lost_of_smell_or_taste,"Loss of smell or taste (w/o having a blocked nose)"
 covid19_share_with_contacts,Share with contacts
+covid19_check_in_successful_card,"Check-in successful: "
+covid19_keep_your_health_status_update_reminder,Keep your health status up to date:
+covid19_keep_others_safe_reminder,Keep others safe:
+covid_19_questionnaire_test_no_response_1,"Currently, there is no sign that you are at risk of having contracted the new coronavirus. Please adhere to the restrictions that have been set by your government. Make sure you are practicing good hygiene and physical distancing!"
+covid_19_questionnaire_test_no_response_2,"According to your age and preexisting conditions you should monitor your symptoms on a regular basis."
+covid_19_questionnaire_test_no_response_3,"You reported shortness of breath, a cough and high temperature, call your doctor or a hospital immediately. State that you are calling in connection with the new coronavirus and that you are at high risk. Describe your symptoms."
+covid_19_questionnaire_test_no_response_4,"You experience symptoms that are related to COVID-19, and you have been in contact with a person diagnosed with COVID-19. There is a high likelihood that you have contracted the new coronavirus. You must stay at home for at least ten days and monitor your symptoms."
+covid_19_questionnaire_test_no_understood_button,"Understood"
+covid_19_share_location_data_question,"Do you agree to share your location check-in data with Swiss TPH in order to anonymously alert other users?"
 verify_email_1_title,"Sign up with email"
 verify_email_1_get_email_description,"Please provide your email address. A verification link will be sent to this email address. It must be opened on this device in order to complete app sign-in."
 verify_email_1_email_description,"Email"
