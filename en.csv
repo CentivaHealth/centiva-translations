@@ -423,16 +423,12 @@ covid19_0_or_1_information2, ""
 covid19_join_now_button,Join now
 covid19_fever_question,"Do you have currently a fever or feverish episode (body temperature > 37.5 °C)?"
 covid19_which_symtomp_question,"Are you experiencing the following symptoms?"
-covid19_shortness_of_breath,Shortness of breath
-covid19_sore_throat,Sore Throat
 covid19_respiratory,Respiratory Symptoms e.g. cough, sore throat, shortness of breath
-covid19_chest_pain,Chest Pain
 covid19_headache,Headache
-covid19_fatigue,Fatigue
-covid19_nausea,Nausea
-covid19_muscle_pain,Muscle pain
-covid19_runny_nose,Runny nose
-covid19_diarrhea,Diarrhea
+covid19_muscle_pain,Muscle ache
+covid19_diarrhea,Gastrointestinal symptoms (e.g. diarrhea)
+covid19_conjunctivitis,Conjunctivitis
+covid19_headcold,Head cold
 covid19_daily_check_button,Symptom Check
 covid19_test_report_button,Report a COVID-19 Test
 covid19_lost_of_smell_or_taste,"Loss of smell or taste (w/o having a blocked nose)"
