@@ -428,7 +428,7 @@ covid19_headache,Headache
 covid19_muscle_pain,Muscle ache
 covid19_diarrhea,Gastrointestinal symptoms (e.g. diarrhea)
 covid19_conjunctivitis,Conjunctivitis
-covid19_headcold,Head cold
+covid19_head_cold,Head cold
 covid19_daily_check_button,Symptom Check
 covid19_test_report_button,Report a COVID-19 Test
 covid19_lost_of_smell_or_taste,"Loss of smell or taste (w/o having a blocked nose)"
