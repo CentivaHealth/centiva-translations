@@ -406,7 +406,7 @@ covid19_year_label,Anno,,,
 covid19_test_outcome_label,"Esito del test per il COVID-19",,,
 covid19_test_outcome_positive_label,Positivo,,,
 covid19_test_outcome_negative_label,Negativo,,,
-covid19_test_outcome_shareable_label,"Vorresti condividere l'esito del test per il COVID-19, in forma anonima, con Swiss TPH, per supportare la ricerca epidemiologica?",,,"English version: ""to support epidemiological research"". In Italian that would be ""per supportare la ricerca epidemiologica"". Current sentence is formally correct ""per contribuire a tenere traccia della diffusione del virus"". But means: ""to contribute to tracking virus spread""."
+covid19_test_outcome_shareable_label,"Vorresti condividere l'esito del test per il COVID-19, in forma anonima, con Swiss TPH, per supportare la ricerca epidemiologica?",,,
 covid19_yes_label,Sì,,,
 covid19_no_label,No,,,
 covid19_invite_contact_title,Condividi,,,
@@ -426,8 +426,7 @@ covid19_symptoms_tiredness_label,Stanchezza,,,
 covid19_symptoms_difficult_breathing_label,"Difficoltà respiratorie",,,
 covid19_close_contact_question,"Qualcuno di recente ti ha comunicato di essere risultato positivo al COVID-19, e tu sei stato in stretto contatto con questa persona nei 10 giorni precedenti il test?",,,
 covid19_close_proximity_positive_question,"Dal momento che sei venuto in contatto con un paziente positivo al COVID-19, sei invitato a seguire le linee guida dell'auto-isolamento (che impongono di non lasciare la propria abitazione se non per ragioni legate a bisogni essenziali, come l'approvvigionamento di cibo, farmaci e così via).",,,
-covid19_symptoms_shareable_question,"Vorresti condividere i tuoi sintomi, in forma anonima, con Swiss TPH, per contribuire a supportare la ricerca epidemiologica?",,,"Again, English is about ""support epidemiological research"" and Italian is about ""keep track of the virus spread"".
-In Italian should be exactly: ""per contribuire a supportare la ricerca epidemiologica""."
+covid19_symptoms_shareable_question,"Vorresti condividere i tuoi sintomi, in forma anonima, con Swiss TPH, per contribuire a supportare la ricerca epidemiologica?",,,
 covid19_test_questions_subtitle,"Riporta il risultato del test diagnostico",,,
 covid19_test_confirmed_date_label,"Data in cui è stato confermato il risultato",,,
 covid19_invite_contact_text1,"Diversamente, puoi invitare i tuoi contatti ad usare l'app.",,,
