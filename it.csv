@@ -383,9 +383,7 @@ fifth_agreement_covid,"L'utente è l'unico responsabile della custodia delle inf
 covid19_homepage_status,"Situazione attuale",,,
 covid19_homepage_status_2,"Diagnosi di COVID-19 confermata",,,"If this case indicates a ""confirmed"" COVID-19 dagnosis, I would write:
 ""Soggetto con diagnosi di COVID-19 confermata"""
-covid19_homepage_status_1,"Sintomi sotto osservazione",,,"What do you mean by ""observing syntoms""? That symptoms should be regularly observed and checked for?
-Current translation ""presenza di sintomi"" means ""symptoms are present""
-To indicate ""symptoms are under observation"" one should write ""Sintomi sotto osservazione"""
+covid19_homepage_status_1,"Sintomi sotto osservazione",,,
 covid19_homepage_status_0,"In buone condizioni di salute",,,
 covid19_homepage_tested_question,"Sei stato sottoposto a test diagnostici per il COVID-19?",,,
 covid19_test_questions_title,"Esecuzione Test COVID-19",,,
@@ -396,7 +394,7 @@ covid19_inform_contact_description,"Informa un contatto dell'esito del test per 
 covid19_inform_contact_sub_description,"(ossia qualcuno con cui sei entrato in contatto negli ultimi 10 giorni)",,,
 covid19_invited_description,"Sei stato invitato da un contatto. Invita i contatti che potrebbero essere interessati a monitorare i sintomi.",,,
 covid19_invite_description,"Invita i contatti che potrebbero essere interessati a monitorare i sintomi.",,,
-covid19_information_description,"Nel corso dei prossimi giorni/settimane riceverai dei questionari via app (nella tua inbox) per monitorare i tuoi sintomi e ricevere suggerimenti sulle potenziali misure da adottare.",,,"""advise on potential next steps"" should mean that the user will receive advice. In this case, the Italian should change from ""e dare suggerimenti sulle potenziali misure da prendere"" to ""e ricevere suggerimenti sulle potenziali misure da adottare"""
+covid19_information_description,"Nel corso dei prossimi giorni/settimane riceverai dei questionari via app (nella tua inbox) per monitorare i tuoi sintomi e ricevere suggerimenti sulle potenziali misure da adottare.",,,
 covid19_test_location_label,"Luogo in cui è stato effettuato il test per il COVID-19",,,
 covid19_search_address_label,"Cerca l'indirizzo",,,
 covid19_test_date_label,"Data in cui è stato effettuato il test per il COVID-19",,,
