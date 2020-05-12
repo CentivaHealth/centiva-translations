@@ -486,3 +486,253 @@ covid19_respiratory,"Respiratory Symptoms e.g. cough"
 covid19_conjunctivitis,Conjunctivitis
 covid19_headcold,"Head cold"
 covid19_head_cold,"Head cold"
+LANGUAGE_AF,Afghanistan
+LANGUAGE_AX,Åland Islands
+LANGUAGE_AL,Albania
+LANGUAGE_DZ,Algeria
+LANGUAGE_AS,American Samoa
+LANGUAGE_AD,Andorra
+LANGUAGE_AO,Angola
+LANGUAGE_AI,Anguilla
+LANGUAGE_AQ,Antarctica
+LANGUAGE_AG,Antigua and Barbuda
+LANGUAGE_AR,Argentina
+LANGUAGE_AM,Armenia
+LANGUAGE_AW,Aruba
+LANGUAGE_AU,Australia
+LANGUAGE_AT,Austria
+LANGUAGE_AZ,Azerbaijan
+LANGUAGE_BS,Bahamas
+LANGUAGE_BH,Bahrain
+LANGUAGE_BD,Bangladesh
+LANGUAGE_BB,Barbados
+LANGUAGE_BY,Belarus
+LANGUAGE_BE,Belgium
+LANGUAGE_BZ,Belize
+LANGUAGE_BJ,Benin
+LANGUAGE_BM,Bermuda
+LANGUAGE_BT,Bhutan
+LANGUAGE_BO,Bolivia (Plurinational State of)
+LANGUAGE_BQ,"Bonaire, Sint Eustatius and Saba"
+LANGUAGE_BA,Bosnia and Herzegovina
+LANGUAGE_BW,Botswana
+LANGUAGE_BV,Bouvet Island
+LANGUAGE_BR,Brazil
+LANGUAGE_IO,British Indian Ocean Territory
+LANGUAGE_UM,United States Minor Outlying Islands
+LANGUAGE_VG,Virgin Islands (British)
+LANGUAGE_VI,Virgin Islands (U.S.)
+LANGUAGE_BN,Brunei Darussalam
+LANGUAGE_BG,Bulgaria
+LANGUAGE_BF,Burkina Faso
+LANGUAGE_BI,Burundi
+LANGUAGE_KH,Cambodia
+LANGUAGE_CM,Cameroon
+LANGUAGE_CA,Canada
+LANGUAGE_CV,Cabo Verde
+LANGUAGE_KY,Cayman Islands
+LANGUAGE_CF,Central African Republic
+LANGUAGE_TD,Chad
+LANGUAGE_CL,Chile
+LANGUAGE_CN,China
+LANGUAGE_CX,Christmas Island
+LANGUAGE_CC,Cocos (Keeling) Islands
+LANGUAGE_CO,Colombia
+LANGUAGE_KM,Comoros
+LANGUAGE_CG,Congo
+LANGUAGE_CD,Congo (Democratic Republic of the)
+LANGUAGE_CK,Cook Islands
+LANGUAGE_CR,Costa Rica
+LANGUAGE_HR,Croatia
+LANGUAGE_CU,Cuba
+LANGUAGE_CW,Curaçao
+LANGUAGE_CY,Cyprus
+LANGUAGE_CZ,Czech Republic
+LANGUAGE_DK,Denmark
+LANGUAGE_DJ,Djibouti
+LANGUAGE_DM,Dominica
+LANGUAGE_DO,Dominican Republic
+LANGUAGE_EC,Ecuador
+LANGUAGE_EG,Egypt
+LANGUAGE_SV,El Salvador
+LANGUAGE_GQ,Equatorial Guinea
+LANGUAGE_ER,Eritrea
+LANGUAGE_EE,Estonia
+LANGUAGE_ET,Ethiopia
+LANGUAGE_FK,Falkland Islands (Malvinas)
+LANGUAGE_FO,Faroe Islands
+LANGUAGE_FJ,Fiji
+LANGUAGE_FI,Finland
+LANGUAGE_FR,France
+LANGUAGE_GF,French Guiana
+LANGUAGE_PF,French Polynesia
+LANGUAGE_TF,French Southern Territories
+LANGUAGE_GA,Gabon
+LANGUAGE_GM,Gambia
+LANGUAGE_GE,Georgia
+LANGUAGE_DE,Germany
+LANGUAGE_GH,Ghana
+LANGUAGE_GI,Gibraltar
+LANGUAGE_GR,Greece
+LANGUAGE_GL,Greenland
+LANGUAGE_GD,Grenada
+LANGUAGE_GP,Guadeloupe
+LANGUAGE_GU,Guam
+LANGUAGE_GT,Guatemala
+LANGUAGE_GG,Guernsey
+LANGUAGE_GN,Guinea
+LANGUAGE_GW,Guinea-Bissau
+LANGUAGE_GY,Guyana
+LANGUAGE_HT,Haiti
+LANGUAGE_HM,Heard Island and McDonald Islands
+LANGUAGE_VA,Holy See
+LANGUAGE_HN,Honduras
+LANGUAGE_HK,Hong Kong
+LANGUAGE_HU,Hungary
+LANGUAGE_IS,Iceland
+LANGUAGE_IN,India
+LANGUAGE_ID,Indonesia
+LANGUAGE_CI,Côte d'Ivoire
+LANGUAGE_IR,Iran (Islamic Republic of)
+LANGUAGE_IQ,Iraq
+LANGUAGE_IE,Ireland
+LANGUAGE_IM,Isle of Man
+LANGUAGE_IL,Israel
+LANGUAGE_IT,Italy
+LANGUAGE_JM,Jamaica
+LANGUAGE_JP,Japan
+LANGUAGE_JE,Jersey
+LANGUAGE_JO,Jordan
+LANGUAGE_KZ,Kazakhstan
+LANGUAGE_KE,Kenya
+LANGUAGE_KI,Kiribati
+LANGUAGE_KW,Kuwait
+LANGUAGE_KG,Kyrgyzstan
+LANGUAGE_LA,Lao People's Democratic Republic
+LANGUAGE_LV,Latvia
+LANGUAGE_LB,Lebanon
+LANGUAGE_LS,Lesotho
+LANGUAGE_LR,Liberia
+LANGUAGE_LY,Libya
+LANGUAGE_LI,Liechtenstein
+LANGUAGE_LT,Lithuania
+LANGUAGE_LU,Luxembourg
+LANGUAGE_MO,Macao
+LANGUAGE_MK,Macedonia (the former Yugoslav Republic of)
+LANGUAGE_MG,Madagascar
+LANGUAGE_MW,Malawi
+LANGUAGE_MY,Malaysia
+LANGUAGE_MV,Maldives
+LANGUAGE_ML,Mali
+LANGUAGE_MT,Malta
+LANGUAGE_MH,Marshall Islands
+LANGUAGE_MQ,Martinique
+LANGUAGE_MR,Mauritania
+LANGUAGE_MU,Mauritius
+LANGUAGE_YT,Mayotte
+LANGUAGE_MX,Mexico
+LANGUAGE_FM,Micronesia (Federated States of)
+LANGUAGE_MD,Moldova (Republic of)
+LANGUAGE_MC,Monaco
+LANGUAGE_MN,Mongolia
+LANGUAGE_ME,Montenegro
+LANGUAGE_MS,Montserrat
+LANGUAGE_MA,Morocco
+LANGUAGE_MZ,Mozambique
+LANGUAGE_MM,Myanmar
+LANGUAGE_NA,Namibia
+LANGUAGE_NR,Nauru
+LANGUAGE_NP,Nepal
+LANGUAGE_NL,Netherlands
+LANGUAGE_NC,New Caledonia
+LANGUAGE_NZ,New Zealand
+LANGUAGE_NI,Nicaragua
+LANGUAGE_NE,Niger
+LANGUAGE_NG,Nigeria
+LANGUAGE_NU,Niue
+LANGUAGE_NF,Norfolk Island
+LANGUAGE_KP,Korea (Democratic People's Republic of)
+LANGUAGE_MP,Northern Mariana Islands
+LANGUAGE_NO,Norway
+LANGUAGE_OM,Oman
+LANGUAGE_PK,Pakistan
+LANGUAGE_PW,Palau
+LANGUAGE_PS,"Palestine, State of"
+LANGUAGE_PA,Panama
+LANGUAGE_PG,Papua New Guinea
+LANGUAGE_PY,Paraguay
+LANGUAGE_PE,Peru
+LANGUAGE_PH,Philippines
+LANGUAGE_PN,Pitcairn
+LANGUAGE_PL,Poland
+LANGUAGE_PT,Portugal
+LANGUAGE_PR,Puerto Rico
+LANGUAGE_QA,Qatar
+LANGUAGE_XK,Republic of Kosovo
+LANGUAGE_RE,Réunion
+LANGUAGE_RO,Romania
+LANGUAGE_RU,Russian Federation
+LANGUAGE_RW,Rwanda
+LANGUAGE_BL,Saint Barthélemy
+LANGUAGE_SH,"Saint Helena, Ascension and Tristan da Cunha"
+LANGUAGE_KN,Saint Kitts and Nevis
+LANGUAGE_LC,Saint Lucia
+LANGUAGE_MF,Saint Martin (French part)
+LANGUAGE_PM,Saint Pierre and Miquelon
+LANGUAGE_VC,Saint Vincent and the Grenadines
+LANGUAGE_WS,Samoa
+LANGUAGE_SM,San Marino
+LANGUAGE_ST,Sao Tome and Principe
+LANGUAGE_SA,Saudi Arabia
+LANGUAGE_SN,Senegal
+LANGUAGE_RS,Serbia
+LANGUAGE_SC,Seychelles
+LANGUAGE_SL,Sierra Leone
+LANGUAGE_SG,Singapore
+LANGUAGE_SX,Sint Maarten (Dutch part)
+LANGUAGE_SK,Slovakia
+LANGUAGE_SI,Slovenia
+LANGUAGE_SB,Solomon Islands
+LANGUAGE_SO,Somalia
+LANGUAGE_ZA,South Africa
+LANGUAGE_GS,South Georgia and the South Sandwich Islands
+LANGUAGE_KR,Korea (Republic of)
+LANGUAGE_SS,South Sudan
+LANGUAGE_ES,Spain
+LANGUAGE_LK,Sri Lanka
+LANGUAGE_SD,Sudan
+LANGUAGE_SR,Suriname
+LANGUAGE_SJ,Svalbard and Jan Mayen
+LANGUAGE_SZ,Swaziland
+LANGUAGE_SE,Sweden
+LANGUAGE_CH,Switzerland
+LANGUAGE_SY,Syrian Arab Republic
+LANGUAGE_TW,Taiwan
+LANGUAGE_TJ,Tajikistan
+LANGUAGE_TZ,"Tanzania, United Republic of"
+LANGUAGE_TH,Thailand
+LANGUAGE_TL,Timor-Leste
+LANGUAGE_TG,Togo
+LANGUAGE_TK,Tokelau
+LANGUAGE_TO,Tonga
+LANGUAGE_TT,Trinidad and Tobago
+LANGUAGE_TN,Tunisia
+LANGUAGE_TR,Turkey
+LANGUAGE_TM,Turkmenistan
+LANGUAGE_TC,Turks and Caicos Islands
+LANGUAGE_TV,Tuvalu
+LANGUAGE_UG,Uganda
+LANGUAGE_UA,Ukraine
+LANGUAGE_AE,United Arab Emirates
+LANGUAGE_GB,United Kingdom of Great Britain and Northern Ireland
+LANGUAGE_US,United States of America
+LANGUAGE_UY,Uruguay
+LANGUAGE_UZ,Uzbekistan
+LANGUAGE_VU,Vanuatu
+LANGUAGE_VE,Venezuela (Bolivarian Republic of)
+LANGUAGE_VN,Viet Nam
+LANGUAGE_WF,Wallis and Futuna
+LANGUAGE_EH,Western Sahara
+LANGUAGE_YE,Yemen
+LANGUAGE_ZM,Zambia
+LANGUAGE_ZW,Zimbabwe
