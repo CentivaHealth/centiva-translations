@@ -42,7 +42,7 @@ errormessage_error_occured,"Si è verificato un errore"
 errormessage_server_error_occured,"Si è verificato un errore del server"
 progress_dialog_wait_message,Aspetta...
 welcome,"Benvenuti a"
-welcome_content,"""Covaid è stata sviluppata in collaborazione con l'Università di Basilea, l'Istituto Svizzero di Medicina Tropicale e della Sanità Pubblica (Swiss TPH) e Novartis Global Health."""
+welcome_content,"CovAid è stato sviluppato da Centiva nell'ambito di un partenariato pubblico-privato"
 recover_existing_wallet,"Recupera il portafoglio esistente"
 create_new_wallet,"Crea nuovo portafoglio"
 recover_description,"Inserisci la frase di riserva per recuperare il tuo portafoglio."
@@ -402,7 +402,7 @@ covid19_year_label,Anno
 covid19_test_outcome_label,"Esito del test per il COVID-19"
 covid19_test_outcome_positive_label,Positivo
 covid19_test_outcome_negative_label,Negativo
-covid19_test_outcome_shareable_label,"Vorresti condividere l'esito del test per il COVID-19, in forma anonima, con Swiss TPH, per supportare la ricerca epidemiologica?"
+covid19_test_outcome_shareable_label,"Vorresti condividere l'esito del test per il COVID-19, in forma anonima, con Centiva (server di prova), per supportare la ricerca epidemiologica?"
 covid19_yes_label,Sì
 covid19_no_label,No
 covid19_invite_contact_title,Condividi
@@ -422,7 +422,7 @@ covid19_symptoms_tiredness_label,Stanchezza
 covid19_symptoms_difficult_breathing_label,"Difficoltà respiratorie"
 covid19_close_contact_question,"Qualcuno di recente ti ha comunicato di essere risultato positivo al COVID-19, e tu sei stato in stretto contatto con questa persona nei 10 giorni precedenti il test?"
 covid19_close_proximity_positive_question,"Dal momento che sei venuto in contatto con un paziente positivo al COVID-19, sei invitato a seguire le linee guida dell'auto-isolamento (che impongono di non lasciare la propria abitazione se non per ragioni legate a bisogni essenziali, come l'approvvigionamento di cibo, farmaci e così via)."
-covid19_symptoms_shareable_question,"Vorresti condividere i tuoi sintomi, in forma anonima, con Swiss TPH, per contribuire a supportare la ricerca epidemiologica?"
+covid19_symptoms_shareable_question,"Vorresti condividere i tuoi sintomi, in forma anonima, con Centiva (server di prova), per contribuire a supportare la ricerca epidemiologica?"
 covid19_test_questions_subtitle,"Riporta il risultato del test diagnostico"
 covid19_test_confirmed_date_label,"Data in cui è stato confermato il risultato"
 covid19_invite_contact_text1,"Diversamente, puoi invitare i tuoi contatti ad usare l'app."
@@ -458,13 +458,13 @@ covid_19_questionnaire_test_no_response_2,"A seconda della tua età e delle cond
 covid_19_questionnaire_test_no_response_3,"Accusi affanno respiratorio, tosse e temperatura elevata, chiama immediatamente il tuo medico di base o un ospedale. Riferisci che stai chiamando per il nuovo coronavirus e che sei a rischio elevato. Descrivi i sintomi."
 covid_19_questionnaire_test_no_response_4,"Soffri dei sintomi connessi con il COVID-19 e sei stato in contatto con una persona a cui è stato diagnosticato il COVID-19. Vi è un'elevata probabilità che tu abbia contratto il nuovo coronavirus. Devi rimanere in casa per almeno 10 giorni e tenere i sintomi sotto osservazione."
 covid_19_questionnaire_test_no_understood_button,Capito
-covid_19_share_location_data_question,"Acconsenti a condividere i dati di rilevamento della posizione con lo Swiss TPH al fine di allertare gli altri utenti in modo anonimo?"
+covid_19_share_location_data_question,"Acconsenti a condividere i dati di rilevamento della posizione con lo Centiva (server di prova) al fine di allertare gli altri utenti in modo anonimo?"
 LANGUAGES.it,Italiano
 covid19_check_in_disabled,"I check-in non sono supportati in presenza di una diagnosi di COVID-19"
 warning,Attenzione
-covid19_risk_alert,"Allarme Rischio Covid-19"
+covid19_risk_alert,"Allarme Rischio COVID-19"
 covid19_risk_alert_info,"Un luogo che hai frequentato ha avuto un incremento del rischio di esposizione durante la tua permanenza."
-covid19_alert_details_title,"Allerta Contatto Covid-19"
+covid19_alert_details_title,"Allerta Contatto COVID-19"
 covid19_alert_details_info,"Un luogo che hai frequentato ha avuto un incremento del rischio di esposizione durante la tua permanenza."
 covid19_alert_observe_symptoms,"Nei prossimi giorni osserva attentamente i sintomi e auto-confinati se è il caso."
 covid19_other_symtomps_placeholder,"Altro (specificare)"
@@ -486,3 +486,10 @@ covid19_respiratory,"Sintomi respiratori, ad es.: tosse"
 covid19_conjunctivitis,Congiuntivite
 covid19_headcold,raffreddore
 covid19_head_cold,raffreddore
+searchable_place_holder,Ricerca
+covid19_enter_place,"Inserisci solo il nome della città o del paeso"
+covid19_enter_post_code,"Inserisci il codice postale"
+covid19_share_with_contacts_content1,"Sei stato in contatto con qualcuno a cui è stata recentemente diagnosticata la COVID-19. Tieni traccia dei tuoi sintomi."
+covid19_share_with_contacts_content2,"Ridurre la trasmissione della malattia."
+covid19_check_in_button,Registrare
+covid19_risk_alert_info_verified,"Un luogo che hai frequentato ha avuto un alto rischio di esposizione durante la tua permanenza."
