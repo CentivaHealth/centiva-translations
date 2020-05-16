@@ -42,7 +42,7 @@ errormessage_error_occured,"Ein Fehler ist aufgetreten"
 errormessage_server_error_occured,"Ein Serverfehler ist aufgetreten"
 progress_dialog_wait_message,"Bitte warten…"
 welcome,"Herzlich Willkommen"
-welcome_content,"CovAid wurde in Zusammenarbeit mit der Universität Basel, dem Schweizerischen Tropen- und Public Health-Institut (Swiss TPH) und Novartis Global Health entwickelt."
+welcome_content,"CovAid wurde von Centiva im Rahmen einer öffentlich-privaten Partnerschaft entwickelt"
 recover_existing_wallet,"Bestehendes Wallet wiederherstellen"
 create_new_wallet,"Neues Wallet erstellen"
 recover_description,"Bitte geben Sie die Passphrase ein um Ihr Wallet wiederherzustellen"
@@ -382,12 +382,12 @@ consent_alert_agree,Weiter
 fourth_agreement_covid,"Ihre Gesundheits- und demographischen Daten werden mit Ihrem PIN verschlüsselt und im lokalen Speicher Ihres Mobilgeräts gespeichert. Wenn Sie über die Centiva App an einer Datenabfrage durch eine externe Organisation teilnehmen, werden die Daten direkt von Ihrem Gerät an diese übertragen."
 fifth_agreement_covid,"Sie allein sind verantwortlich für die Aufbewahrung Ihrer Daten, einschließlich Ihres PIN und Ihrer E-Mail Zugangsdaten!"
 covid19_homepage_status,"Aktueller Status"
-covid19_homepage_status_2,Covid-19
+covid19_homepage_status_2,COVID-19
 covid19_homepage_status_1,Beobachten
 covid19_homepage_status_0,Gesund
-covid19_homepage_tested_question,"Wurden Sie auf Covid-19 getestet?"
-covid19_test_questions_title,"Fragen zu Covid-19-Test"
-covid19_test_location,"Ort, an dem der Covid-19-Test durchgeführt wurde"
+covid19_homepage_tested_question,"Wurden Sie auf COVID-19 getestet?"
+covid19_test_questions_title,"Fragen zu COVID-19-Test"
+covid19_test_location,"Ort, an dem der COVID-19-Test durchgeführt wurde"
 covid19_test_diagnosed_question,"Bei Ihnen wurde COVID-19 diagnostiziert. Würden Sie diese Informationen gerne an Personen weitergeben, mit denen Sie in letzter Zeit physischen Kontakt hatten, um die Verfolgung der Übertragung zu unterstützen?"
 covid19_inform_contact_description,"Informieren Sie eine Kontaktperson über Ihr COVID-19-Testergebnis"
 covid19_inform_contact_sub_description,"(mit wem Sie innerhalb der letzten 10 Tage Kontakt hatten)"
@@ -400,14 +400,14 @@ covid19_test_date_label,"Datum, an dem der COVID-19-Test durchgeführt wurde"
 covid19_day_label,Tag
 covid19_month_label,Monat
 covid19_year_label,Jahr
-covid19_test_outcome_label,"Ergebnis Covid-19 Test"
+covid19_test_outcome_label,"Ergebnis COVID-19 Test"
 covid19_test_outcome_positive_label,Positiv
 covid19_test_outcome_negative_label,Negativ
-covid19_test_outcome_shareable_label,"Möchten Sie das Ergebnis Ihres Covid-19-Tests anonym mit dem Swiss TPH teilen, um die Übertragung des Coronavirus zu verfolgen?"
+covid19_test_outcome_shareable_label,"Möchten Sie das Ergebnis Ihres COVID-19-Tests anonym mit dem Centiva Testserver teilen, um die Übertragung des Coronavirus zu verfolgen?"
 covid19_yes_label,Ja
 covid19_no_label,Nein
 covid19_invite_contact_title,Teilen
-covid19_invite_contact_share_reminder,"Möchten Sie Ihr Covid-19-Testergebnis teilen und ihre Kontakte informieren?"
+covid19_invite_contact_share_reminder,"Möchten Sie Ihr COVID-19-Testergebnis teilen und ihre Kontakte informieren?"
 covid19_invite_contact_tap_link_description,"Tippen Sie auf den Link, um Kontakte einzuladen."
 verify_email_1_title,"Mit e-Mail anmelden"
 verify_email_1_get_email_description,"Bitte geben Sie Ihre e-Mail-Adresse an. Zur Verifizierung wir ein Link wird an diese E-Mail-Adresse geschickt. Er muss auf diesem Gerät geöffnet werden, um die Anmeldung abzuschließen."
@@ -423,15 +423,15 @@ covid19_symptoms_tiredness_label,Müdigkeit
 covid19_symptoms_difficult_breathing_label,Atemnot
 covid19_close_contact_question,"Hat Ihnen kürzlich jemand mitgeteilt, dass er positiv auf COVID-19 getestet wurde, und standen Sie innerhalb der 10 Tage vor dem Test in engem Kontakt mit dieser Person?"
 covid19_close_proximity_positive_question,"Da Sie mit einem COVID-19-Patienten Kontakt hatten, befolgen Sie bitte die örtliche Anweisungen zur Selbstisolierung (verlassen Sie Ihr Haus nur aus wichtigen Gründen (Nahrungsmittel, Medikamente usw.)."
-covid19_symptoms_shareable_question,"Möchten Sie Ihre Symptome anonym mit dem Swiss TPH teilen, um die Übertragung des Coronavirus zu verfolgen?"
+covid19_symptoms_shareable_question,"Möchten Sie Ihre Symptome anonym mit dem Centiva Testserver teilen, um die Übertragung des Coronavirus zu verfolgen?"
 covid19_test_questions_subtitle,"Ergebnis eines diagnostischen Tests melden"
 covid19_test_confirmed_date_label,"Datum des Testergebnisses"
 covid19_invite_contact_text1,"Andernfalls können Sie Ihre Kontakte zur Nutzung der App einladen."
 covid19_invite_contact_text2,"Sie können den Text Ihrer Nachricht vor dem Absenden bearbeiten."
 covid19_invite_contact_text3,"Bitte beachten Sie, dass Ihre Identität durch die Weitergabe preisgegeben wird."
 covid19_invite_contact_button_label,"Teile mit Kontakten"
-covid19_0_or_1_information1,"Während der Covid-19-Pandemie ist es wichtig, die Übertragung des Virus zu verlangsamen. Verwenden Sie CovAid Geo-Check-Ins und QR-Scans, um Benachrichtigungen für Orte mit erhöhtem Ansteckungsrisiko zu erhalten. Im Falle einer positiven Covid-19 Diagnose informieren Sie bitte die Ihnen bekannten Personen, mit denen Sie in den letzten 10 Tagen in Kontakt standen."
-covid19_0_or_1_information2,"Folgen Sie der nationalen Strategie zur Kontrolle des Ausbruchs einer Pandemie von Covid-19. Wenn Sie dazu aufgefordert werden, bleiben Sie bitte zu Hause und isolieren Sie sich, tragen Sie eine Maske, halten Sie einen Sicherheitsabstand zu anderen und waschen Sie sich häufig die Hände. Befolgen Sie zu jeder Zeit die Anweisungen Ihres Arztes."
+covid19_0_or_1_information1,"Während der COVID-19-Pandemie ist es wichtig, die Übertragung des Virus zu verlangsamen. Verwenden Sie CovAid Geo-Check-Ins und QR-Scans, um Benachrichtigungen für Orte mit erhöhtem Ansteckungsrisiko zu erhalten. Im Falle einer positiven Covid-19 Diagnose informieren Sie bitte die Ihnen bekannten Personen, mit denen Sie in den letzten 10 Tagen in Kontakt standen."
+covid19_0_or_1_information2,"Folgen Sie der nationalen Strategie zur Kontrolle des Ausbruchs einer Pandemie von COVID-19. Wenn Sie dazu aufgefordert werden, bleiben Sie bitte zu Hause und isolieren Sie sich, tragen Sie eine Maske, halten Sie einen Sicherheitsabstand zu anderen und waschen Sie sich häufig die Hände. Befolgen Sie zu jeder Zeit die Anweisungen Ihres Arztes."
 covid19_join_now_button,Mitmachen
 covid19_fever_question,"Haben Sie derzeit Fieber oder Fiebergefühl (mehr als 37,5 °C)?"
 covid19_which_symtomp_question,"Welche Symptome treten derzeit bei Ihnen auf?"
@@ -459,13 +459,13 @@ covid_19_questionnaire_test_no_response_2,"Aufgrund ihres Alters und Ihrer Vorer
 covid_19_questionnaire_test_no_response_3,"Sie berichteten Kurzatmigkeit, Husten und hohes Fieber. Rufen Sie sofort Ihren Arzt oder ein Krankenhaus an. Erwähnen Sie, dass ihr Anruf im Zusammenhang mit dem neuen Coronavirus steht und dass Sie einem hohen Risiko ausgesetzt sind. Beschreiben Sie Ihre Symptome."
 covid_19_questionnaire_test_no_response_4,"Bei ihnen treten Symptome auf, die mit COVID-19 zusammenhängen. Ausserdem Sie sind mit einer Person in Kontakt gekommen, bei der COVID-19 diagnostiziert wurde. Es besteht eine hohe Wahrscheinlichkeit, dass Sie sich mit dem neuen Coronavirus angesteckt haben. Sie müssen mindestens zehn Tage lang zu Hause bleiben und Ihre Symptome überwachen."
 covid_19_questionnaire_test_no_understood_button,Verstanden
-covid_19_share_location_data_question,"Sind Sie damit einverstanden, Ihre Standort-Check-in-Daten mit Swiss TPH zu teilen, um andere Benutzer anonym zu alarmieren?"
+covid_19_share_location_data_question,"Sind Sie damit einverstanden, Ihre Standort-Check-in-Daten mit Centiva Testserver zu teilen, um andere Benutzer anonym zu alarmieren?"
 LANGUAGES.it,Italienisch
 covid19_check_in_disabled,"Check-Ins werden nicht unterstützt, sobald die Diagnose COVID-19 gestellt wird."
 warning,Warnung
-covid19_risk_alert,"Covid-19 Risikowarnung"
+covid19_risk_alert,"COVID-19 Risikowarnung"
 covid19_risk_alert_info,"Sie haben kürzlich einen Ort mit einem erhöhten Infektionsrisiko besucht."
-covid19_alert_details_title,"Covid-19 Kontaktwarnung"
+covid19_alert_details_title,"COVID-19 Kontaktwarnung"
 covid19_alert_details_info,"Sie haben einen Ort mit einem erhöhten Infektionsrisiko besucht am "
 covid19_alert_observe_symptoms,"Bitte beobachten Sie Ihre Symptome in den kommenden Tagen und isolieren Sie sich ggf. selbst."
 covid19_other_symtomps_placeholder,"Andere (bitte angeben)"
@@ -487,3 +487,10 @@ covid19_respiratory,"Respiratorische Symptome, z.B. Husten"
 covid19_conjunctivitis,Bindehautentzündung
 covid19_headcold,Schnupfen
 covid19_head_cold,Schnupfen
+searchable_place_holder,Suche
+covid19_enter_place,"Geben Sie Ihre Stadt oder Region ein"
+covid19_enter_post_code,"Geben Sie die Postleitzahl ein"
+covid19_share_with_contacts_content1,"Sie haben Kontakt mit jemandem gehabt, bei dem kürzlich COVID-19 diagnostiziert wurde. Bitte verfolgen Sie Ihre Symptome."
+covid19_share_with_contacts_content2,"Um die Übertragung der Krankheit zu reduzieren."
+covid19_check_in_button,Check-In
+covid19_risk_alert_info_verified,"Sie haben kürzlich einen Ort mit mit hohem Risiko Infektionsrisiko besucht."
