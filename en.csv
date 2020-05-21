@@ -402,7 +402,7 @@ covid19_year_label,Year
 covid19_test_outcome_label,"Outcome of COVID-19 test"
 covid19_test_outcome_positive_label,"Positive (Diagnosed with COVID-19)"
 covid19_test_outcome_negative_label,"Negative (No infection)"
-covid19_test_outcome_shareable_label,"Would you like to share the outcome of your COVID-19 test anonymously with Centiva (test backend) to support epidemiological research?"
+covid19_test_outcome_shareable_label,"Would you like to share the outcome of your COVID-19 test anonymously with the data custodian to support the fight against the coronavirus?"
 covid19_yes_label,Yes
 covid19_no_label,No
 covid19_invite_contact_title,Share
@@ -422,7 +422,7 @@ covid19_symptoms_tiredness_label,Tiredness
 covid19_symptoms_difficult_breathing_label,"Difficulty breathing"
 covid19_close_contact_question,"Has someone recently notified you of being tested positively for COVID-19, and you have been in close contact with that person within the 10 days before the test?"
 covid19_close_proximity_positive_question,"As you have been in contact with a positively diagnosed COVID-19 patient, please follow local self-isolation guidance (not leaving your house for anything other than critical needs, food, medication,etc.)"
-covid19_symptoms_shareable_question,"Would you like to share your symptoms anonymously with Centiva (test backend) to support epidemiological research?"
+covid19_symptoms_shareable_question,"Would you like to share your symptoms anonymously with the data custodian to support the fight against the coronavirus?"
 covid19_test_questions_subtitle,"Report result of a diagnostic test"
 covid19_test_confirmed_date_label,"Date when result was confirmed"
 covid19_invite_contact_text1,"Otherwise, you can invite your contacts to use the app."
@@ -458,7 +458,7 @@ covid_19_questionnaire_test_no_response_2,"According to your age and preexisting
 covid_19_questionnaire_test_no_response_3,"You reported shortness of breath, a cough and high temperature, call your doctor or a hospital immediately. State that you are calling in connection with the new coronavirus and that you are at high risk. Describe your symptoms."
 covid_19_questionnaire_test_no_response_4,"You experience symptoms that are related to COVID-19, and you have been in contact with a person diagnosed with COVID-19. There is a high likelihood that you have contracted the new coronavirus. You must stay at home for at least ten days and monitor your symptoms."
 covid_19_questionnaire_test_no_understood_button,Understood
-covid_19_share_location_data_question,"Do you agree to share your location check-in data with Centiva (test backend) in order to anonymously alert other users?"
+covid_19_share_location_data_question,"Do you agree to share your location check-in data with the data custodian in order to anonymously alert other users?"
 LANGUAGES.it,Italian
 covid19_check_in_disabled,"Check-ins are not supported upon being diagnosed with COVID-19."
 warning,Warning
@@ -482,7 +482,8 @@ covid_19_related_factors_chronic_kidney_issues,"Chronic kidney issues?"
 covid_19_related_factors_chronic_heart_issues,"Chronic heart issues (i.e., heart failure)?"
 covid_19_related_factors_chronic_liver_issues,"Chronic liver issues (i.e., hepatitis)?"
 covid_19_related_factors_HIV_AIDS,HIV/AIDS?
-covid19_respiratory,"Respiratory Symptoms e.g. cough"
+covid19_respiratory,"Respiratory symptoms, such as cough (usually dry), sore throat, shortness of breath
+"
 covid19_conjunctivitis,Conjunctivitis
 covid19_headcold,"Head cold"
 covid19_head_cold,"Head cold"
@@ -490,6 +491,17 @@ searchable_place_holder,Search
 covid19_enter_place,"Enter city/town/village only"
 covid19_enter_post_code,"Enter postal code"
 covid19_share_with_contacts_content1,"You have been in contact with someone who has recently been diagnosed with COVID-19. Please track your symptoms."
-covid19_share_with_contacts_content2,"To reduce the transmission of the disease."
+covid19_share_with_contacts_content2,"I'd like to share the Centiva app with you because together we can prevent the new coronavirus from spreading!"
 covid19_check_in_button,"Check in"
 covid19_risk_alert_info_verified,"One of the locations you visited had a high risk of exposure."
+covid_19_related_factors_adipositas,"Obesity grade lll (morbid, BMI ≥ 40 kg/m²)"
+covid19_symptoms_version,"BAG recommendation as of 15 May 2020"
+covid19_test_has_verification_code,"Have you received a verification code?"
+choose_map_check_in,"Current Location"
+choose_qr_check_in,"Scan QR Code"
+covid19_check_in_button_home,"Location Check in"
+covid19_test_verification_label,"Verification code"
+covid19_test_verification_placeholder,"Enter verification code"
+covid19_test_basic_health_label,"Basic health"
+covid19_test_gender_label,Gender
+covid19_test_age_bracket_label,"Age bracket"
