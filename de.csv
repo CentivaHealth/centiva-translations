@@ -94,7 +94,7 @@ health_explain,"Diese Informationen werden benötigt, um Ihnen relevante Studien
 store_only_on_device,"DATEN NUR AUF DEM GERÄT GESPEICHERT. Diese Daten werden nicht geteilt oder übertragen!"
 gender_question,Geschlecht?
 invalid_weight,"Unzulässiges Gewicht!"
-invalid_height,"Unzulässiges Gewicht!"
+invalid_height,"Unzulässiges Körpergrösse!"
 next_page_btn,"Nächste Seite"
 profile_btn,Profil
 done_btn,Erledigt
@@ -403,7 +403,7 @@ covid19_year_label,Jahr
 covid19_test_outcome_label,"Ergebnis COVID-19 Test"
 covid19_test_outcome_positive_label,Positiv
 covid19_test_outcome_negative_label,Negativ
-covid19_test_outcome_shareable_label,"Möchten Sie das Ergebnis Ihres COVID-19-Tests anonym mit dem Centiva Testserver teilen, um die Übertragung des Coronavirus zu verfolgen?"
+covid19_test_outcome_shareable_label,"Möchten Sie das Ergebnis Ihres COVID-19-Tests anonym mit dem Datentreuhänder teilen, um die Übertragung des Coronavirus zu verfolgen?"
 covid19_yes_label,Ja
 covid19_no_label,Nein
 covid19_invite_contact_title,Teilen
@@ -423,7 +423,7 @@ covid19_symptoms_tiredness_label,Müdigkeit
 covid19_symptoms_difficult_breathing_label,Atemnot
 covid19_close_contact_question,"Hat Ihnen kürzlich jemand mitgeteilt, dass er positiv auf COVID-19 getestet wurde, und standen Sie innerhalb der 10 Tage vor dem Test in engem Kontakt mit dieser Person?"
 covid19_close_proximity_positive_question,"Da Sie mit einem COVID-19-Patienten Kontakt hatten, befolgen Sie bitte die örtliche Anweisungen zur Selbstisolierung (verlassen Sie Ihr Haus nur aus wichtigen Gründen (Nahrungsmittel, Medikamente usw.)."
-covid19_symptoms_shareable_question,"Möchten Sie Ihre Symptome anonym mit dem Centiva Testserver teilen, um die Übertragung des Coronavirus zu verfolgen?"
+covid19_symptoms_shareable_question,"Möchten Sie Ihre Symptome anonym mit dem Daten Treuhänder teilen, um die Übertragung des Coronavirus zu verfolgen?"
 covid19_test_questions_subtitle,"Ergebnis eines diagnostischen Tests melden"
 covid19_test_confirmed_date_label,"Datum des Testergebnisses"
 covid19_invite_contact_text1,"Andernfalls können Sie Ihre Kontakte zur Nutzung der App einladen."
@@ -459,7 +459,7 @@ covid_19_questionnaire_test_no_response_2,"Aufgrund ihres Alters und Ihrer Vorer
 covid_19_questionnaire_test_no_response_3,"Sie berichteten Kurzatmigkeit, Husten und hohes Fieber. Rufen Sie sofort Ihren Arzt oder ein Krankenhaus an. Erwähnen Sie, dass ihr Anruf im Zusammenhang mit dem neuen Coronavirus steht und dass Sie einem hohen Risiko ausgesetzt sind. Beschreiben Sie Ihre Symptome."
 covid_19_questionnaire_test_no_response_4,"Bei ihnen treten Symptome auf, die mit COVID-19 zusammenhängen. Ausserdem Sie sind mit einer Person in Kontakt gekommen, bei der COVID-19 diagnostiziert wurde. Es besteht eine hohe Wahrscheinlichkeit, dass Sie sich mit dem neuen Coronavirus angesteckt haben. Sie müssen mindestens zehn Tage lang zu Hause bleiben und Ihre Symptome überwachen."
 covid_19_questionnaire_test_no_understood_button,Verstanden
-covid_19_share_location_data_question,"Sind Sie damit einverstanden, Ihre Standort-Check-in-Daten mit Centiva Testserver zu teilen, um andere Benutzer anonym zu alarmieren?"
+covid_19_share_location_data_question,"Sind Sie damit einverstanden, Ihre Standort-Check-in-Daten mit dem Daten Treuhänder zu teilen, um andere Benutzer anonym zu alarmieren?"
 LANGUAGES.it,Italienisch
 covid19_check_in_disabled,"Check-Ins werden nicht unterstützt, sobald die Diagnose COVID-19 gestellt wird."
 warning,Warnung
@@ -483,7 +483,7 @@ covid_19_related_factors_chronic_kidney_issues,"Chronische Nierenprobleme?"
 covid_19_related_factors_chronic_heart_issues,"Chronische Herzprobleme (d.h. Herzinsuffizienz)?"
 covid_19_related_factors_chronic_liver_issues,"Chronische Leberprobleme wie Hepatitis?"
 covid_19_related_factors_HIV_AIDS,HIV/AIDS?
-covid19_respiratory,"Respiratorische Symptome, z.B. Husten"
+covid19_respiratory,"Respiratorische Symptome, z.B. Husten (meist trocken), Halsschmerzen, Kurzatmigkeit"
 covid19_conjunctivitis,Bindehautentzündung
 covid19_headcold,Schnupfen
 covid19_head_cold,Schnupfen
@@ -491,6 +491,17 @@ searchable_place_holder,Suche
 covid19_enter_place,"Geben Sie Ihre Stadt oder Region ein"
 covid19_enter_post_code,"Geben Sie die Postleitzahl ein"
 covid19_share_with_contacts_content1,"Sie haben Kontakt mit jemandem gehabt, bei dem kürzlich COVID-19 diagnostiziert wurde. Bitte verfolgen Sie Ihre Symptome."
-covid19_share_with_contacts_content2,"Um die Übertragung der Krankheit zu reduzieren."
+covid19_share_with_contacts_content2,"Ich möchte die Centiva-App mit Ihnen teilen, da wir gemeinsam verhindern können, dass sich das neue Coronavirus verbreitet!"
 covid19_check_in_button,Check-In
 covid19_risk_alert_info_verified,"Sie haben kürzlich einen Ort mit mit hohem Risiko Infektionsrisiko besucht."
+covid_19_related_factors_adipositas,"Adipositas Grad lll (morbid, BMI ≥ 40 kg/m²)"
+covid19_symptoms_version,"BAG-Empfehlung vom 15. Mai 2020"
+covid19_test_has_verification_code,"Haben Sie einen Bestätigungscode erhalten?"
+choose_map_check_in,"Aktueller Standort"
+choose_qr_check_in,"QR-Code scannen"
+covid19_check_in_button_home,"Standort Einchecken"
+covid19_test_verification_label,Bestätigungscode
+covid19_test_verification_placeholder,"Bestätigungscode eingeben"
+covid19_test_basic_health_label,Basisdaten
+covid19_test_gender_label,Geschlecht
+covid19_test_age_bracket_label,Altersklasse
