@@ -402,7 +402,7 @@ covid19_year_label,Anno
 covid19_test_outcome_label,"Esito del test per il COVID-19"
 covid19_test_outcome_positive_label,Positivo
 covid19_test_outcome_negative_label,Negativo
-covid19_test_outcome_shareable_label,"Vorresti condividere l'esito del test per il COVID-19, in forma anonima, con Centiva (server di prova), per supportare la ricerca epidemiologica?"
+covid19_test_outcome_shareable_label,"Vuoi condividere l'esito del tuo test COVID-19 in forma anonima con il custode dei dati per sostenere la lotta contro il coronavirus?"
 covid19_yes_label,Sì
 covid19_no_label,No
 covid19_invite_contact_title,Condividi
@@ -422,7 +422,7 @@ covid19_symptoms_tiredness_label,Stanchezza
 covid19_symptoms_difficult_breathing_label,"Difficoltà respiratorie"
 covid19_close_contact_question,"Qualcuno di recente ti ha comunicato di essere risultato positivo al COVID-19, e tu sei stato in stretto contatto con questa persona nei 10 giorni precedenti il test?"
 covid19_close_proximity_positive_question,"Dal momento che sei venuto in contatto con un paziente positivo al COVID-19, sei invitato a seguire le linee guida dell'auto-isolamento (che impongono di non lasciare la propria abitazione se non per ragioni legate a bisogni essenziali, come l'approvvigionamento di cibo, farmaci e così via)."
-covid19_symptoms_shareable_question,"Vorresti condividere i tuoi sintomi, in forma anonima, con Centiva (server di prova), per contribuire a supportare la ricerca epidemiologica?"
+covid19_symptoms_shareable_question,"Desideri condividere i tuoi sintomi in forma anonima con il custode dei dati per sostenere la lotta contro il coronavirus?"
 covid19_test_questions_subtitle,"Riporta il risultato del test diagnostico"
 covid19_test_confirmed_date_label,"Data in cui è stato confermato il risultato"
 covid19_invite_contact_text1,"Diversamente, puoi invitare i tuoi contatti ad usare l'app."
@@ -458,7 +458,7 @@ covid_19_questionnaire_test_no_response_2,"A seconda della tua età e delle cond
 covid_19_questionnaire_test_no_response_3,"Accusi affanno respiratorio, tosse e temperatura elevata, chiama immediatamente il tuo medico di base o un ospedale. Riferisci che stai chiamando per il nuovo coronavirus e che sei a rischio elevato. Descrivi i sintomi."
 covid_19_questionnaire_test_no_response_4,"Soffri dei sintomi connessi con il COVID-19 e sei stato in contatto con una persona a cui è stato diagnosticato il COVID-19. Vi è un'elevata probabilità che tu abbia contratto il nuovo coronavirus. Devi rimanere in casa per almeno 10 giorni e tenere i sintomi sotto osservazione."
 covid_19_questionnaire_test_no_understood_button,Capito
-covid_19_share_location_data_question,"Acconsenti a condividere i dati di rilevamento della posizione con lo Centiva (server di prova) al fine di allertare gli altri utenti in modo anonimo?"
+covid_19_share_location_data_question,"Accetti di condividere i dati del check-in sulla posizione con il custode dei dati per avvisare anonimamente gli altri utenti?"
 LANGUAGES.it,Italiano
 covid19_check_in_disabled,"I check-in non sono supportati in presenza di una diagnosi di COVID-19"
 warning,Attenzione
@@ -490,6 +490,17 @@ searchable_place_holder,Ricerca
 covid19_enter_place,"Inserisci solo il nome della città o del paeso"
 covid19_enter_post_code,"Inserisci il codice postale"
 covid19_share_with_contacts_content1,"Sei stato in contatto con qualcuno a cui è stata recentemente diagnosticata la COVID-19. Tieni traccia dei tuoi sintomi."
-covid19_share_with_contacts_content2,"Ridurre la trasmissione della malattia."
+covid19_share_with_contacts_content2,"Vorrei condividere con te l'app Centiva perché insieme possiamo impedire la diffusione del nuovo coronavirus!"
 covid19_check_in_button,Registrare
 covid19_risk_alert_info_verified,"Un luogo che hai frequentato ha avuto un alto rischio di esposizione durante la tua permanenza."
+covid_19_related_factors_adipositas,"Grado di obesità lll (morboso, BMI ≥ 40 kg / m²)"
+covid19_symptoms_version,"Raccomandazione BAG al 15 maggio 2020"
+covid19_test_has_verification_code,"Hai ricevuto un codice di verifica?"
+choose_map_check_in,"Posizione attuale"
+choose_qr_check_in,"Scansiona il codice QR"
+covid19_check_in_button_home,"Posizione Check in"
+covid19_test_verification_label,"Codice di verifica"
+covid19_test_verification_placeholder,"Inserisci il codice di verifica"
+covid19_test_basic_health_label,"Salute di base"
+covid19_test_gender_label,Genere
+covid19_test_age_bracket_label,"Fascia di età"
