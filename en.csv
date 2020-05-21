@@ -380,6 +380,7 @@ consent_alert_title,"Open URL in browser"
 consent_alert_agree,Continue
 fourth_agreement_covid,"Your basic health and demographic data is encrypted with your PIN and stored on your mobile device’s local storage. Any data you provide to seekers of your health information is transmitted directly from your device to the seeker."
 fifth_agreement_covid,"You are solely responsible for the safekeeping of your information such as your PIN and account email credentials."
+send_feed_back_email_title,"Feedback from app user"
 covid19_homepage_status,"Current status"
 covid19_homepage_status_2,"Diagnosed with COVID-19"
 covid19_homepage_status_1,"Observing symptoms"
