@@ -94,7 +94,7 @@ health_explain,"Diese Informationen werden benötigt, um Ihnen relevante Studien
 store_only_on_device,"DATEN NUR AUF DEM GERÄT GESPEICHERT. Diese Daten werden nicht geteilt oder übertragen!"
 gender_question,Geschlecht?
 invalid_weight,"Unzulässiges Gewicht!"
-invalid_height,"Unzulässiges Körpergrösse!"
+invalid_height,"Unzulässige Körpergrösse!"
 next_page_btn,"Nächste Seite"
 profile_btn,Profil
 done_btn,Erledigt
