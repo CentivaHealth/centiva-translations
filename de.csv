@@ -455,9 +455,9 @@ covid19_check_in_successful_card,"Check-in erfolgreich"
 covid19_keep_your_health_status_update_reminder,"Gesundheitszustand aktuell halten:"
 covid19_keep_others_safe_reminder,"Schütze andere:"
 covid_19_questionnaire_test_no_response_1,"Derzeit gibt es keine Anzeichen dafür, dass Sie sich mit dem neuen Coronavirus infiziert haben. Bitte halten Sie sich an die Einschränkungen, die von Ihrer Behörden festgelegt wurden. Achten Sie auf Handhygiene und halten Sie Abstand!"
-covid_19_questionnaire_test_no_response_2,"Aufgrund ihres Alters und Ihrer Vorerkrankungen sollten Sie Ihre Symptome regelmäßig prüfen."
+covid_19_questionnaire_test_no_response_2,"Aufgrund ihres Alters und/oder Ihrer Vorerkrankungen sollten Sie Ihre Symptome regelmäßig prüfen."
 covid_19_questionnaire_test_no_response_3,"Sie berichteten Kurzatmigkeit, Husten und hohes Fieber. Rufen Sie sofort Ihren Arzt oder ein Krankenhaus an. Erwähnen Sie, dass ihr Anruf im Zusammenhang mit dem neuen Coronavirus steht und dass Sie einem hohen Risiko ausgesetzt sind. Beschreiben Sie Ihre Symptome."
-covid_19_questionnaire_test_no_response_4,"Bei ihnen treten Symptome auf, die mit COVID-19 zusammenhängen. Ausserdem Sie sind mit einer Person in Kontakt gekommen, bei der COVID-19 diagnostiziert wurde. Es besteht eine hohe Wahrscheinlichkeit, dass Sie sich mit dem neuen Coronavirus angesteckt haben. Sie müssen mindestens zehn Tage lang zu Hause bleiben und Ihre Symptome überwachen."
+covid_19_questionnaire_test_no_response_4,"Bei ihnen treten Symptome auf, die mit COVID-19 zusammenhängen und/oder Sie sind mit einer Person in Kontakt gekommen, bei der COVID-19 diagnostiziert wurde. Es besteht eine gewisse Wahrscheinlichkeit, dass Sie sich mit dem neuen Coronavirus angesteckt haben. Bitte überwachen Sie Ihre Symptome."
 covid_19_questionnaire_test_no_understood_button,Verstanden
 covid_19_share_location_data_question,"Sind Sie damit einverstanden, Ihre Standort-Check-in-Daten mit dem Daten Treuhänder zu teilen, um andere Benutzer anonym zu alarmieren?"
 LANGUAGES.it,Italienisch
