@@ -42,7 +42,7 @@ errormessage_error_occured,"Une erreur est survenue"
 errormessage_server_error_occured,"Erreur du serveur"
 progress_dialog_wait_message,"Attendez s'il vous plait"
 welcome,Bienvenue
-welcome_content,"CovAid a été développé par Centiva dans le cadre d'un partenariat public-privé"
+welcome_content,"Reshaping the way your health data is accessed and paid for."
 recover_existing_wallet,"Récuperer un Porte-monnaie Existant"
 create_new_wallet,"Créer Nouveau Porte-monnaie"
 recover_description,"Saisissez votre phrase de sauvegarde pour récuperer votre porte-monnaie"
@@ -378,36 +378,6 @@ QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Vérification érronée"
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Adresse inexistente dans la liste des utilisateurs authorisée"
 consent_alert_title,"Ouvrez ce lien dans votre navigateur web"
 consent_alert_agree,Continuez
-fourth_agreement_covid,"Vos données démographiques et médicales, sont encryptées avec votre code PIN et sauvegardées localement sur votre mobile. Toutes les données que vous fournissez aux demandeurs d'informations sur votre santé sont directement transmises de votre mobile au demandeur."
-fifth_agreement_covid,"Vous êtes seul responsable de la protection de vos informations, y compris de vos sauvegardes de NIP et compte email."
-covid19_homepage_status,"état actuel"
-covid19_homepage_status_2,COVID-19
-covid19_homepage_status_1,"Observer les symptômes"
-covid19_homepage_status_0,"en bonne santé"
-covid19_homepage_tested_question,"Avez vous été testé pour COVID-19?"
-covid19_test_questions_title,"COVID-19 questions sur le test"
-covid19_test_location,"A quelle clinique ou institut de santé avez vous été testé?"
-covid19_test_diagnosed_question,"Comme vous avez été testé positivement pour le COVID-19, souhaitez vous partager cette information avec les personnes  avec qui vous avez été en contact pour aider le traçage de la transmission?"
-covid19_inform_contact_description,"Informez un contact du résultat de votre test COVID 19"
-covid19_inform_contact_sub_description,"Avec qui avez vous été en contact dans les 14 derniers jours?"
-covid19_invited_description,"Vous avez été invité par un contact.  Invitez vos connaissances  qui seraient intéréssé dans le suivi des symptomes"
-covid19_invite_description," Invitez vos connaissances  qui seraient intéréssé dans le suivi des symptômes"
-covid19_information_description,"Pendant les jours et semaines a venir, vous recevrez un questionnaire dans votre boite mail de l'application pour surveiller vos symptômes et vous conseillez sur les prochaines étapes."
-covid19_test_location_label,"clinique ou institut de santé publique ou le test COVID-19 a été fait"
-covid19_search_address_label,"recherche d'une addresse"
-covid19_test_date_label,"date a laquelle le test COVID-19 a été fait"
-covid19_day_label,jour
-covid19_month_label,mois
-covid19_year_label,année
-covid19_test_outcome_label,"Résultat du test COVID-19"
-covid19_test_outcome_positive_label,postitif
-covid19_test_outcome_negative_label,négatif
-covid19_test_outcome_shareable_label,"Souhaitez vous partager le resultat de votre test COVID-19 anonymement avec la garde des données pour aider le traçage de la transmission de la maladie?"
-covid19_yes_label,oui
-covid19_no_label,non
-covid19_invite_contact_title,Partager
-covid19_invite_contact_share_reminder,"Voulez vous partager le résultat de votre test COVID-19  quand vous informez vos contacts?"
-covid19_invite_contact_tap_link_description,"entrez le lien ci-dessous pour inviter vos contacts"
 verify_email_1_title,"Inscription par email"
 verify_email_1_get_email_description,"Entrez votre email s'il vous plait. Un lien de verification vous sera envoye  a cet email adresse.  Il devra etre ouvert sur ce telephone portable pour finir l'inscription."
 verify_email_1_email_description,email
@@ -415,97 +385,12 @@ verify_email_1_invalid_email_1,"email incorrect"
 verify_email_1_send_sign_in_email_button,envoi
 verify_email_2_title,"Vérification de l'email"
 verify_email_2_get_link_description,"Cliquez sur ce lien de vérfication de cet telephone portable pour finir votre inscription"
-covid19_symptoms_question,"Souffrez vous de ces symptômes?"
-covid19_symptoms_cough_label,Toux
-covid19_symptoms_fever_label,Fièvre
-covid19_symptoms_tiredness_label,fatigue
-covid19_symptoms_difficult_breathing_label,"Difficulté respiratoire"
-covid19_close_contact_question,"Avez vous été informé que  quelqu'un dans votre entourage a testé positif pour le COVID-19 et avez vous été en contact proche avec cette personne dans les 11  jours précédant le test?"
-covid19_close_proximity_positive_question,"Comme vous avez été en contact avec une personne ayant testé positive pour le COVID-19, suivez s'il vous plait les recommendations de quarantine ( ne pas quitter votre domicile que pour les courses essentielles comme alimentaire, medicaments etc..)"
-covid19_symptoms_shareable_question,"Souhaitez-vous partager vos symptômes de manière anonyme avec la garde des données"
-covid19_test_questions_subtitle,"Rapport des résultats du test"
-covid19_test_confirmed_date_label,"la date du resultat de votre test"
-covid19_invite_contact_text1,"Sinon, vous pouvez inviter vos contacts a utiliser cette application"
-covid19_invite_contact_text2,"Vous pouvez   éditer le texte de ce message avant d'envoyer"
-covid19_invite_contact_text3,"Attention  partager va dévoiler votre identité"
-covid19_invite_contact_button_label,"Partager avec vos contacts"
-covid19_0_or_1_information1,"Pendant l'épidémie de COVID-19, il est éssentiel de ralentir la transmission. Utilisez les check-ins Geo CovAid et les scans QR pour recevoir des alertes pour les zones à risque d'exposition élevé. En cas de diagnostic positif, veuillez informer vos connaissances avec lesquels vous avez été en contact au cours des 10 derniers jours."
-covid19_0_or_1_information2,"Suivez  la stratégie nationale visant à contrôler l'épidémie du COVID-19. Si on vous le demande, restez à la maison et isolez-vous, portez un masque, gardez une distance de sécurité avec les autres et lavez-vous les mains fréquemment. À tout moment, suivez les conseils de votre médecin."
-covid19_join_now_button,"Inscrivez vous maintenant"
-covid19_fever_question,"Avez vous maintenant une fievre de 38 degre ou plus?"
-covid19_which_symtomp_question,"Quelles sont vos symptômes maintenant?"
-covid19_shortness_of_breath,"sentiment d'essouflement"
-covid19_sore_throat,"mal de gorge"
-covid19_cough,toux
-covid19_chest_pain,"douleur dans la poitrine"
-covid19_headache,migraine
-covid19_fatigue,fatigue
-covid19_nausea,nausée
-covid19_muscle_pain,"douleurs musculaires"
-covid19_runny_nose,"nez congestionné"
-covid19_diarrhea,diahrée
-covid19_lost_of_smell_or_taste,"perte de l'odorat"
-covid19_daily_check_button,"vérification journalière"
-covid19_test_report_button,"remonter les resultats du test"
-covid19_share_with_contacts,"partager avec vos contacts"
-covid19_user_location_label,"votre location"
-covid19_symptom_questions_title,"Contrôle quotidien"
-covid19_check_in_successful_card,"Check-in réussi: "
-covid19_keep_your_health_status_update_reminder,"Mise-a-jour d'état santé"
-covid19_keep_others_safe_reminder,"Protéger d'autres personnes"
-covid_19_questionnaire_test_no_response_1,"Il n'y a actuellement pas de signe d'avoir attrapé le nouveau coronavirus. Veuillez suivre les recommendations sanitaire de votre région pour pratiquer l'hygiene et respecter la distance sociale)."
-covid_19_questionnaire_test_no_response_2,"Suivant votre age et les conditions préexistantes, veuillez surveiller régulièrement vos symptômes."
-covid_19_questionnaire_test_no_response_3,"Vous avez indiquer les conditions respiratoires et un fievre. Veuillez appeler tout de suite votre medecin ou votre hopitale et decrivez vos symptômes, qui peuvent être liés a COVID-19"
-covid_19_questionnaire_test_no_response_4,"Vos symptômes sont liés a COVID-19, et vous avez été en contacte avec une personne diagnostiquée de COVID-19. Vous avez un risque accru d'avoir attrapé le nouveau coronavirus. Veuillez rester a la maison pendant au moins 10 jour et surveiller vos symptômes."
-covid_19_questionnaire_test_no_understood_button,J'accepte
-covid_19_share_location_data_question,"Voulez-vous partager votre coordonnees enregistrees avec la garde des données afin d'avertir d'autres utilisateurs sans divulguer votre identite?"
 LANGUAGES.it,Italien
-covid19_check_in_disabled,"Les check-ins ne sont pas disponibles en cas de diagnosis positif COVID-19"
 warning,Alerte
-covid19_risk_alert,"Alerte COVID-19"
-covid19_risk_alert_info,"Un endroit que vous avez visité avait un risque accru d'exposition"
-covid19_alert_details_title,"Alerte contact COVID-19"
-covid19_alert_details_info,"Un endroi que vous avez visité avait un risque accru d'éxposition le "
-covid19_alert_observe_symptoms,"Veuillez surveiiler vos symptomes pendant quelues jours et prenez les précautions appropriées  (p. ex s'isoler)."
-covid19_other_symtomps_placeholder,"Autre (veuillez preciser)"
-covid_19_related_factors_first_question,"Prenez-vous régulièrement des médicaments pour:"
-covid_19_related_factors_on_meds_hypertension,Hypertension
-covid_19_related_factors_on_meds_diabetes,"diabète ?"
-covid_19_related_factors_chronic_respirator_issues,"Maladie respiratoire chronique p. ex BPCO/MPOC, asthme"
-covid_19_related_factors_on_meds_immunosuppression,"Immunosuppression (p ex suite a la transplantation d'organes)"
-covid_19_related_factors_chemo_or_radio_therapy,"chimiothérapie ou radiothérapie"
-covid_19_related_factors_second_question,"Avez-vouz une des maladies suivantes?"
-covid_19_related_factors_chronic_neurological_issues,"Maladies neurologiques chroniques (p. ex maladie de Parkinson)?"
-covid_19_related_factors_weakened_immune_system,"Système immunitaire affaibli (p. ex traitement stéroïdien)?"
-covid_19_related_factors_blood_cancer,"Cancer de sang (leucémie) à n'importe quel stade de traitement"
-covid_19_related_factors_chronic_kidney_issues,"Maladie rénale chronique"
-covid_19_related_factors_chronic_heart_issues,"Maladie cardiaque"
-covid_19_related_factors_chronic_liver_issues,"Maladie de foi chroniques"
-covid_19_related_factors_HIV_AIDS,"VIH/SIDA ?"
-covid19_respiratory,"Symptômes respiratoires  p. ex toux"
-covid19_conjunctivitis,Conjonctivite
-covid19_headcold,"Le rhume"
-covid19_head_cold,"Le rhume"
 searchable_place_holder,Recherche
-covid19_enter_place,"Veuillez preciser la ville (uniquement)"
-covid19_enter_post_code,"Code postale"
-covid19_share_with_contacts_content1,"Vous avez été à proximité d'une personne ayant reçu un diagnostic de COVID-19. Veuillez surveiller vos symptômes"
-covid19_share_with_contacts_content2,"Je voudrais partager l'application Centiva avec vous car ensemble, nous pouvons empêcher le nouveau coronavirus de se propager!"
-covid19_check_in_button,Check-in
-covid19_risk_alert_info_verified,"Un endroit que vous avez visité avait un haut risque d'exposition "
-covid_19_related_factors_adipositas,"Obésité lll (morbide, IMC ≥ 40 kg / m²)"
-covid19_symptoms_version,"Recommandation du BAG au 15 mai 2020"
-covid19_test_has_verification_code,"Avez-vous reçu un code de vérification?"
 choose_map_check_in,"Localisation actuelle"
 choose_qr_check_in,"Scannez le code QR"
-covid19_check_in_button_home,"Enregistrement de l'emplacement"
-covid19_test_verification_label,"Code de vérification"
-covid19_test_verification_placeholder,"Entrez le code de vérification"
-covid19_test_basic_health_label,"Santé de base"
-covid19_test_gender_label,"Le sexe"
-covid19_test_age_bracket_label,"Tranche d'âge"
 send_feedback_email_title,feedback
 send_feed_back_email_title,"Feedback from app user"
 invite_contact_share_by_email,"Partager par email"
 invite_contact_share_as_message,"Partager par messagerie instantanée."
-covid19_invite_contact_subject,"CovAid par Centiva"
