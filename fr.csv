@@ -6,7 +6,7 @@ ALERT_SUBTITLE_PHONE_DISCONNECTED,"Veuillez reconnecter a l'internet et relancer
 ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"Adresse non valable"
 ENTER_ALL_FIELDS,"Veuillez remplir tout les champs"
 INVALID_PASSPHRASE,"phrase de sauvegarde non valable"
-NOT_ENOUGH_HIT,"Vous n'avez pas assez de crédits DHP"
+NOT_ENOUGH_HIT,"Vous n'avez pas assez de crédits HIT"
 GENDER,Sexe
 LOAD_MORE_TRANSACTION,"Télécharger plus de transactions"
 LANGUAGES.en,Anglais
@@ -53,7 +53,7 @@ backup_phrase_popup_positive_button,Oui
 backup_phrase_popup_negative_button,"Non: retournez à la page précédente"
 recover_wallet,"Récuperation Porte-monnaie"
 recover_wallet_success,"Récuperation Porte-monnaie Réussie"
-pin_description,"Proceder sans NIP. AVERTISSEMENT: Toutes les personnes ayant acces à votre appareil pourront accéder à cette application et à votre porte-monnaie  DHP!"
+pin_description,"Proceder sans NIP. AVERTISSEMENT: Toutes les personnes ayant acces à votre appareil pourront accéder à cette application et à votre porte-monnaie  HIT!"
 set_pin_title,"Configuration du NIP "
 step_1_2,"1 / 2 "
 step_2_2,"2 / 2 "
@@ -99,7 +99,7 @@ profile_btn,Profil
 done_btn,Terminé.
 transactions_description,Transactions
 invite_friend_sub_description_1,"Vous recevrez"
-invite_friend_sub_description_2,"DHP crédits pour chacun de vos amis qui s'inscrivent"
+invite_friend_sub_description_2,"HIT crédits pour chacun de vos amis qui s'inscrivent"
 new_available_queries,"nouvelles requêtes disponibles: "
 you_have_no_queries_yet,"vous n'avez pas encore accorder des requêtes"
 do_some_fancy_questionnaire,"Vous trouverez ici des requêtes dans lesquelles vous avez participé."
@@ -202,7 +202,7 @@ title_home,Accueil
 invalid_phone_number,"Numéro de telephone érronée"
 invalid_code,"Code érronée"
 verify_phone_with_sms,"Vérification par SMS"
-account_wallet_name,DHP
+account_wallet_name,HIT
 verify_phone_number,"Vérification par SMS"
 create_wallet_title_1,"Création Porte-monnaie"
 recover_wallet_title,"Récuperation Porte-monnaie"
@@ -315,7 +315,7 @@ REDEEM_POPUP_TITLE,échange
 REDEEM_POPUP_MESSAGE,"Le code sera envoyé à"
 REDEEM_SUCCESSFUL_MESSAGE,"Echange reussi. Vous recevrez prochainement les détails"
 REDEEM_HIGLIGHTS,"Points saillants ou résumé"
-REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Montant DHP"
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Montant HIT"
 REDEEM_QUANTITY_DESCRIPTION,"Vous recevrez"
 REDEEM_BUTTON,"Echanger maintenant"
 INFO,Informations
@@ -335,7 +335,7 @@ REENTER_HEALTH_DATA_TITLE,"Données d'utilisateur non remplies"
 REENTER_HEALTH_DATA_MESSAGE,"Echec de restitution des données d'utilisateur. Veuillez les reremplir"
 VERIFY_PHONE_AGAIN_TITLE,"Echec de verification par SMS"
 VERIFY_PHONE_AGAIN_MESSAGE,"Veuillez ressayer la verification SMS"
-PLEASE_GET_MORE_HIT,"Obtenir plus de DHP"
+PLEASE_GET_MORE_HIT,"Obtenir plus de HIT"
 GET_SMS_CODE_FAIL_TITLE,"Code SMS non reçu"
 GET_SMS_CODE_FAIL_CONTENT,"Le format du numéro de telephone doit etre [+][l'indicatif du pays][numéro telephone]"
 INCOMPLETE_BASIC_HEATH_TITLE,"Données d'utilisateur partiellement remplies"

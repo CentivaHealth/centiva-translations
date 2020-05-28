@@ -53,7 +53,7 @@ backup_phrase_popup_positive_button,Bestätigen
 backup_phrase_popup_negative_button,Abbrechen
 recover_wallet,"Wallet wiederherstellen"
 recover_wallet_success,"Wiederherstellung des Wallets erfolgreich"
-pin_description,"Verwenden Sie einen PIN für diese App. ACHTUNG: Wenn Sie keinen PIN festlegen, hat jeder der Zugriff auf Ihr Smartphone hat, auch Zugriff auf die App und Ihr DHP Wallet!"
+pin_description,"Verwenden Sie einen PIN für diese App. ACHTUNG: Wenn Sie keinen PIN festlegen, hat jeder der Zugriff auf Ihr Smartphone hat, auch Zugriff auf die App und Ihr HIT Wallet!"
 set_pin_title,"App PIN festlegen"
 step_1_2,"1 / 2"
 step_2_2,"2 / 2"
@@ -72,7 +72,7 @@ creating_randomness,"Zufälligkeit erzeugen... "
 tap_to_copy,"Zum Kopieren antippen!"
 remind_save_backup_phrase,"Bitte speichern Sie sie an einem sicheren Ort. Sie benötigen die Passphrase zur Wiederherstellung Ihres Wallets, wenn Sie die App neu installieren. "
 created_wallet_description,"Ihr Wallet wurde erstellt. "
-purpose_of_address,"Sie dient zur Identifizierung Ihres Wallets. DHP werden an diese Adresse gesendet."
+purpose_of_address,"Sie dient zur Identifizierung Ihres Wallets. HIT werden an diese Adresse gesendet."
 view_wallet_address_later,"Sie können Ihre Adresse später in Ihrem Wallet einsehen. "
 mnemonic_title,"Mnemotechnische Bestätigung "
 backup_phrase_mnemonic_description,Sicherungsphrase:
@@ -100,7 +100,7 @@ profile_btn,Profil
 done_btn,Erledigt
 transactions_description,Transaktionen
 invite_friend_sub_description_1,"Bis zu"
-invite_friend_sub_description_2,"DHP für jeden Kontakt, der beitritt!"
+invite_friend_sub_description_2,"HIT für jeden Kontakt, der beitritt!"
 new_available_queries,"neu verfügbar"
 you_have_no_queries_yet,"Sie haben noch keine akzeptierten Anfragen"
 do_some_fancy_questionnaire,"Anfragen, an denen Sie teilgenommen haben"
@@ -118,17 +118,17 @@ enter_pin_to_show_backup,"App-PIN eingeben, um Passphrase anzuzeigen"
 enter_pin_to_show_private_key,"Geben Sie Ihren App-PIN ein, um den privaten Schlüssel anzuzeigen."
 pending_transactions,Ausstehend
 help_agreement_btn,Hilfe
-receive_token,"DHP erhalten"
+receive_token,"HIT erhalten"
 purpose_query_detail,Zweck
 redeem_highlights_new,Höhepunkte:
-receive_token_title,"DHP erhalten"
+receive_token_title,"HIT erhalten"
 address_description_receive_token_page,"Ihre Adresse:"
 tap_copy_address_description,"um zu erhalten"
 scan_qr_description,"Adresse mit benutzerdefiniertem QR-Code:"
 hex_back_up_phrase,"Hexadezimale Sicherungsphrase:"
 referral_link_description,"Ihr Empfehlungs-Link:"
 referral_instruction_1,"Kontakt zu Centiva einladen und profitieren"
-referral_instruction_2,"DHP erhalten sobald sich Ihr Kontakt registriert. Den Link antippen, kopieren und an Ihren Kontakt senden."
+referral_instruction_2,"HIT erhalten sobald sich Ihr Kontakt registriert. Den Link antippen, kopieren und an Ihren Kontakt senden."
 save_back_up_phrase_title,"Sicherungsphrase speichern"
 save_mnemonic_description,"Bitte speichern Sie diese Passphrase an einem sicheren Ort. Diese benötigen Sie um Ihr Wallet bei einer Neuinstallation der App wiederherzustellen."
 save_passphrase_description,"Bitte speichern Sie diese Passphrase an einem sicheren Ort. Diese benötigen Sie um Ihr Wallet bei einer Neuinstallation der App wiederherzustellen."
@@ -147,8 +147,8 @@ detail_description,Details:
 message_description,Nachricht:
 transaction_id,Transaktions-ID
 action_description,Aktionen:
-send_token_btn_tx_detail,"DHP senden"
-receive_token_btn_tx_detail,"DHP empfangen"
+send_token_btn_tx_detail,"HIT senden"
+receive_token_btn_tx_detail,"HIT empfangen"
 scan_code_btn_tx_detail,"Code scannen"
 redemption_info_title,"Informationen zur Einlösung"
 access_code_description,Zugangscode
@@ -189,7 +189,7 @@ public_key,Public-Key
 public_key_description,"Wird intern von der App verwendet, um Transaktionen zu generieren und digitale Signaturen für die Authentifizierung zu erzeugen."
 private_key,Private-Key
 private_key_description,"Wird von der App verwendet, um Tokens in Ihrem Wallet zu sichern oder zu versenden. Bewahre Sie es sorgfältig auf!"
-wallet_address_description,"Ihre Wallet wurde erstellt und die Adresse unten angezeigt. Es identifiziert Ihr Wallet und DHP werden an diese Adresse gesendet."
+wallet_address_description,"Ihre Wallet wurde erstellt und die Adresse unten angezeigt. Es identifiziert Ihr Wallet und HIT werden an diese Adresse gesendet."
 wallet_address,Wallet-Adresse
 verify_phone_description,"Zur Bestätigung der Telefonnummer senden wir Ihnen den Zugangscode per SMS."
 your_mobile_number,"Ihre Mobil-Nummer"
@@ -203,7 +203,7 @@ title_home,Home
 invalid_phone_number,"Ungültige Telefonnummer"
 invalid_code,"Ungültiger Code"
 verify_phone_with_sms,"Bestätigung Smartphones via SMS"
-account_wallet_name,DHP
+account_wallet_name,HIT
 verify_phone_number,"Telefonnummer bestätigen"
 create_wallet_title_1,"Wallet erstellen"
 recover_wallet_title,"Wallet wiederherstellen"
@@ -235,7 +235,7 @@ balance,Guthaben
 copy_address,"Adresse kopieren"
 amount,Menge
 send_token,"Tokens senden"
-send_tokens_successfully,"DHP erfolgreich gesendet"
+send_tokens_successfully,"HIT erfolgreich gesendet"
 confirm,Bestätigen
 send,Senden
 no,Nr.
@@ -311,12 +311,12 @@ REFERRAL_DESCRIPTION,"Laden Sie einen Kontakt zu CENTIVA ein und erhalten Sie"
 REFERRAL_SUBDESCRIPTION,"wenn Ihr Kontakt seine Registrierung abgeschlossen hat."
 COPY_BUTTON,"Empfehlungslink kopieren."
 QR_CODE_SHARE_DESCRIPTION,"Oder lassen Sie Ihren Freund diesen QR-Code scannen."
-TOKEN_DESCRIPTION,"DHP Token"
+TOKEN_DESCRIPTION,"HIT Token"
 REDEEM_POPUP_TITLE,Einlösen
 REDEEM_POPUP_MESSAGE,"Das Angebot wird gesendet an "
 REDEEM_SUCCESSFUL_MESSAGE,"Einlösung erfolgreich. Sie werden in Kürze weitere Informationen erhalten."
 REDEEM_HIGLIGHTS,Höhepunkte
-REDEEM_TOKEN_REQUIRED_DESCRIPTION,"DHP nötig"
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,"HIT nötig"
 REDEEM_QUANTITY_DESCRIPTION,"Sie erhalten"
 REDEEM_BUTTON,"Jetzt einlösen"
 INFO,Info
@@ -336,7 +336,7 @@ REENTER_HEALTH_DATA_TITLE,"Keine Gesundheitsdaten eingegeben | vorhanden."
 REENTER_HEALTH_DATA_MESSAGE,"Gesundheitsdaten konnten nach dem App-Update nicht gelesen werden, bitte erneut eingeben. "
 VERIFY_PHONE_AGAIN_TITLE,"Überprüfung per SMS nicht erfolgreich"
 VERIFY_PHONE_AGAIN_MESSAGE,"Erneut bestätigen um Registrierung abzuschliessen"
-PLEASE_GET_MORE_HIT,"Sie benötigen mehr DHP"
+PLEASE_GET_MORE_HIT,"Sie benötigen mehr HIT"
 GET_SMS_CODE_FAIL_TITLE,"SMS-Code konnte nicht empfangen werden"
 GET_SMS_CODE_FAIL_CONTENT,"Das Format der angegebenen Telefonnummer ist falsch. Die Telefonnummern haben folgendes Format[+][Landesvorwahl][Teilnehmernummer mit Ortsvorwahl]. "
 INCOMPLETE_BASIC_HEATH_TITLE,"Unvollständige Gesundheitsangaben."

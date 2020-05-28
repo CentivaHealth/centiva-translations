@@ -6,7 +6,7 @@ ALERT_SUBTITLE_PHONE_DISCONNECTED,"Apri di nuovo l'applicazione una volta connes
 ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"L'indirizzo non è valido per questa rete."
 ENTER_ALL_FIELDS,"Compila tutti i campi"
 INVALID_PASSPHRASE,"Frase segreta non valida"
-NOT_ENOUGH_HIT,"Il tuo portafoglio non ha abbastanza DHP per concludere questa transazione."
+NOT_ENOUGH_HIT,"Il tuo portafoglio non ha abbastanza HIT per concludere questa transazione."
 GENDER,Sesso
 LOAD_MORE_TRANSACTION,"Carica più transazioni"
 LANGUAGES.en,Inglese
@@ -53,7 +53,7 @@ backup_phrase_popup_positive_button,Sì
 backup_phrase_popup_negative_button,"No, torna indietro"
 recover_wallet,"Recupera il portafoglio"
 recover_wallet_success,"Portafoglio recuperato con successo!"
-pin_description,"Utilizza l'applicazione senza PIN. ATTENZIONE: chiunque abbia accesso al tuo telefono potrà accedere a questa applicazione e al tuo portafoglio DHP!"
+pin_description,"Utilizza l'applicazione senza PIN. ATTENZIONE: chiunque abbia accesso al tuo telefono potrà accedere a questa applicazione e al tuo portafoglio HIT!"
 set_pin_title,"Imposta il PIN dell'applicazione"
 step_1_2,"1 / 2 "
 step_2_2,"2 / 2 "
@@ -72,7 +72,7 @@ creating_randomness,"Generazione aleatoria..."
 tap_to_copy,"Tocca per copiare!"
 remind_save_backup_phrase,"Salvala in un luogo sicuro. Avrai bisogno della frase segreta per recuperare il tuo portafoglio se reinstallerai l'applicazione"
 created_wallet_description,"Il tuo portafoglio è stato creato."
-purpose_of_address,"Viene utilizzato per identificare il tuo portafoglio. I gettoni DHP che riceverete saranno inviati a questo indirizzo."
+purpose_of_address,"Viene utilizzato per identificare il tuo portafoglio. I gettoni HIT che riceverete saranno inviati a questo indirizzo."
 view_wallet_address_later,"Puoi visualizzare il tuo indirizzo più tardi nel tuo portafoglio."
 mnemonic_title,"Conferma mnemonica"
 backup_phrase_mnemonic_description,"Frase di backup:"
@@ -99,7 +99,7 @@ profile_btn,Profilo
 done_btn,Finito
 transactions_description,Transazioni
 invite_friend_sub_description_1,"Ottieni fino a"
-invite_friend_sub_description_2,"DHP per ogni contatto che si unisce!"
+invite_friend_sub_description_2,"HIT per ogni contatto che si unisce!"
 new_available_queries,"nuovo disponibile:"
 you_have_no_queries_yet,"Non hai ancora accettato richieste"
 do_some_fancy_questionnaire,"Le domande saranno elencate qui quando parteciperai ad esse"
@@ -117,12 +117,12 @@ enter_pin_to_show_backup,"Inserisci il PIN della tua applicazione per rivelare l
 enter_pin_to_show_private_key,"Inserisci il PIN della tua applicazione per rivelare la chiave privata"
 pending_transactions,"In attesa"
 help_agreement_btn,Aiuto
-receive_token,"Ricevi gettoni DHP"
+receive_token,"Ricevi gettoni HIT"
 purpose_query_detail,Scopo:
 redeem_highlights_new,"Punti salienti:"
 receive_token_title,"Ricevi gettoni"
 address_description_receive_token_page,"Questo è il tuo indirizzo:"
-tap_copy_address_description,"per ricevere i gettoni DHP"
+tap_copy_address_description,"per ricevere i gettoni HIT"
 scan_qr_description,"Fornisci il tuo indirizzo con un codice QR personalizzato:"
 hex_back_up_phrase,"Frase di backup in esadecimale:"
 referral_link_description,"Questo è il tuo link di riferimento:"
@@ -146,8 +146,8 @@ detail_description,Dettagli:
 message_description,Messaggio
 transaction_id,"ID transazione"
 action_description,Azioni:
-send_token_btn_tx_detail,"Invia token DHP"
-receive_token_btn_tx_detail,"Ricevi token DHP"
+send_token_btn_tx_detail,"Invia token HIT"
+receive_token_btn_tx_detail,"Ricevi token HIT"
 scan_code_btn_tx_detail,"Scansiona codice"
 redemption_info_title,"Informazioni di riscatto"
 access_code_description,"Codice di accesso"
@@ -187,7 +187,7 @@ backup_phrase_description,"Ecco la tua frase di backup"
 public_key,"Chiave pubblica"
 public_key_description,"Viene usata internamente dall'app per generare transazioni e firme digitali per l'autenticazione."
 private_key,"Chiave privata"
-private_key_description,"Viene usata internamente dall'app per mettere al sicuro e spendere i token DHP del tuo portafoglio. Deve essere ben custodita."
+private_key_description,"Viene usata internamente dall'app per mettere al sicuro e spendere i token HIT del tuo portafoglio. Deve essere ben custodita."
 wallet_address_description,"Il tuo portafoglio è stato creato. Qui sotto è indicato l'indirizzo del tuo portafoglio: serve ad identificarlo. I token che riceverai verranno inviati a questo indirizzo."
 wallet_address,"Indirizzo del portafoglio"
 verify_phone_description,"Ti invieremo un codice di accesso via SMS per verificare il tuo numero di cellulare."
@@ -202,7 +202,7 @@ title_home,Home
 invalid_phone_number,"Numero di telefono non valido"
 invalid_code,"Codice non valido"
 verify_phone_with_sms,"Verifica il telefono con un SMS"
-account_wallet_name,DHP
+account_wallet_name,HIT
 verify_phone_number,"Verifica il numero di telefono"
 create_wallet_title_1,"Crea un portafoglio"
 recover_wallet_title,"Recupera un portafoglio"
@@ -233,8 +233,8 @@ smoking,Fumatore
 balance,Saldo
 copy_address,"Copia indirizzo"
 amount,Importo
-send_token,"Invia DHP"
-send_tokens_successfully,"Invio di DHP riuscito"
+send_token,"Invia HIT"
+send_tokens_successfully,"Invio di HIT riuscito"
 confirm,Conferma
 send,Invia
 no,No
@@ -315,7 +315,7 @@ REDEEM_POPUP_TITLE,Riscatto
 REDEEM_POPUP_MESSAGE,"Il coupon verrà inviato al"
 REDEEM_SUCCESSFUL_MESSAGE,"Riscatto avvenuto con successo. Riceverai a breve le informazioni per la richiesta."
 REDEEM_HIGLIGHTS,Highlights
-REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Sono necessari gettoni DHP"
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Sono necessari gettoni HIT"
 REDEEM_QUANTITY_DESCRIPTION,Ottieni
 REDEEM_BUTTON,"Riscatta ora"
 INFO,Info
@@ -335,7 +335,7 @@ REENTER_HEALTH_DATA_TITLE,"Dati sanitari vuoti"
 REENTER_HEALTH_DATA_MESSAGE,"Non è stato possibile leggere i dati sanitari in seguito all'aggiornamento dell'app, per favore inserirli nuovamente"
 VERIFY_PHONE_AGAIN_TITLE,"Verifica tramite SMS fallita"
 VERIFY_PHONE_AGAIN_MESSAGE,"Per favore, verifica di nuovo per completare la tua registrazione"
-PLEASE_GET_MORE_HIT,"Per favore, ottieni maggiori DHP"
+PLEASE_GET_MORE_HIT,"Per favore, ottieni maggiori HIT"
 GET_SMS_CODE_FAIL_TITLE,"Codice SMS non ricevuto"
 GET_SMS_CODE_FAIL_CONTENT,"Il formato del tuo numero di telefono dev'essere [+][codice paese][numero dell'utente, incluso il prefisso telefonico]."
 INCOMPLETE_BASIC_HEATH_TITLE,"Dati sanitari base incompleti"
