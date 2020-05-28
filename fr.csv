@@ -42,7 +42,7 @@ errormessage_error_occured,"Une erreur est survenue"
 errormessage_server_error_occured,"Erreur du serveur"
 progress_dialog_wait_message,"Attendez s'il vous plait"
 welcome,Bienvenue
-welcome_content,"Reshaping the way your health data is accessed and paid for."
+welcome_content,"Nous réinventons l'accès et la récompense pour vos données santé."
 recover_existing_wallet,"Récuperer un Porte-monnaie Existant"
 create_new_wallet,"Créer Nouveau Porte-monnaie"
 recover_description,"Saisissez votre phrase de sauvegarde pour récuperer votre porte-monnaie"
