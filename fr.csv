@@ -463,10 +463,9 @@ LANGUAGES.it,Italien
 covid19_check_in_disabled,"Les check-ins ne sont pas maintenus en cas de diagnostic positif du COVID-19"
 warning,Attention
 covid19_risk_alert,"Alerte Risque COVID-19"
-covid19_risk_alert_info,"Risque accru d'exposition au virus dans un lieu que vous avez visité "
+covid19_risk_alert_info,"Risque accru d'exposition au virus dans un lieu que vous avez visité"
 covid19_alert_details_title,"Alerte Contact COVID-19"
-covid19_alert_details_info,"Risque accru d'exposition au virus dans un lieu que vous avez
-visité le "
+covid19_alert_details_info,"Risque accru d'exposition au virus dans un lieu que vous avez visité le "
 covid19_alert_observe_symptoms,"Veuillez surveiller activement vos symptômes pendant quelques jours et prenez les précautions appropriées  (par ex. s'isoler)."
 covid19_other_symtomps_placeholder,"Autre (veuillez préciser)"
 covid_19_related_factors_first_question,"Prenez-vous régulièrement des médicaments pour:"
@@ -483,7 +482,7 @@ covid_19_related_factors_chronic_kidney_issues,"Maladie rénale chronique ?"
 covid_19_related_factors_chronic_heart_issues,"Maladie cardiaque chronique (par ex. insuffisance cardiaque) ?"
 covid_19_related_factors_chronic_liver_issues,"Maladie de foie chroniques (par ex. hépatite) ?"
 covid_19_related_factors_HIV_AIDS,"VIH/SIDA ?"
-covid19_respiratory,"Symptômes respiratoires tels que la toux (plutôt sèche), mal de gorge, essouflement "
+covid19_respiratory,"Symptômes respiratoires tels que la toux (plutôt sèche), mal de gorge, essouflement"
 covid19_conjunctivitis,Conjonctivite
 covid19_headcold,"Rhume de cerveau"
 covid19_head_cold,"Rhume de cerveau"
