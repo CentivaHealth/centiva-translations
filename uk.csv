@@ -378,36 +378,36 @@ QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Не вдалось перевірити дан
 ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Адресу не знайдено у списку авторизованих шукачів"
 consent_alert_title,"Відкрити посилання в браузері"
 consent_alert_agree,Продовжити
-fourth_agreement_covid,"Ваші основні демографічні дані та дані про здоров'я шифруються за допомогою вашого PIN і зберігаються у внутрішньому сховищі вашого мобільного пристрою. Усі дані, які ви надаєте шукачам інформації про ваше здоров'я, передаються шукачеві просто з вашого пристрою."
-fifth_agreement_covid,"Ви одноосібно відповідаєте за збереження своєї інформації, включаючи ваш PIN та облікові дані поштової обліковки."
-covid19_homepage_status,"Поточний статус"
-covid19_homepage_status_2,"Діагностовано COVID-19"
-covid19_homepage_status_1,"Спостерігаються симптоми"
-covid19_homepage_status_0,Здоровий(-а)
-covid19_homepage_tested_question,"Ви проходили тест на COVID-19?"
-covid19_test_questions_title,"Тестування на COVID-19"
-covid19_test_location,"Місце, де був проведений тест на COVID-19"
-covid19_test_diagnosed_question,"Оскільки у вас було діагностовано COVID-19, не хотіли б ви поділитись цією інформацією з людьми, з якими ви недавно фізично контактували?"
-covid19_inform_contact_description,"Повідомити контакта про результат вашого тесту на COVID-19"
-covid19_inform_contact_sub_description,"(з яким ви контактували протягом останніх 10 днів)"
-covid19_invited_description,"Вас запросив контакт. Запросіть контактів, які можуть бути зацікавлені у відстеженні симптомів."
-covid19_invite_description,"Запросіть контактів, які можуть бути зацікавлені у відстеженні симптомів."
-covid19_information_description,"Протягом наступних днів/тижнів ви отримуватимете опитування через застосунок (у ваших вхідних повідомленнях) для моніторингу ваших симптомів та отримання порад щодо потенційних наступних кроків."
-covid19_test_location_label,"Місце, де був проведений тест на COVID-19"
-covid19_search_address_label,"Шукати адресу"
-covid19_test_date_label,"День проведення тесту на COVID-19"
-covid19_day_label,День
-covid19_month_label,Місяць
-covid19_year_label,Рік
-covid19_test_outcome_label,"Результат тесту на COVID-19"
-covid19_test_outcome_positive_label,"Позитивний (діагностований COVID-19)"
-covid19_test_outcome_negative_label,"Негативний (не заражений)"
-covid19_test_outcome_shareable_label,"Чи не бажаєте анонімно поділитись даними про результат свого тесту на COVID-19 з хранителем даних для підтримки боротьби з коронавірусом?"
-covid19_yes_label,Так
-covid19_no_label,Ні
-covid19_invite_contact_title,Поділитися
-covid19_invite_contact_share_reminder,"Ви бажаєте поділитися результатами свого тесту на COVID-19, інформуючи контакти?"
-covid19_invite_contact_tap_link_description,"Натисніть на посилання нижче, щоб запросити контакти."
+pub_health_fourth_agreement,"Ваші основні демографічні дані та дані про здоров'я шифруються за допомогою вашого PIN і зберігаються у внутрішньому сховищі вашого мобільного пристрою. Усі дані, які ви надаєте шукачам інформації про ваше здоров'я, передаються шукачеві просто з вашого пристрою."
+pub_health_fifth_agreement,"Ви одноосібно відповідаєте за збереження своєї інформації, включаючи ваш PIN та облікові дані поштової обліковки."
+pub_health_homepage_status,"Поточний статус"
+pub_health_homepage_status_2,"Діагностовано COVID-19"
+pub_health_homepage_status_1,"Спостерігаються симптоми"
+pub_health_homepage_status_0,Здоровий(-а)
+pub_health_homepage_tested_question,"Ви проходили тест на COVID-19?"
+pub_health_test_questions_title,"Тестування на COVID-19"
+pub_health_test_location,"Місце, де був проведений тест на COVID-19"
+pub_health_test_diagnosed_question,"Оскільки у вас було діагностовано COVID-19, не хотіли б ви поділитись цією інформацією з людьми, з якими ви недавно фізично контактували?"
+pub_health_inform_contact_description,"Повідомити контакта про результат вашого тесту на COVID-19"
+pub_health_inform_contact_sub_description,"(з яким ви контактували протягом останніх 10 днів)"
+pub_health_invited_description,"Вас запросив контакт. Запросіть контактів, які можуть бути зацікавлені у відстеженні симптомів."
+pub_health_invite_description,"Запросіть контактів, які можуть бути зацікавлені у відстеженні симптомів."
+pub_health_information_description,"Протягом наступних днів/тижнів ви отримуватимете опитування через застосунок (у ваших вхідних повідомленнях) для моніторингу ваших симптомів та отримання порад щодо потенційних наступних кроків."
+pub_health_test_location_label,"Місце, де був проведений тест на COVID-19"
+pub_health_search_address_label,"Шукати адресу"
+pub_health_test_date_label,"День проведення тесту на COVID-19"
+pub_health_day_label,День
+pub_health_month_label,Місяць
+pub_health_year_label,Рік
+pub_health_test_outcome_label,"Результат тесту на COVID-19"
+pub_health_test_outcome_positive_label,"Позитивний (діагностований COVID-19)"
+pub_health_test_outcome_negative_label,"Негативний (не заражений)"
+pub_health_test_outcome_shareable_label,"Чи не бажаєте анонімно поділитись даними про результат свого тесту на COVID-19 з хранителем даних для підтримки боротьби з коронавірусом?"
+pub_health_yes_label,Так
+pub_health_no_label,Ні
+pub_health_invite_contact_title,Поділитися
+pub_health_invite_contact_share_reminder,"Ви бажаєте поділитися результатами свого тесту на COVID-19, інформуючи контакти?"
+pub_health_invite_contact_tap_link_description,"Натисніть на посилання нижче, щоб запросити контакти."
 verify_email_1_title,"Зареєструватися через електронну пошту"
 verify_email_1_get_email_description,"Будь ласка, надайте свою електронну адресу. На цю електронну адресу буде вислано посилання для підтвердження. Ви маєте перейти за ним на цьому пристрої, щоб реєстрацію у додатку було завершено."
 verify_email_1_email_description,"Електронна адреса"
@@ -415,97 +415,97 @@ verify_email_1_invalid_email_1,"Недійсна електронна адрес
 verify_email_1_send_sign_in_email_button,"Надіслати електронну адресу для реєстрації"
 verify_email_2_title,"Перевірити електронну адресу"
 verify_email_2_get_link_description,"Будь ласка, натисніть на посилання для підтвердження на цьому пристрої, щоб реєстрацію у додатку було завершено."
-covid19_symptoms_question,"Ви страждаєте від будь-якого з наступних симптомів?"
-covid19_symptoms_cough_label,Кашель
-covid19_symptoms_fever_label,Лихоманка
-covid19_symptoms_tiredness_label,Утома
-covid19_symptoms_difficult_breathing_label,"Утруднене дихання"
-covid19_close_contact_question,"Чи повідомляв вас хтось останнім часом про позитивний тест на COVID-19, і при цьому ви тісно контактували з цією особою протягом 10 днів перед тестом?"
-covid19_close_proximity_positive_question,"Так як ви контактували з пацієнтом, у якого діагностували COVID-19, будь ласка, дотримуйтеся місцевих інструкцій щодо самоізоляції (не виходьте з дому без нагальної потреби, за їжею, ліками тощо)"
-covid19_symptoms_shareable_question,"Хочете анонімно поділитися своїми симптомами з відповідальним за збереження даних, аби допомогти у боротьбі з коронавірусом?"
-covid19_test_questions_subtitle,"Відзвітувати про результат діагностичного тесту"
-covid19_test_confirmed_date_label,"Дата, коли результат було підтверджено"
-covid19_invite_contact_text1,"Або ви можете запросити свої контакти використати додаток."
-covid19_invite_contact_text2,"Ви зможете відредагувати текст вашого повідомлення перед надсиланням."
-covid19_invite_contact_text3,"Будь ласка, майте на увазі, що вашу особистість буде розкрито, якщо ви поділитеся."
-covid19_invite_contact_button_label,"Поділитися з контактами"
-covid19_0_or_1_information1,"Під час спалаху пандемії COVID-19 важливо уповільнити поширення. Використовуйте гео-відмітки у CovAid та QR-сканери, щоб отримувати попередження про райони підвищеного ризику. У випадку підтвердження діагнозу COVID-19, будь ласка, відзвітуйте про результат тесту, а також попередьте людей, з якими ви безпосередньо контактували протягом останніх 10 днів."
-covid19_0_or_1_information2,"Дотримуйтеся національної стратегії, розробленої для контролю над спалахом пандемії COVID-19. Якщо вас просять, будь ласка, залишайтеся вдома на самоізоляції, носіть маску, тримайтеся на безпечній відстані від інших і часто мийте руки. Завжди дотримуйтеся вказівок свого лікаря."
-covid19_join_now_button,"Приєднатися зараз"
-covid19_fever_question,"У вас є або була лихоманка (температура тіла  > 37.5 °C)?"
-covid19_which_symtomp_question,"Які симптоми ви наразі відчуваєте?"
-covid19_shortness_of_breath,Задишка
-covid19_sore_throat,"Біль у горлі"
-covid19_cough,Кашель
-covid19_chest_pain,"Біль у грудях"
-covid19_headache,"Головний біль"
-covid19_fatigue,Утома
-covid19_nausea,Нудота
-covid19_muscle_pain,"Біль у м'язах"
-covid19_runny_nose,Нежить
-covid19_diarrhea,Діарея
-covid19_lost_of_smell_or_taste,"Втрата нюху та смаку (за відсутності нежитю)"
-covid19_daily_check_button,"Щоденна Перевірка"
-covid19_test_report_button,"Відзвітувати про Тест"
-covid19_share_with_contacts,"Поділитися з контактами"
-covid19_user_location_label,"Ваше місцезнаходження"
-covid19_symptom_questions_title,"Щоденна Перевірка Симптомів"
-covid19_check_in_successful_card,"Успішна реєстрація: "
-covid19_keep_your_health_status_update_reminder,"Своєчасно слідкуйте за станом свого здоров'я:"
-covid19_keep_others_safe_reminder,"Бережіть інших:"
-covid_19_questionnaire_test_no_response_1,"Наразі немає ніяких ознак того, що ви могли заразитися на новий коронавірус. Будь ласка, дотримуйтеся обмежень, встановлених вашим урядом. Слідкуйте за своєю гігієною та фізичною дистанцією!"
-covid_19_questionnaire_test_no_response_2,"Зважаючи на ваш вік та/або наявний стан здоров'я, ви маєте постійно слідкувати за своїми симптомами."
-covid_19_questionnaire_test_no_response_3,"Ви сповістили про задишку, кашель та високу температуру, тож негайно зверніться до свого лікаря або лікарні. Повідомте, що ви звертаєтеся у зв'язку з новим коронавірусом, і що ви у зоні високого ризику. Розкажіть про свої симптоми."
-covid_19_questionnaire_test_no_response_4,"Ви відчуваєте симптоми COVID-19, або ж ви контактували з особою, у якої діагностовано COVID-19. Існує ймовірність того, що ви заразилися на новий коронавірус. Слідкуйте за своїми симптомами."
-covid_19_questionnaire_test_no_understood_button,Зрозуміло
-covid_19_share_location_data_question,"Чи погоджуєтеся ви розкрити своє місцезнаходження відповідальному за збереження даних, щоб анонімно попередити інших користувачів?"
+pub_health_symptoms_question,"Ви страждаєте від будь-якого з наступних симптомів?"
+pub_health_symptoms_cough_label,Кашель
+pub_health_symptoms_fever_label,Лихоманка
+pub_health_symptoms_tiredness_label,Утома
+pub_health_symptoms_difficult_breathing_label,"Утруднене дихання"
+pub_health_close_contact_question,"Чи повідомляв вас хтось останнім часом про позитивний тест на COVID-19, і при цьому ви тісно контактували з цією особою протягом 10 днів перед тестом?"
+pub_health_close_proximity_positive_question,"Так як ви контактували з пацієнтом, у якого діагностували COVID-19, будь ласка, дотримуйтеся місцевих інструкцій щодо самоізоляції (не виходьте з дому без нагальної потреби, за їжею, ліками тощо)"
+pub_health_symptoms_shareable_question,"Хочете анонімно поділитися своїми симптомами з відповідальним за збереження даних, аби допомогти у боротьбі з коронавірусом?"
+pub_health_test_questions_subtitle,"Відзвітувати про результат діагностичного тесту"
+pub_health_test_confirmed_date_label,"Дата, коли результат було підтверджено"
+pub_health_invite_contact_text1,"Або ви можете запросити свої контакти використати додаток."
+pub_health_invite_contact_text2,"Ви зможете відредагувати текст вашого повідомлення перед надсиланням."
+pub_health_invite_contact_text3,"Будь ласка, майте на увазі, що вашу особистість буде розкрито, якщо ви поділитеся."
+pub_health_invite_contact_button_label,"Поділитися з контактами"
+pub_health_0_or_1_information1,"Під час спалаху пандемії COVID-19 важливо уповільнити поширення. Використовуйте гео-відмітки у CovAid та QR-сканери, щоб отримувати попередження про райони підвищеного ризику. У випадку підтвердження діагнозу COVID-19, будь ласка, відзвітуйте про результат тесту, а також попередьте людей, з якими ви безпосередньо контактували протягом останніх 10 днів."
+pub_health_0_or_1_information2,"Дотримуйтеся національної стратегії, розробленої для контролю над спалахом пандемії COVID-19. Якщо вас просять, будь ласка, залишайтеся вдома на самоізоляції, носіть маску, тримайтеся на безпечній відстані від інших і часто мийте руки. Завжди дотримуйтеся вказівок свого лікаря."
+pub_health_join_now_button,"Приєднатися зараз"
+pub_health_fever_question,"У вас є або була лихоманка (температура тіла  > 37.5 °C)?"
+pub_health_which_symtomp_question,"Які симптоми ви наразі відчуваєте?"
+pub_health_shortness_of_breath,Задишка
+pub_health_sore_throat,"Біль у горлі"
+pub_health_cough,Кашель
+pub_health_chest_pain,"Біль у грудях"
+pub_health_headache,"Головний біль"
+pub_health_fatigue,Утома
+pub_health_nausea,Нудота
+pub_health_muscle_pain,"Біль у м'язах"
+pub_health_runny_nose,Нежить
+pub_health_diarrhea,Діарея
+pub_health_lost_of_smell_or_taste,"Втрата нюху та смаку (за відсутності нежитю)"
+pub_health_daily_check_button,"Щоденна Перевірка"
+pub_health_test_report_button,"Відзвітувати про Тест"
+pub_health_share_with_contacts,"Поділитися з контактами"
+pub_health_user_location_label,"Ваше місцезнаходження"
+pub_health_symptom_questions_title,"Щоденна Перевірка Симптомів"
+pub_health_check_in_successful_card,"Успішна реєстрація: "
+pub_health_keep_your_health_status_update_reminder,"Своєчасно слідкуйте за станом свого здоров'я:"
+pub_health_keep_others_safe_reminder,"Бережіть інших:"
+pub_health_questionnaire_test_no_response_1,"Наразі немає ніяких ознак того, що ви могли заразитися на новий коронавірус. Будь ласка, дотримуйтеся обмежень, встановлених вашим урядом. Слідкуйте за своєю гігієною та фізичною дистанцією!"
+pub_health_questionnaire_test_no_response_2,"Зважаючи на ваш вік та/або наявний стан здоров'я, ви маєте постійно слідкувати за своїми симптомами."
+pub_health_questionnaire_test_no_response_3,"Ви сповістили про задишку, кашель та високу температуру, тож негайно зверніться до свого лікаря або лікарні. Повідомте, що ви звертаєтеся у зв'язку з новим коронавірусом, і що ви у зоні високого ризику. Розкажіть про свої симптоми."
+pub_health_questionnaire_test_no_response_4,"Ви відчуваєте симптоми COVID-19, або ж ви контактували з особою, у якої діагностовано COVID-19. Існує ймовірність того, що ви заразилися на новий коронавірус. Слідкуйте за своїми симптомами."
+pub_health_questionnaire_test_no_understood_button,Зрозуміло
+pub_health_share_location_data_question,"Чи погоджуєтеся ви розкрити своє місцезнаходження відповідальному за збереження даних, щоб анонімно попередити інших користувачів?"
 LANGUAGES.it,Італійська
-covid19_check_in_disabled,"Після підтвердження діагнозу COVID-19 реєстрація не підтримується."
+pub_health_check_in_disabled,"Після підтвердження діагнозу COVID-19 реєстрація не підтримується."
 warning,Застерігання
-covid19_risk_alert,"Попередження про Ризик COVID-19"
-covid19_risk_alert_info,"Район, який ви відвідали, був у зоні підвищеного ризику під час вашого перебування."
-covid19_alert_details_title,"Попередження про Контакт з COVID-19"
-covid19_alert_details_info,"Район, який ви відвідали, був у зоні підвищеного ризику під час вашого перебування там"
-covid19_alert_observe_symptoms,"Будь ласка, уважно слідкуйте за своїми симптомами у найближчі дні, а також самоізолюйтеся належним чином."
-covid19_other_symtomps_placeholder,"Інше (будь ласка, вкажіть)"
-covid_19_related_factors_first_question,"Ви регулярно приймаєте ліки від:"
-covid_19_related_factors_on_meds_hypertension,Гіпертонії?
-covid_19_related_factors_on_meds_diabetes,Діабету?
-covid_19_related_factors_chronic_respirator_issues,"Хронічних респіраторних захворювань (наприклад, ХОЗЛ, астми тощо)?"
-covid_19_related_factors_on_meds_immunosuppression,"Пригнічення імунітету (наприклад, після трансплантації органів)?"
-covid_19_related_factors_chemo_or_radio_therapy,"Або проходите лікування рака хіміотерапією/променевою терапією?"
-covid_19_related_factors_second_question,"Ви страждаєте на будь-яку з наступних хвороб?"
-covid_19_related_factors_chronic_neurological_issues,"Хронічні неврологічні захворювання (наприклад, хворобу Паркінсона, МС тощо)?"
-covid_19_related_factors_weakened_immune_system,"Ослаблення імунної системи (наприклад, під час лікування стероїдними препаратами)?"
-covid_19_related_factors_blood_cancer,"Рак крові (лейкоз) на будь-якому етапі лікування?"
-covid_19_related_factors_chronic_kidney_issues,"Хронічні захворювання нирок?"
-covid_19_related_factors_chronic_heart_issues,"Хронічні захворювання серця (наприклад, серцеву недостатність)?"
-covid_19_related_factors_chronic_liver_issues,"Хронічні захворювання печінки (наприклад, гепатит)?"
-covid_19_related_factors_HIV_AIDS,ВІЛ/СНІД?
-covid19_respiratory,"Респіраторні симптоми, такі як кашель (зазвичай сухий), біль у горлі, задишка"
-covid19_conjunctivitis,Кон'юнктивіт
-covid19_headcold,Нежить
-covid19_head_cold,Нежить
+pub_health_risk_alert,"Попередження про Ризик COVID-19"
+pub_health_risk_alert_info,"Район, який ви відвідали, був у зоні підвищеного ризику під час вашого перебування."
+pub_health_alert_details_title,"Попередження про Контакт з COVID-19"
+pub_health_alert_details_info,"Район, який ви відвідали, був у зоні підвищеного ризику під час вашого перебування там"
+pub_health_alert_observe_symptoms,"Будь ласка, уважно слідкуйте за своїми симптомами у найближчі дні, а також самоізолюйтеся належним чином."
+pub_health_other_symtomps_placeholder,"Інше (будь ласка, вкажіть)"
+pub_health_related_factors_first_question,"Ви регулярно приймаєте ліки від:"
+pub_health_related_factors_on_meds_hypertension,Гіпертонії?
+pub_health_related_factors_on_meds_diabetes,Діабету?
+pub_health_related_factors_chronic_respirator_issues,"Хронічних респіраторних захворювань (наприклад, ХОЗЛ, астми тощо)?"
+pub_health_related_factors_on_meds_immunosuppression,"Пригнічення імунітету (наприклад, після трансплантації органів)?"
+pub_health_related_factors_chemo_or_radio_therapy,"Або проходите лікування рака хіміотерапією/променевою терапією?"
+pub_health_related_factors_second_question,"Ви страждаєте на будь-яку з наступних хвороб?"
+pub_health_related_factors_chronic_neurological_issues,"Хронічні неврологічні захворювання (наприклад, хворобу Паркінсона, МС тощо)?"
+pub_health_related_factors_weakened_immune_system,"Ослаблення імунної системи (наприклад, під час лікування стероїдними препаратами)?"
+pub_health_related_factors_blood_cancer,"Рак крові (лейкоз) на будь-якому етапі лікування?"
+pub_health_related_factors_chronic_kidney_issues,"Хронічні захворювання нирок?"
+pub_health_related_factors_chronic_heart_issues,"Хронічні захворювання серця (наприклад, серцеву недостатність)?"
+pub_health_related_factors_chronic_liver_issues,"Хронічні захворювання печінки (наприклад, гепатит)?"
+pub_health_related_factors_HIV_AIDS,ВІЛ/СНІД?
+pub_health_respiratory,"Респіраторні симптоми, такі як кашель (зазвичай сухий), біль у горлі, задишка"
+pub_health_conjunctivitis,Кон'юнктивіт
+pub_health_headcold,Нежить
+pub_health_head_cold,Нежить
 searchable_place_holder,Пошук
-covid19_enter_place,"Вкажіть лише місто/селище"
-covid19_enter_post_code,"Вкажіть поштовий індекс"
-covid19_share_with_contacts_content1,"Ви контактували з особою, у якої нещодавно було діагностовано COVID-19. Будь ласка, слідкуйте за своїми симптомами."
-covid19_share_with_contacts_content2,"Хочу поділитися з вами додатком Centiva, адже разом ми можемо зупинити поширення нового коронавірусу!"
-covid19_check_in_button,Реєстрація
-covid19_risk_alert_info_verified,"Один з районів, який ви відвідали, знаходився у зоні високого ризику."
-covid_19_related_factors_adipositas,"Ожиріння ступінь III (патологія, ІМТ ≥ 40 кг/м²)"
-covid19_symptoms_version,"Рекомендація BAG від 15 травня 2020"
-covid19_test_has_verification_code,"Ви отримали код підтвердження?"
+pub_health_enter_place,"Вкажіть лише місто/селище"
+pub_health_enter_post_code,"Вкажіть поштовий індекс"
+pub_health_share_with_contacts_content1,"Ви контактували з особою, у якої нещодавно було діагностовано COVID-19. Будь ласка, слідкуйте за своїми симптомами."
+pub_health_share_with_contacts_content2,"Хочу поділитися з вами додатком Centiva, адже разом ми можемо зупинити поширення нового коронавірусу!"
+pub_health_check_in_button,Реєстрація
+pub_health_risk_alert_info_verified,"Один з районів, який ви відвідали, знаходився у зоні високого ризику."
+pub_health_related_factors_adipositas,"Ожиріння ступінь III (патологія, ІМТ ≥ 40 кг/м²)"
+pub_health_symptoms_version,"Рекомендація BAG від 15 травня 2020"
+pub_health_test_has_verification_code,"Ви отримали код підтвердження?"
 choose_map_check_in,"Поточне Місцезнаходження"
 choose_qr_check_in,"Відсканувати QR-код"
-covid19_check_in_button_home,"Реєстрація Місцезнаходження"
-covid19_test_verification_label,"Код підтвердження"
-covid19_test_verification_placeholder,"Введіть код підтвердження"
-covid19_test_basic_health_label,"Базове здоров'я"
-covid19_test_gender_label,Стать
-covid19_test_age_bracket_label,"Вікова група"
+pub_health_check_in_button_home,"Реєстрація Місцезнаходження"
+pub_health_test_verification_label,"Код підтвердження"
+pub_health_test_verification_placeholder,"Введіть код підтвердження"
+pub_health_test_basic_health_label,"Базове здоров'я"
+pub_health_test_gender_label,Стать
+pub_health_test_age_bracket_label,"Вікова група"
 send_feedback_email_title,відгук
 send_feed_back_email_title,"Відгук користувача додатком"
 invite_contact_share_by_email,"Поділитися через електронну пошту"
 invite_contact_share_as_message,"Поділитися у повідомленні"
-covid19_invite_contact_subject,"CovAid від Centiva"
+pub_health_invite_contact_subject,"CovAid від Centiva"
