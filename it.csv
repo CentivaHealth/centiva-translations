@@ -431,7 +431,7 @@ pub_health_invite_contact_text3,"Tieni presente che la condivisione implica che 
 pub_health_invite_contact_button_label,"Condividi con i contatti"
 pub_health_0_or_1_information1,"Nel corso della pandemia da COVID-19, è fondamentale rallentare la trasmissione del contagio. Utilizza i check-in geografici Centiva e le scansioni QR per ricevere avvisi per le aree con rischio di esposizione maggiore. In caso di diagnosi positiva al COVID-19, ti invitiamo a riportare il risultato del test e ad informare i contatti con cui sei stato a diretto contatto negli ultimi 10 giorni."
 pub_health_0_or_1_information2,"Segui le strategie definite a livello nazionale, e intese a controllare la pandemia da COVID-19. Se ti viene richiesto, resta a casa in isolamento, indossa la mascherina, mantieni le distanze di sicurezza dagli altri e lava le mani frequentemente. In qualunque momento, segui le indicazioni del tuo medico."
-pub_health_join_now_button,"Registrati ora"
+join_now_button,"Registrati ora"
 pub_health_fever_question,"Attualmente hai febbre o episodi febbrili (temperatura corporea superiore a 37,5°)?"
 pub_health_which_symtomp_question,"Quali sintomi avverti al momento?"
 pub_health_shortness_of_breath,"Respiro corto"

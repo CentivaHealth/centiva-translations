@@ -431,7 +431,7 @@ pub_health_invite_contact_text3,"Veuillez noter que votre identité sera divulgu
 pub_health_invite_contact_button_label,Partage
 pub_health_0_or_1_information1,"Pendant l'épidémie de COVID-19, il est essentiel de ralentir la transmission. Utilisez les check-ins Geo Centiva et les scans QR pour recevoir des alertes pour les zones à risque d'exposition élevé. En cas de diagnostic positif, veuillez informer vos connaissances avec lesquelles vous avez été en contact au cours des 10 derniers jours."
 pub_health_0_or_1_information2,"Suivez la stratégie nationale visant à contrôler l'épidémie du COVID-19. Si on vous le demande, restez à la maison et isolez-vous, portez un masque, gardez une distance de sécurité avec les autres et lavez-vous les mains fréquemment. À tout moment, suivez les conseils de votre médecin."
-pub_health_join_now_button,"Inscrivez-vous maintenant"
+join_now_button,"Inscrivez-vous maintenant"
 pub_health_fever_question,"Avez-vous actuellement une fièvre de 38 degrés ou plus?"
 pub_health_which_symtomp_question,"Quelles sont vos symptômes actuellement ?"
 pub_health_shortness_of_breath,"Difficulté respiratoire"

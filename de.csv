@@ -432,7 +432,7 @@ pub_health_invite_contact_text3,"Bitte beachten Sie, dass Ihre Identität durch 
 pub_health_invite_contact_button_label,"Teile mit Kontakten"
 pub_health_0_or_1_information1,"Während der COVID-19-Pandemie ist es wichtig, die Übertragung des Virus zu verlangsamen. Verwenden Sie Centiva Geo-Check-Ins und QR-Scans, um Benachrichtigungen für Orte mit erhöhtem Ansteckungsrisiko zu erhalten. Im Falle einer positiven Covid-19 Diagnose informieren Sie bitte die Ihnen bekannten Personen, mit denen Sie in den letzten 10 Tagen in Kontakt standen."
 pub_health_0_or_1_information2,"Folgen Sie der nationalen Strategie zur Kontrolle des Ausbruchs einer Pandemie von COVID-19. Wenn Sie dazu aufgefordert werden, bleiben Sie bitte zu Hause und isolieren Sie sich, tragen Sie eine Maske, halten Sie einen Sicherheitsabstand zu anderen und waschen Sie sich häufig die Hände. Befolgen Sie zu jeder Zeit die Anweisungen Ihres Arztes."
-pub_health_join_now_button,Mitmachen
+join_now_button,Mitmachen
 pub_health_fever_question,"Haben Sie derzeit Fieber oder Fiebergefühl (mehr als 37,5 °C)?"
 pub_health_which_symtomp_question,"Welche Symptome treten derzeit bei Ihnen auf?"
 pub_health_shortness_of_breath,Kurzatmigkeit
