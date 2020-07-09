@@ -431,7 +431,7 @@ pub_health_invite_contact_text3,"Please be aware that sharing will divulge your 
 pub_health_invite_contact_button_label,"Share with contacts"
 pub_health_0_or_1_information1,"During the COVID-19 pandemic outbreak, it is essential to slow down transmission. Use Centiva Geo check-ins and QR Scans to receive alerts for areas with increased exposure risk. Upon a positive COVID-19 diagnosis, report your test, and please inform contacts with whom you have been in direct contact within the last 10 days."
 pub_health_0_or_1_information2,"Follow the national strategy intended to control the pandemic outbreak of COVID-19. If asked to, please stay home and isolate, wear a mask, keep a safe distance from others and wash your hands frequently. At any time, follow the guidance by your doctor."
-join_now_button,"Join now"
+pub_health_join_now_button,"Join now"
 pub_health_fever_question,"Do you have currently a fever or feverish episode (body temperature > 37.5 °C)?"
 pub_health_which_symtomp_question,"Which symptoms are you currently experiencing?"
 pub_health_shortness_of_breath,"Shortness of breath"
