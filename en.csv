@@ -418,6 +418,10 @@ verify_email_1_invalid_email_1,"Invalid email!"
 verify_email_1_send_sign_in_email_button,"Send sign in email"
 verify_email_2_title,"Verify email"
 verify_email_2_get_link_description,"Please click on the verification link on this device to complete app sign-in"
+add_provider_manually_title,"Register with a provider"
+add_provider_manually_description,"Scan a registration QR code, enter a provider registration link, or tap the registration link again and open using the (just installed) Centiva app. Tap <Skip> if you were not referred by your provider."
+remind_provider_mannually_description,"Please confirm that you wish to continue without adding a provider"
+add_provider_manually_skip_btn,"Yes, continue"
 pub_health_symptoms_question,"Are you suffering from any of the following symptoms?"
 pub_health_symptoms_cough_label,Cough
 pub_health_symptoms_fever_label,Fever
