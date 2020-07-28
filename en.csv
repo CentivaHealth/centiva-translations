@@ -431,7 +431,7 @@ pub_health_invite_contact_text3,"Please be aware that sharing will divulge your 
 pub_health_invite_contact_button_label,"Share with contacts"
 pub_health_0_or_1_information1,"During the COVID-19 pandemic outbreak, it is essential to slow down transmission. Use Centiva Geo check-ins and QR Scans to receive alerts for areas with increased exposure risk. Upon a positive COVID-19 diagnosis, report your test, and please inform contacts with whom you have been in direct contact within the last 10 days."
 pub_health_0_or_1_information2,"Follow the national strategy intended to control the pandemic outbreak of COVID-19. If asked to, please stay home and isolate, wear a mask, keep a safe distance from others and wash your hands frequently. At any time, follow the guidance by your doctor."
-pub_health_join_now_button,"Join now"
+join_now_button,"Join now"
 pub_health_fever_question,"Do you have currently a fever or feverish episode (body temperature > 37.5 °C)?"
 pub_health_which_symtomp_question,"Which symptoms are you currently experiencing?"
 pub_health_shortness_of_breath,"Shortness of breath"
@@ -482,8 +482,7 @@ pub_health_related_factors_chronic_kidney_issues,"Chronic kidney issues?"
 pub_health_related_factors_chronic_heart_issues,"Chronic heart issues (i.e., heart failure)?"
 pub_health_related_factors_chronic_liver_issues,"Chronic liver issues (i.e., hepatitis)?"
 pub_health_related_factors_HIV_AIDS,HIV/AIDS?
-pub_health_respiratory,"Respiratory symptoms, such as cough (usually dry), sore throat, shortness of breath
-"
+pub_health_respiratory,"Respiratory symptoms, such as cough (usually dry), sore throat, shortness of breath"
 pub_health_conjunctivitis,Conjunctivitis
 pub_health_headcold,"Head cold"
 pub_health_head_cold,"Head cold"
