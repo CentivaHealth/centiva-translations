@@ -1,387 +1,636 @@
-ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Your account has insufficient funds."
-ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"El mosaico seleccionado no es transferible"
-ALERT_ONLY_MOBILE_DEVICE,"Esta funcionalidad solo está disponible en dispositivos móviles"
-ALERT_PHONE_DISCONNECTED,"Su teléfono está desconectado de Internet"
-ALERT_SUBTITLE_PHONE_DISCONNECTED,"Abra la aplicación nuevamente una vez que tenga conexión a Internet"
-ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"La dirección no es válida para esta red"
-ENTER_ALL_FIELDS,"Por favor llene todos los campos"
-INVALID_PASSPHRASE,"Frase de contraseña inválida"
-NOT_ENOUGH_HIT,"Su cartera no tiene suficientes HIT para completar esta transacción"
-GENDER,Género
-LOAD_MORE_TRANSACTION,"Cargar más transacciones"
-LANGUAGES.en,inglés
-LANGUAGES.de,alemán
-LANGUAGES.fr,francés
-LANGUAGES.ja,japonés
-LANGUAGES.vi,vietnamita
-LANGUAGES.zh,chino
-LANGUAGES.es,español
-LANGUAGES_ONLY_SHOW_QUERY,inglés
-JANUARY,enero
-FEBRUARY,febrero
-MARCH,marzo
-APRIL,abril
-MAY,mayo
-JUNE,junio
-JULY,julio
-AUGUST,agosto
-SEPTEMBER,septiembre
-OCTOBER,octubre
-NOVEMBER,noviembre
-DECEMBER,diciembre
-SMOKER_STATUS_NON_SMOKER,"no fumador"
-SMOKER_STATUS_OCCASIONAL,"fumador ocasional"
-SMOKER_STATUS_REGULAR,"fumador habitual"
-SMOKER_STATUS_HEAVY,"fumador crónico"
-PHYSICAL_ACTIVITY_LOW,"baja actividad física"
-PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,"actividad física ocasional"
-PHYSICAL_ACTIVITY_REGULAR,regular
-PHYSICAL_ACTIVITY_HIGHT,alta
-cancel,cancelar
-errormessage_error_occured,"Se ha producido un error"
-errormessage_server_error_occured,"Se produjo un error de servidor"
-progress_dialog_wait_message,"Por favor espere"
-welcome,"Bienvenido a"
-welcome_content,"Health Information Traceability
-Tokenizamos la información de la salud 
-Creamos la moneda del sector sanitario del futuro"
-recover_existing_wallet,"Recuperar la cartera existente"
-create_new_wallet,"Crear una nueva cartera"
-info_foundation,"Fundación HIT"
-recover_description,"Por favor intruduzca la frase de contraseña para recuperar su cartera"
-backup_phrase_hint,"Por favor introduzca la frase de contraseña"
-backup_phrase_popup_title,"Ha copiado y guardado la frase de contraseña?"
-backup_phrase_popup_message,"Si no, por favor vuelva a la pantalla anterior y haga copia. No se puede recuperar la cartera sin ella"
-backup_phrase_popup_positive_button,Sí
-backup_phrase_popup_negative_button,"No, vuelva"
-recover_wallet,"Recuperar la cartera"
-recover_wallet_success,"Se ha recuperado la cartera con éxito"
-pin_description,"Utilizar la aplicación sin un PIN. ADVERTENCIA: Cualquier persona que tenga acceso a su dispositivo móvil podrá entrar en esta aplicación y en su cartera de HITs!"
-set_pin_title,"Set your App pin (XR18357)"
-step_1_2,"1 / 2 (XR18357)"
-step_2_2,"2 / 2 (XR18357)"
-set_app_pin_first_description_first,"First we need to set up a few things. (XR18357)"
-set_app_pin_first_description_second,"Let's start with setting your pin (XR18357)"
-enter_pin_again,"Enter Pin Again (XR18357)"
-enter_pin_here,"Enter Pin here (XR18357)"
-enter_pin_here_again,"Enter Pin here again  (XR18357)"
-pin_does_not_match,"Pin does not match. Try again or go back to set a different pin. (XR18357)"
-create_wallet_step_1_3,"1 / 3 (XR18357)"
-create_wallet_step_2_3,"2 / 3 (XR18357)"
-create_wallet_step_3_3,"3 / 3 (XR18357)"
-creating_back_up_phrase,"Creating your backup phrase (XR18357)"
-backup_detail,"To make your backup phrase secure, we create a long passphrase to identify yourself with your account. (XR18357)"
-creating_randomness,"Creating randomness... (XR18357)"
-tap_to_copy,"Tap to copy! (XR18357)"
-remind_save_backup_phrase,"Please save it in a secure location. You will need the passphrase to recover your wallet if reistalling the app (XR18357)"
-created_wallet_description,"Your wallet has been created. (XR18357)"
-purpose_of_address,"It is used to identify your wallet. Tokens you receive will be sent to this addess (XR18357)"
-view_wallet_address_later,"You can view your address later in your wallet (XR18357)"
-mnemonic_title,"Mnemonic Confirmation (XR18357)"
-backup_phrase_mnemonic_description,"Backup phrase: (XR18357)"
-select_all_words_mnemonic_anounce,"Please select all words. (XR18357)"
-words_select_mnemonic,"Please select words below to create your backup phrase: (XR18357)"
-verify_phone_number_title,"Verify Phone Number (XR18357)"
-country_description,"Country (XR18357)"
-phone_number_description,"Phone Number (XR18357)"
-get_access_code_btn,"Get Access Code (XR18357)"
-health_data_title,"Health Data (XR18357)"
-location_description,"Location (XR18357)"
-physics_description,"Physics (XR18357)"
-health_description,"Health (XR18357)"
-health_conditions_description,"Health Conditions"
-location_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)"
-physics_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)"
-health_explain,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted. (XR18357)"
-store_only_on_device,"DATA STORED ON DEVICE ONLY. This data is not shared or transmitted! (XR18357)"
-gender_question,"What's your gender? (XR18357)"
-invalid_weight,"Invalid weight! (XR18357)"
-invalid_height,"Invalid height! (XR18357)"
-next_page_btn,"Next Page (XR18357)"
-profile_btn,"Profile (XR18357)"
-done_btn,"Done (XR18357)"
-transactions_description,"Transactions (XR18357)"
-invite_friend_sub_description_1,"Get up to (XR18357)"
-invite_friend_sub_description_2,"HIT for every friend who join! (XR18357)"
-new_available_queries,"new available: (XR18357)"
-you_have_no_queries_yet,"You have no accepted queries yet (XR18357)"
-do_some_fancy_questionnaire,"Do some fancy questionnaire and find your accepted queries here. (XR18357)"
-title_show_all,"Show all (XR18357)"
-your_inbox_is_empty,"Your inbox is empty. (XR18357)"
-please_check_back_later,"Please check back later. (XR18357)"
-information_query_detail_description,"Information (XR18357)"
-time_need,"Time needed: (XR18357)"
-available_until,"Available until: (XR18357)"
-app_profile_setting,"Settings (XR18357)"
-enter_your_pin_pin_page,"Enter your PIN (XR18357)"
-enter_your_back_up_phrase,"Enter Backup Phrase: (XR18357)"
-my_wallet_is_long_hex_string,"My backup is a long hex string (XR18357)"
-enter_pin_to_show_backup,"Enter your App Pin to show the Passphrase (XR18357)"
-enter_pin_to_show_private_key,"Enter your App Pin to show the Private Key (XR18357)"
-pending_transactions,"Pending (XR18357)"
-help_agreement_btn,"Help (XR18357)"
-receive_token,"Receive tokens (XR18357)"
-purpose_query_detail,"Purpose: (XR18357)"
-redeem_highlights_new,"Highlights: (XR18357)"
-receive_token_title,"Receive token (XR18357)"
-address_description_receive_token_page,"This is your address: (XR18357)"
-tap_copy_address_description,"to receive HIT Token, just tap the address above to copy it. Then paste it  (XR18357)"
-scan_qr_description,"Provide your address with custom QR code: (XR18357)"
-hex_back_up_phrase,"Hex back up phrase: (XR18357)"
-referral_link_description,"This is your referral link: (XR18357)"
-referral_instruction_1,"Invite a friend to HIT and earn (XR18357)"
-referral_instruction_2,"HIT tokens when your friend completes their registration. Just tap the link above to copy it and paste the link in an invitation email or instant message that you can send to your friend (XR18357)"
-where_referral,"(where?) (XR18357)"
-save_back_up_phrase_title,"Save Backup Phrase (XR18357)"
-save_mnemonic_description,"Please save this Mnemotic Backup Phrase in a secure location. You will need the passphrase to recover your wallet if reinstalling the app. (XR18357)"
-save_passphrase_description,"Please copy and save your backup Passphrase in a secure location. You will need the passphrase to recover your wallet if you reinstalling the app. (XR18357)"
-next_word_match,"Next: Word Match (XR18357)"
-recipient,"Recipient (XR18357)"
-hit_available_amount,"Available Amount: (XR18357)"
-tx_fee,"Transaction fee: (XR18357)"
-xem_available,"Append ""XEM"": (XR18357)"
-add_xem_to_your_wallet,"Add XEM to your wallet. Click (XR18357)"
-for_instruction,"for instructions. (XR18357)"
-recipient_address_description,"Recipient address: (XR18357)"
-transaction_summary,"Transaction summary (XR18357)"
-sent_description,"Sent (XR18357)"
-ok_cool_btn,"Ok, cool! (XR18357)"
-detail_description,"Details: (XR18357)"
-message_description,"Message: (XR18357)"
-transaction_id,"Transaction ID (XR18357)"
-action_description,"Actions: (XR18357)"
-send_token_btn_tx_detail,"Send Token (XR18357)"
-receive_token_btn_tx_detail,"Receive Token (XR18357)"
-scan_code_btn_tx_detail,"Scan Code (XR18357)"
-redemption_info_title,"Redemption Info (XR18357)"
-access_code_description,"Access Code (XR18357)"
-wallet_passphrase_title,"Wallet PassPhrase (XR18357)"
-warning_descript_1,"Security Update available (XR18357)"
-warning_descript_2,"Create your new mnemonic backup-pharase now. (XR18357)"
-wallet_private_key_title,"Wallet Private Key (XR18357)"
-INVALID_ACCESS_CODE_TITLE,"Invalid access code (XR18357)"
-INVALID_ACCESS_CODE_CONTENT,"Please make sure you enter correct access code (XR18357)"
-transaction_confirm_title,"Confirm (XR18357)"
-button_negative_send,"Don't send (XR18357)"
-request_camera_permission_title,"Cannot access the Camera (XR18357)"
-request_camera_permission_sub_title,"Centiva don't have Camera access permision. Allow the permission so you can use QR code scanner.<br>Go to 'Setting' => Choose 'Centiva' => Allow access 'Camera' (XR18357)"
-button_positive_permission,"Allow access (XR18357)"
-birth_month_selector,"Birth Month (XR18357)"
-birth_year_selector,"Birth Year (XR18357)"
-denied_query_btn,"Denied (XR18357)"
-continue_btn,"Continue (XR18357)"
-copy_address_success,"Address code copied! (XR18357)"
-receive_tx_detail_title,"Received (XR18357)"
-transaction_detail_redemption,"(Redemption) (XR18357)"
-warning_create_wallet_back_up_1,"Wallet Backup (XR18357)"
-warning_create_wallet_back_up_2,"Create you wallet backup now. (XR18357)"
-words_not_match_message,"Words do not match (XR18357)"
-tap_here,"Tap here (XR18357)"
-change_to_mnemonic_toast_notification,"Here goes a successfully saved notification! (XR18357)"
-current_pin_title,"Introduzca su PIN actual"
-new_pin_title,"Introduzca el nuevo PIN"
-set_pin,"Establecer el PIN"
-skip,Saltar
-change_pin,"Cambiar el PIN"
-generate_randomness,"Generador de números aleatorios"
-next,Siguiente
-backup_phrase,"Frase de contraseña"
-copy_phrase,"Copiar la Frase"
-backup_phrase_description,"Esta es su frase de contraseña"
-public_key,"Llave pública"
-public_key_description,"Para uso interno de la aplicación y así poder generar transacciones y firmas digitales en la autenticación"
-private_key,"Llave privada"
-private_key_description,"Para uso interno de la aplicación y así poder obtener Tokens y gastarlos en la cartera. Guardar con cuidádo"
-wallet_address_description,"Se ha creado su cartera. Ver dirección de la cartera abajo. Se utiliza para identificar su cartera. Los Tokens obtenidos se enviarán a esta dirección"
-wallet_address,"Dirección de la cartera"
-verify_phone_description,"Le enviaremos un código de accesso por SMS para verificar el número de teléfono móvil"
-your_mobile_number,"Su número de teléfono móvil"
-resend_sms_code,"Enviar nuevamente el código de SMS"
-get_sms_code,"Obtener el código de SMS"
-verify_code_description,"Introduzca su código de confirmación"
-verify_code,"Confirmar código"
-enter_sms_code,"Introduzca su código de SMS"
-set_pin_again_title,"Introduzca nuevamente su PIN"
-title_home,Inicio
-invalid_phone_number,"Número de teléfono invalido"
-invalid_code,"Código inválido"
-verify_phone_with_sms,"Verificar teléfono con el SMS"
-account_wallet_name,HIT
-verify_phone_number,"Verificar número de teléfono"
-create_wallet_title_1,"Crear Cartera"
-recover_wallet_title,"Recuperar cartera"
-set_app_pin_title,"Establecer el PIN de la aplicación"
-errormessage_confirm_pin_wrong,"El PIN de confirmación no coincide"
-errormessage_current_pin_wrong,"PIN actual inválido"
-errormessage_login_fail,"PIN inválido. Por favor trate nuevamente"
-successmessage_change_pin_success,"Se ha cambiado el PIN con éxito!"
-successmessage_set_pin_success,"Se ha establecido el PIN con éxito!"
-successmessage_save_basic_health_data_success,"Se han guardado los datos sanitarios con éxito!"
-bottom_navigation_inbox,Buzón
-bottom_navigation_queries,Consultas
-bottom_navigation_health_data,"Datos sanitarios"
-bottom_navigation_wallet,Cartera
-current_balance,"Saldo actual"
-show_private_key,"Mostrar la Llave Privada"
-change_app_pin,"Cambiar el PIN de la aplicación"
-wallet_settings,"Configuración de la cartera"
-male,Hombre
-female,Mujer
-month_of_birth,"Mes de nacimiento"
-year_of_birth,"Año de nacimiento"
-height,Altura
-weight,Peso
-geographical_region,Región
-physical_activity,"Actividad física"
-smoking,Fumar
-balance,Saldo
-copy_address,"Copiar la dirección"
-amount,Cantidad
-send_token,"Enviar Tokens"
-send_tokens_successfully,"Se ha enviado Tokens con éxito"
-confirm,Confirmar
-send,"Enviar Tokens"
-no,"No se ha podido enviar Tokens"
-all_tab_title,Todo
-all,Todo
-accepted,Acceptado
-deny,Denegado
-agree_and_continue,"Acceptar y Continuar"
-open_url,"Abrir la URL"
-forgot_pin,"Forgot your PIN? (XR18357)"
-close_forgot_pin,Cerrar
-forgot_pin_description,"Por favor volver a instalar y habilitar esta aplicación
- Frase de respaldo para recuperar la cartera"
-other,Otro
-consent_content,"Agradecemos su disposición para participar en la siguiente solicitud de datos.
- Haciendo clic en Acceptar, Usted dará su consetimiento para aportar los datos solicitados y aceptará que sus datos personales sean procesados según la Política de Privacidad que se aplica y que ha sido descrita anteriormente."
-consent_title,"Su opinión cuenta"
-survey_information,"Aviso legal y protección de datos"
-copy_success,Copiado
-days_ago,"hace unos días"
-hours_ago,"hace unas horas"
-minutes_ago,"hace unos minutos"
-seconds_ago,"hace unos segundos"
-query_from,de
-query_to,a
-language_title,inglés
-receive,recibir
-history,historial
-scan_qr_code,"Escanear el código QR"
-qr_code,"código QR"
-scan_qr_code_title,"Escanear el código QR"
-message_read_QR_code,"Se ha leido la dirección con éxito!"
-scan_fail_title,"No se pudo escanear"
-data_not_recognised_message,"Datos no reconocidos"
-scan_fail_button,OK
-permission_denied,"Permiso denegado"
-expiration_day_title,"Disponible hasta"
-amount_offer,"Incentivo en oferta"
-offers_card_title,Ofertas
-agreement_title,"Acuerdo de usuario de la aplicación"
-Thank_you_description,"Gracias por descargar la aplicación Centiva de la Fundación HIT."
-read_term_berfore_proceeding,"Por favor lea la informacion sumaria sobre nuestros términos de servicio antes de seguir:"
-first_agreement,"Centiva NO es una aplicación médica y en ningún momente pretende ofrecer consejos médicos. Si requiere atención médica, por favor póngase en contácto con un profesional médico o con los servicios de emergencia."
-second_agreement,"Debe tener al menos 13 años de edad para activar una cuenta HIT"
-third_agreement,"HIT no recibe, guarda ni comparte sus datos sanitarios con terceros."
-fourth_agreement,"Sus datos sanitarios y demográficos al igual que los datos de su cartera están encriptados con su PIN y almacenados localmente en su dispositivo móvil"
-fifth_agreement,"Usted es el único responsable de preservar sus datos, como son su PIN y la frase de contraseña de su cartera"
-sixth_agreement,"En el caso en el que Usted responda a una solicitud de datos y proporciona sus datos a una entidad que los solicita, aplicarán las políticas de privacidad, los términos de servicio de esa entidad que solicita los datos y que al mismo tiempo ofrece recompensas. "
-agree_description,"Al elegir ""Accepto"" abajo, usted está de acuerdo a estar sujeto a nuestros términos de uso y políticas de privacidad (ver enlace abajo). Estos Términos de uso afectan sus derechos legales y sus obligaciones. Si no está de acuerdo a estar sujeto a estos términos de uso, no acceda ni use el servicio."
-term_of_use,"Términos de uso"
-privacy_policy,"Política de privacidad"
-and_of_term_policy,Y
-decline_and_abort_registration,Rechazar
-title_decline_and_abort_registration,"Debe aceptar los términos de uso y política de privacidad para continuar"
-message_decline_and_abort_resgistration,"Está Usted seguro que desea salir de la aplicación?"
-not_enough_xem_warning,"Su cartera no tiene suficientes XEM para completar esta transacción"
-please_get_more_xem,"Por favor obtenga más XEM"
-here,aquí
-message_permission_accept,"Este permiso se utiliza únicamente para garantizar su registro en la red de HIT. La aplicación no hace ni recibe llamadas."
-language,Idioma:
-app_settings,"Configuración de la aplicación"
-app_language,"Idioma de la aplicación"
-only_show_query_in_language,"Mostrar consultas únicamente"
-faq,"Preguntas más frecuentes"
-feedback_to_email,"Send feedback (XR18357)"
-SENT,Enviado
-MESSAGE,Mensaje
-TIME_TRANSACTION_DETAIL,"la hora"
-MAIL_SHARE_ERROR_TITLE,"Sin cuenta de correo"
-MAIL_SHARE_ERROR_SUB_TITLE,"Por favor, establezca una cuenta de correo para el envío de correo electrónico"
-SHARE_OPTION_TITLE,"Selecionar una aplicación"
-STORE_BACKUP_PHRASE_BUTTON,"Guardar la Frase de contraseña"
-PASTE_BACKUP_PHRASE,"Pegar la Frase de contraseña"
-REFERRAL_CARD_TITLE,"Recomiéndenos a un amigo"
-REFERRAL_DESCRIPTION,"Recomiénde HIT a un amigo y ganará Tokens"
-REFERRAL_SUBDESCRIPTION,"Cuando su amigo se registre"
-COPY_BUTTON,"Copiar el enlace de recomendación"
-QR_CODE_SHARE_DESCRIPTION,"O haga que su amigo su amigo escanée el código QR"
-TOKEN_DESCRIPTION,Tokens
-REDEEM_POPUP_TITLE,"Información para el canje"
-REDEEM_POPUP_MESSAGE,"Se enviará el cupón a"
-REDEEM_SUCCESSFUL_MESSAGE,"Se ha hecho el canje con éxito. En breve, recibirá la información "
-REDEEM_HIGLIGHTS,"A destacar"
-REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Se necesitan Tokens HIT"
-REDEEM_QUANTITY_DESCRIPTION,"Usted obtendrá"
-REDEEM_BUTTON,"Canjear ahora"
-INFO,Información
-USER_INFO_REDEMPTION,Canje
-USER_INFO_REDEMPTION_BUTTON,Canjear
-AVAILABLE_QUERIES_HOME_PAGE,Disponible
-COPY_CONFIRMATION_DETAIL,"Copiar los detalles de la confirmación"
-COPYRIGHT,"Derechos de autor"
-APP_VERSION,"Versión de la aplicación"
-DEVICE_MODEL,"Modelo del dispositivo"
-OS_VERSION,"Versión OS"
-MANUFACTURER,Manufacturador
-COPY,Copiar
-ABOUT,"Acerca de"
-OK,Ok
-REENTER_HEALTH_DATA_TITLE,"Los datos sanitarios está vacío"
-REENTER_HEALTH_DATA_MESSAGE,"No se pudo leer los datos sanitarios en esta versión de la aplicación, por favor introducir datos sanitarios nuevamente"
-VERIFY_PHONE_AGAIN_TITLE,"No se pudo verificar el número de teléfono con el código SMS"
-VERIFY_PHONE_AGAIN_MESSAGE,"Para obtener el extra de HITs, por favor verificar de nuevo "
-PLEASE_GET_MORE_HIT,"La cantidad de Tokens HIT es insuficiente"
-GET_SMS_CODE_FAIL_TITLE,"No fue posible recibir el código del mensaje (SMS)"
-GET_SMS_CODE_FAIL_CONTENT,"El formato del número telefonico ingresado es incorrecto. El formato requerido es [+] [código de país] [su número de teléfono incluyendo el código del area]"
-INCOMPLETE_BASIC_HEATH_TITLE,"Los datos sanitarios están incompletos"
-INCOMPLETE_BASIC_HEATH_CONTENT,"Mantener los datos sanitarios completos y actualizados para obtener acceso a todos los beneficios de la aplicación Centiva. La información recibida es salvada solamente en su aparato y utilizada solamente en las encuestas que usted ha aceptado participar.  informacón"
-REDEMPTION_DETAILS,"Detalles del reembolso seleccionado"
-SHOW_DETAILS_USER_DATA,"Mostrar detalles"
-REDEMPTION_ID_DESCRIPTION,"Código de reembolso"
-OFFER_PAGE_TITLE,"Detalles de la oferta"
-BY_CHOOSING_AGREE,"By choosing ""Agree"" you accept our (XR18357)"
-VERIFY_PROVIDER,"Verify provider (XR18357)"
-PROVIDER_NAME,"Provider name (XR18357)"
-PROVIDER_ADDR,"Provider address (XR18357)"
-YOUR_ID,"Your id (XR18357)"
-VERIFY_PROVIDER_FAIL,"Can not verify provider (XR18357)"
-VERIFY_PROVIDER_SUCCESS,"Verify provider success (XR18357)"
-VERIFY,"Verify (XR18357)"
-PROVIDER_LIST,"Providers (XR18357)"
-VERIFY_PROVIDER_TITLE_FAIL,"Invalid Informattion (XR18357)"
-ALREADY_ADDED_PROVIDER,"Already added provider (XR18357)"
-VERIFY_MNEMONIC_SAVE_BUTTON,"Save (XR18357)"
-TITLE_VERIFY_MNEMONIC,"Your words selected (XR18357)"
-NUMBER_KEYBOARD_1,1
-NUMBER_KEYBOARD_2,2
-NUMBER_KEYBOARD_3,3
-NUMBER_KEYBOARD_4,4
-NUMBER_KEYBOARD_5,5
-NUMBER_KEYBOARD_6,6
-NUMBER_KEYBOARD_7,7
-NUMBER_KEYBOARD_8,8
-NUMBER_KEYBOARD_9,9
-NUMBER_KEYBOARD_0,0
-ADD_PROVIDER_TITLE,"Add Provider (XR18357)"
-REVIEW_PROVIDER_TITLE,"Provider (XR18357)"
-PATIENT_NAME,"Patient name (XR18357)"
-NAME_NOT_PROVIDE,"Name not provided (XR18357)"
-QR_SCAN_CONNECTION_ERROR,"Connection error (XR18357)"
-QR_SCAN_USE_THE_SAME_ID_ERROR,"This ID already used (XR18357)"
-QR_SCAN_VERIFY_DATA_FALSE,"Verify data false (XR18357)"
-QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Verify data again false (XR18357)"
-ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Address not found in list of authorized seekers (XR18357)"
-NEW_KEY,Translated
-NEW_KEY2,"do translate"
+ALERT_ACCOUNT_DOES_NOT_HAVE_ENOUGH_FUNDS,"Su cuenta tiene fondos insuficientes.",,,,"Your account has insufficient funds."
+ALERT_MOSAIC_IS_NOT_TRANSFERABLE,"El mosaico seleccionado no es transferible.",,,,"The selected mosaic is not transferable."
+ALERT_ONLY_MOBILE_DEVICE,"Esta funcionalidad solo está disponible en dispositivos móviles.",,,,"This functionality is only available in mobile devices."
+ALERT_PHONE_DISCONNECTED,"Su teléfono no está conectado a internet.",,,,"Your phone is not connected to the internet."
+ALERT_SUBTITLE_PHONE_DISCONNECTED,"Abra la aplicación nuevamente una vez que tenga una conexión a Internet.",,,,"Open the app again once you have an internet connection."
+ALERT_WALLET_IS_NOT_VALID_FOR_THIS_NETWORK,"La dirección no es válida para esta red.",,,,"The address is not valid for this network."
+ENTER_ALL_FIELDS,"Por favor llene todos los campos",,,,"Please fill all the fields"
+INVALID_PASSPHRASE,"Frase de contraseña inválida",,,,"Invalid Passphrase"
+NOT_ENOUGH_HIT,"Su billetera no tiene suficiente DHP para completar esta transacción.",,,,"Your wallet does not have enough DHP to complete this transaction."
+GENDER,Género,,,,Gender
+LOAD_MORE_TRANSACTION,"Cargar más transacciones",,,,"Load more transactions"
+LANGUAGES.en,Inglés,,,,English
+LANGUAGES.de,alemán,,,,German
+LANGUAGES.fr,francés,,,,French
+LANGUAGES.ja,japonés,,,,Japanese
+LANGUAGES.vi,vietnamita,,,,Vietnamese
+LANGUAGES.zh,chino,,,,Chinese
+LANGUAGES.es,Español,,,,Spanish
+LANGUAGES_ONLY_SHOW_QUERY,Inglés,,,,English
+JANUARY,enero,,,,January
+FEBRUARY,febrero,,,,February
+MARCH,marzo,,,,March
+APRIL,abril,,,,April
+MAY,Mayo,,,,May
+JUNE,junio,,,,June
+JULY,julio,,,,July
+AUGUST,agosto,,,,August
+SEPTEMBER,septiembre,,,,September
+OCTOBER,octubre,,,,October
+NOVEMBER,noviembre,,,,November
+DECEMBER,diciembre,,,,December
+SMOKER_STATUS_NON_SMOKER,"No fumador",,,,Non-smoker
+SMOKER_STATUS_OCCASIONAL,Ocasional,,,,Occasional
+SMOKER_STATUS_REGULAR,Regular,,,,Regular
+SMOKER_STATUS_HEAVY,Pesado,,,,Heavy
+PHYSICAL_ACTIVITY_LOW,Bajo,,,,Low
+PHYSICAL_ACTIVITY_OCCSIONAL_LIGHT,"Luz ocasional",,,,"Occasional Light"
+PHYSICAL_ACTIVITY_REGULAR,Regular,,,,Regular
+PHYSICAL_ACTIVITY_HIGHT,Alto,,,,High
+cancel,Cancelar,,,,Cancel
+errormessage_error_occured,"Se ha producido un error",,,,"An error has occurred"
+errormessage_server_error_occured,"Se produjo un error del servidor",,,,"Server error occurred"
+progress_dialog_wait_message,"Por favor espera…",,,,"Please wait…"
+welcome,"Bienvenido a",,,,"Welcome to"
+welcome_content," ",,,," "
+recover_existing_wallet,"Recuperar billetera existente",,,,"Recover Existing Wallet"
+create_new_wallet,"Crear nueva billetera",,,,"Create New Wallet"
+recover_description,"Ingrese su frase de respaldo para recuperar su billetera.",,,,"Please enter your backup phrase to recover your wallet."
+backup_phrase_hint,"Por favor ingrese su frase de respaldo",,,,"Please enter your backup phrase"
+backup_phrase_popup_title,"¿Ha copiado y guardado la frase de respaldo?",,,,"Have you copied and saved the backup phrase?"
+backup_phrase_popup_message,"De lo contrario, regrese a la pantalla anterior y cópielo. No podrá recuperar su billetera sin ella.",,,,"If not, please return to the previous screen and copy it. You will not be able to recover your wallet without it."
+backup_phrase_popup_positive_button,si,,,,Yes
+backup_phrase_popup_negative_button,"No, regresa",,,,"No, go back"
+recover_wallet,"Recuperar billetera",,,,"Recover Wallet"
+recover_wallet_success,"¡La billetera se recuperó con éxito!",,,,"Wallet recovered successfully!"
+pin_description,"Usa la aplicación sin un PIN. ADVERTENCIA: ¡Cualquier persona con acceso a su teléfono podrá acceder a esta aplicación y a su billetera DHP!",,,,"Use the app without a PIN. WARNING: Anyone with access to your phone will be able to access this app and your DHP Wallet!"
+set_pin_title,"Configura el PIN de tu aplicación ",,,,"Set your App PIN "
+step_1_2,"1/2 ",,,,"1 / 2 "
+step_2_2,"2/2 ",,,,"2 / 2 "
+set_app_pin_first_description_first,"Primero tenemos que configurar algunas cosas. ",,,,"First we need to set up a few things. "
+set_app_pin_first_description_second,"Comencemos por configurar su PIN.",,,,"Let's start with setting your PIN."
+enter_pin_again,"Ingrese PIN nuevamente",,,,"Enter PIN Again"
+enter_pin_here,"Ingrese PIN aquí",,,,"Enter PIN here"
+enter_pin_here_again,"Ingrese el PIN aquí nuevamente",,,,"Enter PIN here again"
+pin_does_not_match,"El PIN no coincide. Intente nuevamente o regrese para establecer un PIN diferente.",,,,"PIN does not match. Try again or go back to set a different PIN."
+create_wallet_step_1_3,"1/3 ",,,,"1 / 3 "
+create_wallet_step_2_3,"2/3 ",,,,"2 / 3 "
+create_wallet_step_3_3,"3/3 ",,,,"3 / 3 "
+creating_back_up_phrase,"Creando tu frase de respaldo ",,,,"Creating your backup phrase "
+backup_detail,"Para asegurar su cuenta, generaremos una frase de contraseña larga.",,,,"To secure your account, we will generate a long passphrase."
+creating_randomness,"Generando aleatoriedad ... ",,,,"Generating randomness... "
+tap_to_copy,"Toque para copiar! ",,,,"Tap to copy! "
+remind_save_backup_phrase,"Guárdelo en un lugar seguro. Necesitará la frase de contraseña para recuperar su billetera si reinstala la aplicación ",,,,"Please save it in a secure location. You will need the passphrase to recover your wallet if you reinstall the app "
+created_wallet_description,"Su billetera ha sido creada.",,,,"Your wallet has been created."
+purpose_of_address,"Se utiliza para identificar su billetera. Los tokens de DHP que reciba se enviarán a esta dirección.",,,,"It is used to identify your wallet. DHP tokens you receive will be sent to this address."
+view_wallet_address_later,"Puede ver su dirección más adelante en su billetera.",,,,"You can view your address later in your wallet."
+mnemonic_title,"Confirmación mnemónica ",,,,"Mnemonic Confirmation "
+backup_phrase_mnemonic_description,"Frase de respaldo: ",,,,"Backup phrase: "
+select_all_words_mnemonic_anounce,"Por favor seleccione todas las palabras. ",,,,"Please select all words. "
+words_select_mnemonic,"Confirme su frase de respaldo seleccionando las palabras en el orden correcto ",,,,"Please confirm your backup phrase by selecting words in the correct order "
+verify_phone_number_title,"Verificar número de teléfono ",,,,"Verify Phone Number "
+country_description,"País ",,,,"Country "
+phone_number_description,"Número de teléfono ",,,,"Phone Number "
+get_access_code_btn,"Obtener código de acceso",,,,"Get Access Code"
+health_data_title,"Datos de salud",,,,"Health Data"
+location_description,Ubicación,,,,Location
+physics_description,Básico,,,,Basic
+health_description,Salud,,,,Health
+health_conditions_description,"Condiciones de salud",,,,"Health Conditions"
+location_explain,"Esta información es necesaria para proporcionarle estudios y ofertas relevantes. La información nunca se comparte ni se transmite.",,,,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted."
+physics_explain,"Esta información es necesaria para proporcionarle estudios y ofertas relevantes. La información nunca se comparte ni se transmite.",,,,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted."
+health_explain,"Esta información es necesaria para proporcionarle estudios y ofertas relevantes. La información nunca se comparte ni se transmite.",,,,"This information is needed to provide you with relevant studies and offers. The information is never shared or transmitted."
+store_only_on_device,"DATOS ALMACENADOS EN EL DISPOSITIVO SOLAMENTE. ¡Estos datos no se comparten ni se transmiten!",,,,"DATA STORED ON DEVICE ONLY. This data is not shared or transmitted!"
+gender_question,"¿Cuál es tu género?",,,,"What's your gender?"
+invalid_weight,"Peso inválido!",,,,"Invalid weight!"
+invalid_height,"Altura inválida!",,,,"Invalid height!"
+next_page_btn,"Siguiente página",,,,"Next Page"
+profile_btn,Perfil,,,,Profile
+done_btn,Hecho,,,,Done
+transactions_description,"Actas ",,,,"Transactions "
+invite_friend_sub_description_1,"Llegar a ",,,,"Get up to "
+invite_friend_sub_description_2,"¡DHP por cada contacto que se une! ",,,,"DHP for every contact who joins! "
+new_available_queries,"nuevo disponible: ",,,,"new available: "
+you_have_no_queries_yet,"Aún no tienes consultas aceptadas ",,,,"You have no accepted queries yet "
+do_some_fancy_questionnaire,"Las consultas se enumerarán aquí cuando participes en ellas ",,,,"Queries will be listed here when you participate in them "
+title_show_all,"Mostrar todo ",,,,"Show all "
+your_inbox_is_empty,"No hay elementos en la bandeja de entrada. ",,,,"No items in inbox. "
+please_check_back_later,"Las consultas entrantes se enumerarán aquí. ",,,,"Incoming queries will be listed here. "
+information_query_detail_description,"Información ",,,,"Information "
+time_need,"Tiempo necesario: ",,,,"Time needed: "
+available_until,"Disponible hasta: ",,,,"Available until: "
+app_profile_setting,"Configuraciones ",,,,"Settings "
+enter_your_pin_pin_page,"Introduce tu PIN ",,,,"Enter your PIN "
+enter_your_back_up_phrase,"Ingrese la frase de respaldo: ",,,,"Enter Backup Phrase: "
+my_wallet_is_long_hex_string,"Mi respaldo es una larga cadena hexadecimal ",,,,"My backup is a long hex string "
+enter_pin_to_show_backup,"Ingrese el PIN de su aplicación para revelar la frase de contraseña",,,,"Enter your app PIN to reveal the passphrase"
+enter_pin_to_show_private_key,"Ingrese el PIN de su aplicación para revelar la clave privada",,,,"Enter your app PIN to reveal the private Key"
+pending_transactions,"Pendiente ",,,,"Pending "
+help_agreement_btn,"Ayuda ",,,,"Help "
+receive_token,"Recibe tokens DHP ",,,,"Receive DHP tokens "
+purpose_query_detail,"Propósito: ",,,,"Purpose: "
+redeem_highlights_new,"Destacar: ",,,,"Highlights: "
+receive_token_title,"Recibir fichas ",,,,"Receive tokens "
+address_description_receive_token_page,"Esta es tu dirección: ",,,,"This is your address: "
+tap_copy_address_description,"recibir tokens DHP",,,,"to receive DHP tokens"
+scan_qr_description,"Proporcione su dirección con un código QR personalizado: ",,,,"Provide your address with custom QR code: "
+hex_back_up_phrase,"Frase de respaldo hexadecimal: ",,,,"Hex back up phrase: "
+referral_link_description,"Este es su enlace de referencia: ",,,,"This is your referral link: "
+referral_instruction_1,"Invita a tu contacto a Centiva",,,,"Invite your contact to Centiva"
+referral_instruction_2,"Simplemente toque el enlace de arriba para copiarlo y pegar el enlace en un correo electrónico de invitación o mensaje instantáneo que puede enviar a su contacto",,,,"Just tap the link above to copy it and paste the link in an invitation email or instant message that you can send to your contact"
+save_back_up_phrase_title,"Guardar frase de respaldo ",,,,"Save Backup Phrase "
+save_mnemonic_description,"Guarde esta frase de respaldo mnemónica en una ubicación segura. Necesitará la frase de contraseña para recuperar su billetera si reinstala la aplicación. ",,,,"Please save this Mnemonic backup phrase in a secure location. You will need the passphrase to recover your wallet if you reinstall the app. "
+save_passphrase_description,"Copie y guarde su frase de contraseña de respaldo en una ubicación segura. Necesitará la frase de contraseña para recuperar su billetera si reinstala la aplicación.",,,,"Please copy and save your backup passphrase in a secure location. You will need the passphrase to recover your wallet if you reinstall the app."
+next_word_match,"Siguiente: Word Match ",,,,"Next: Word Match "
+recipient,"Recipiente ",,,,"Recipient "
+hit_available_amount,"Monto disponible: ",,,,"Available Amount: "
+tx_fee,"Tarifa de transacción: ",,,,"Transaction fee: "
+xem_available,"XEM disponible:",,,,"Available XEM:"
+add_xem_to_your_wallet,"Agregue XEM a su billetera. Hacer clic ",,,,"Add XEM to your wallet. Click "
+for_instruction,"para instrucciones ",,,,"for instructions. "
+recipient_address_description,"Dirección del receptor: ",,,,"Recipient address: "
+transaction_summary,"Resumen de Transacciones ",,,,"Transaction summary "
+sent_description,"Expedido ",,,,"Sent "
+ok_cool_btn,"¡Está bien! ",,,,Ok
+detail_description,"Detalles: ",,,,"Details: "
+message_description,"Mensaje: ",,,,"Message: "
+transaction_id,"ID de transacción ",,,,"Transaction ID "
+action_description,"Comportamiento: ",,,,"Actions: "
+send_token_btn_tx_detail,"Enviar tokens DHP ",,,,"Send DHP tokens "
+receive_token_btn_tx_detail,"Recibe tokens DHP ",,,,"Receive DHP tokens "
+scan_code_btn_tx_detail,"Escanear código ",,,,"Scan Code "
+redemption_info_title,"Información de canje ",,,,"Redemption Info "
+access_code_description,"Código de acceso ",,,,"Access Code "
+wallet_passphrase_title,"Frase de contraseña de billetera ",,,,"Wallet Passphrase "
+warning_descript_1,"Actualización de seguridad disponible ",,,,"Security Update available "
+warning_descript_2,"Crea tu nueva frase de respaldo mnemónica ahora. ",,,,"Create your new mnemonic backup phrase now. "
+wallet_private_key_title,"Clave privada de billetera ",,,,"Wallet Private Key "
+INVALID_ACCESS_CODE_TITLE,"Código de acceso inválido ",,,,"Invalid access code "
+INVALID_ACCESS_CODE_CONTENT,"Asegúrese de ingresar el código de acceso correcto ",,,,"Please make sure you enter the correct access code "
+transaction_confirm_title,"Confirmar ",,,,"Confirm "
+button_negative_send,"No enviar ",,,,"Don't send "
+request_camera_permission_title,"No puedo acceder a la cámara ",,,,"Cannot access the Camera "
+request_camera_permission_sub_title,"Centiva no tiene permiso para acceder a la cámara. Otorgue el permiso para que pueda usar el escáner de código QR. <br> Vaya a 'Configuración' => Elija 'Centiva' => Permitir acceso 'Cámara' ",,,,"Centiva doesn't have permission to access the camera. Please grant the permission so you can use the QR code scanner.<br>Go to 'Settings' => Choose 'Centiva' => Allow access 'Camera' "
+button_positive_permission,"Permitir el acceso ",,,,"Allow access "
+birth_month_selector,"Mes de nacimiento ",,,,"Birth Month "
+birth_year_selector,"Año de nacimiento ",,,,"Birth Year "
+denied_query_btn,"Negado ",,,,"Denied "
+continue_btn,"Seguir ",,,,"Continue "
+copy_address_success,"Código de dirección copiado!",,,,"Address code copied!"
+receive_tx_detail_title,Recibido,,,,Received
+transaction_detail_redemption,(Redención),,,,(Redemption)
+warning_create_wallet_back_up_1,"Copia de seguridad de billetera",,,,"Wallet Backup"
+warning_create_wallet_back_up_2,"Crea tu respaldo de billetera ahora.",,,,"Create you wallet backup now."
+words_not_match_message,"Las palabras no coinciden",,,,"Words do not match"
+tap_here,"Pulse aquí",,,,"Tap here"
+change_to_mnemonic_toast_notification,"¡Guardado exitosamente!",,,,"Saved successfully!"
+current_pin_title,"Ingrese su PIN actual",,,,"Enter your current PIN"
+new_pin_title,"Ingrese nuevo PIN",,,,"Enter new PIN"
+set_pin,"Establecer PIN",,,,"Set PIN"
+skip,Omitir,,,,Skip
+change_pin,"Cambiar PIN",,,,"Change PIN"
+generate_randomness,"Generando números aleatorios para la seguridad de la billetera",,,,"Generating random numbers for wallet security"
+next,próximo,,,,Next
+backup_phrase,"Frase de respaldo",,,,"Backup Phrase"
+copy_phrase,"Copiar frase",,,,"Copy Phrase"
+backup_phrase_description,"Aquí está tu frase de respaldo",,,,"Here is your backup phrase"
+public_key,"Llave pública",,,,"Public Key"
+public_key_description,"Utilizado internamente por la aplicación para generar transacciones y generar firmas digitales con fines de autenticación.",,,,"Used internally by the app to generate transactions and to generate digital signatures for the purposes of authentication."
+private_key,"Llave privada",,,,"Private Key"
+private_key_description,"Utilizado internamente por la aplicación para proteger y gastar tokens DHP en su billetera. Debe estar cuidadosamente vigilado.",,,,"Used internally by the app to secure and spend DHP tokens in your wallet. It should be carefully guarded."
+wallet_address_description,"Su billetera ha sido creada. La dirección de su billetera se muestra a continuación. Se utiliza para identificar su billetera. Los tokens que reciba se enviarán a esta dirección.",,,,"Your wallet has been created. Your wallet address is shown below. It is used to identify your wallet. Tokens you receive will be sent to this address."
+wallet_address,"Dirección de billetera",,,,"Wallet Address"
+verify_phone_description,"Le enviaremos un código de acceso por SMS para la verificación del número de teléfono móvil.",,,,"We will send you an access code via SMS for mobile number verification."
+your_mobile_number,"Tú número de teléfono",,,,"Your Mobile Number"
+resend_sms_code,"Reenviar código SMS",,,,"Resend SMS Code"
+get_sms_code,"Obtener el código de SMS",,,,"Get SMS Code"
+verify_code_description,"Ingrese su código de verificación a continuación.",,,,"Enter your verification code below."
+verify_code,"Código de verificación",,,,"Verify Code"
+enter_sms_code,"Ingrese el código de SMS",,,,"Enter SMS Code"
+set_pin_again_title,"Ingrese su PIN nuevamente",,,,"Enter your PIN again"
+title_home,Casa,,,,Home
+invalid_phone_number,"Numero de telefono invalido",,,,"Invalid phone number"
+invalid_code,"Codigo invalido",,,,"Invalid code"
+verify_phone_with_sms,"Verificar teléfono con SMS",,,,"Verify phone with SMS"
+account_wallet_name,DHP,,,,DHP
+verify_phone_number,"Verificar número de teléfono",,,,"Verify Phone Number"
+create_wallet_title_1,"Crear billetera ",,,,"Create Wallet "
+recover_wallet_title,"Recuperar billetera",,,,"Recover Wallet"
+set_app_pin_title,"Configura el PIN de tu aplicación",,,,"Set your App PIN"
+errormessage_confirm_pin_wrong,"El PIN de confirmación no coincide",,,,"Confirmation PIN does not match"
+errormessage_current_pin_wrong,"PIN actual incorrecto",,,,"Current PIN incorrect"
+errormessage_login_fail,"PIN incorrecto Inténtalo de nuevo.",,,,"Incorrect PIN. Please try again."
+successmessage_change_pin_success,"¡Cambio de PIN exitoso!",,,,"PIN change successful!"
+successmessage_set_pin_success,"¡Configuración de PIN exitosa!",,,,"PIN setup successful!"
+successmessage_save_basic_health_data_success,"Guardado con éxito los datos básicos de salud!",,,,"Saved basic health data successfully!"
+bottom_navigation_inbox,"Bandeja de entrada",,,,Inbox
+bottom_navigation_queries,Consultas,,,,Queries
+bottom_navigation_health_data,"Datos de salud",,,,"Health Data"
+bottom_navigation_wallet,Billetera,,,,Wallet
+current_balance,"Saldo actual",,,,"Current Balance"
+show_private_key,"Mostrar clave privada",,,,"Show Private key"
+change_app_pin,"Cambiar PIN de la aplicación",,,,"Change app PIN"
+wallet_settings,"Configuraciones de billetera",,,,"Wallet settings"
+male,Masculino,,,,Male
+female,Hembra,,,,Female
+month_of_birth,"Mes de nacimiento",,,,"Month of Birth"
+year_of_birth,"Año de nacimiento",,,,"Year of Birth"
+height,Altura,,,,Height
+weight,Peso,,,,Weight
+geographical_region,"Región geográfica",,,,"Geographical Region"
+physical_activity,"Actividad física",,,,"Physical activity"
+smoking,"De fumar",,,,Smoking
+balance,Equilibrar,,,,Balance
+copy_address,"Dirección de copia",,,,"Copy Address"
+amount,Cantidad,,,,Amount
+send_token,"Enviar DHP",,,,"Send DHP"
+send_tokens_successfully,"DHP enviado con éxito",,,,"Sent DHP successfully"
+confirm,Confirmar,,,,Confirm
+send,Enviar,,,,Send
+no,No,,,,No
+all_tab_title,Todas,,,,All
+all,Todas,,,,All
+accepted,Aceptado,,,,Accepted
+deny,Negar,,,,Deny
+agree_and_continue,"Aceptar y continuar",,,,"Agree and Continue"
+forgot_pin,"olvidaste tú pin? ",,,,"Forgot your PIN? "
+close_forgot_pin,Cerca,,,,Close
+forgot_pin_description,"Restablezca o reinstale esta aplicación y use la frase de respaldo para recuperar la billetera",,,,"Please reset or re-install this app and use backup phrase to recover wallet"
+other,Otro,,,,Other
+consent_content,"Gracias por su disposición a participar en la siguiente solicitud de datos. Al hacer clic en Aceptar, acepta que está dispuesto a proporcionar los datos solicitados y acepta que sus datos personales se procesen como se describe en la declaración de privacidad aplicable.",,,,"Thank you for your willingness to participate in the following data request. By clicking Agree, you consent that you are willing to provide the requested data and agree to your personal data being processed as described in the applicable privacy statement."
+consent_title,"Su participación es apreciada",,,,"Your participation is appreciated"
+survey_information,"Descargo de responsabilidad de datos",,,,"Data Disclaimer"
+copy_success,Copiado,,,,Copied
+days_ago," hace días",,,," days ago"
+hours_ago," horas atras",,,," hours ago"
+minutes_ago," hace minutos",,,," minutes ago"
+seconds_ago," hace segundos",,,," seconds ago"
+query_from,"desde ",,,,"from "
+query_to,"a ",,,,"to "
+language_title,Inglés,,,,English
+receive,Recibir,,,,Receive
+history,Historia,,,,History
+scan_qr_code,"Escanear código QR",,,,"Scan QR code"
+qr_code,"Código QR",,,,"QR code"
+scan_qr_code_title,"Escanear código QR",,,,"Scan QR code"
+message_read_QR_code,"Leer la dirección con éxito",,,,"Read address successfully"
+scan_fail_title,"Escaneo fallido",,,,"Scan failed"
+data_not_recognised_message,"Datos no reconocidos",,,,"Data not recognized"
+scan_fail_button,Okay,,,,OK
+permission_denied,"Permiso denegado",,,,Permission_denied
+expiration_day_title,"Disponible hasta",,,,"Available until"
+amount_offer,"Incentivo ofrecido",,,,"Incentive offered"
+offers_card_title,Ofertas,,,,Offers
+agreement_title,"Acuerdo del Usuario",,,,"User Agreement"
+Thank_you_description,"Gracias por descargar la aplicación Centiva de HIT Foundation.",,,,"Thank you for downloading the Centiva app from HIT Foundation."
+read_term_berfore_proceeding,"Lea este resumen de nuestros términos de servicio antes de continuar:",,,,"Please read this summary of our terms of service before proceeding:"
+first_agreement,"Centiva NO es una aplicación médica y no pretende ofrecer asesoramiento médico. Si necesita atención médica, comuníquese con un profesional médico o con los servicios de emergencia.",,,,"Centiva is NOT a medical app and makes no claims to offer medical advice. If you are in need of medical care, please contact a medical professional or the emergency services."
+second_agreement,"Debe tener al menos 13 años de edad o más para activar una cuenta Centiva.",,,,"You must be at least 13 years old or above to activate a Centiva account."
+third_agreement,"Centiva no recibe, almacena ni comparte con terceros su información de salud.",,,,"Centiva does not receive, store, or share with any third party your health information."
+fourth_agreement,"Sus datos básicos de salud y demográficos, así como los datos de su billetera, se cifran con su PIN y se almacenan en el almacenamiento local de su dispositivo móvil. Cualquier información que proporcione a los buscadores de su información de salud se transmite directamente desde su dispositivo al buscador.",,,,"Your basic health and demographic data, as well as wallet data, is encrypted with your PIN and stored on your mobile device’s local storage. Any data you provide to seekers of your health information is transmitted directly from your device to the seeker."
+fifth_agreement,"Usted es el único responsable de la custodia de su información, incluidos su PIN y las copias de seguridad de su billetera.",,,,"You are solely responsible for the safekeeping of your information, including your PIN and wallet backups."
+sixth_agreement,"Cuando proporciona datos solicitados por un buscador a través de esta plataforma, las políticas de privacidad y los términos de servicio del buscador son aplicables a los datos proporcionados, así como a los incentivos ofrecidos por el buscador.",,,,"When you provide data requested by a seeker through this platform, the seeker’s privacy policies and terms of service are applicable to provided data as well as the incentives offered by the seeker."
+agree_description,"Al elegir ""Aceptar"" a continuación, usted acepta estar sujeto a nuestros términos de uso y política de privacidad (vinculado a continuación). Estos Términos de uso afectan sus derechos y obligaciones legales. Si no acepta estar obligado por todos estos Términos de uso, no acceda ni use el Servicio.",,,,"By choosing ""Agree"" below, you agree to be bound by our terms of use and privacy policy (linked below). These Terms of Use affect your legal rights and obligations. If you do not agree to be bound by all of these Terms of Use, do not access or use the Service."
+term_of_use,"Términos de Uso",,,,"Terms of Use"
+privacy_policy,"Política de privacidad",,,,"Privacy policy"
+and_of_term_policy,Y,,,,And
+decline_and_abort_registration,Disminución,,,,Decline
+title_decline_and_abort_registration,"Debes aceptar los Términos y la Política de privacidad para continuar",,,,"You must agree the Terms and Pivacy Policy to continue"
+message_decline_and_abort_resgistration,"¿Realmente quieres salir de la aplicación?",,,,"Do you really want to exit the application?"
+not_enough_xem_warning,"Su billetera no tiene suficiente XEM para completar esta transacción.",,,,"Your wallet does not have enough XEM to complete this transaction."
+please_get_more_xem,"Por favor, obtenga más XEM ",,,,"Please get more XEM "
+here,aquí,,,,here
+message_permission_accept,"Este acceso se usará solo para asegurar su registro en la plataforma Centiva. La aplicación no realiza ni recibe llamadas telefónicas.",,,,"This access will be used only to secure your registration on the Centiva platform. The app does not make or receive any telephone calls."
+language,Idioma:,,,,Language:
+app_settings,"Ajustes de Aplicacion",,,,"App Settings"
+app_language,"Idioma de la aplicación",,,,"App language"
+only_show_query_in_language,"Mostrar solo consultas en",,,,"Only show queries in"
+faq,"Preguntas más frecuentes",,,,FAQ
+feedback_to_email,"Enviar comentarios",,,,"Send feedback"
+SENT,expedido,,,,sent
+MESSAGE,mensaje,,,,message
+TIME_TRANSACTION_DETAIL,Hora,,,,Time
+MAIL_SHARE_ERROR_TITLE,"No cuenta de correo electrónico configurada",,,,"No Email Account Configured"
+MAIL_SHARE_ERROR_SUB_TITLE,"Configure una cuenta de correo electrónico para enviar correos electrónicos.",,,,"Please set up an email account in order to send email."
+SHARE_OPTION_TITLE,"Elige una aplicación",,,,"Pick an app"
+STORE_BACKUP_PHRASE_BUTTON,"Guardar frase de respaldo",,,,"Store Backup Phrase"
+PASTE_BACKUP_PHRASE,"Pegar frase de respaldo",,,,"Paste Backup Phrase"
+REFERRAL_CARD_TITLE,"Invita a un contacto",,,,"Invite a Contact"
+REFERRAL_DESCRIPTION,"Invita un contacto a Centiva",,,,"Invite a contact to Centiva"
+REFERRAL_SUBDESCRIPTION,"y ayudar a hacer crecer la plataforma",,,,"and help grow the platform"
+COPY_BUTTON,"Copiar enlace de referencia",,,,"Copy Referral Link"
+QR_CODE_SHARE_DESCRIPTION,"O haga que su contacto escanee este código QR.",,,,"Or have your contact scan this QR code."
+TOKEN_DESCRIPTION,Fichas,,,,Tokens
+REDEEM_POPUP_TITLE,Redención,,,,Redemption
+REDEEM_POPUP_MESSAGE,"El cupón será enviado a la ",,,,"The coupon will be sent to the "
+REDEEM_SUCCESSFUL_MESSAGE,"Redención exitosa. Recibirá información de reclamo en breve.",,,,"Redemption successful. You will receive claim information shortly."
+REDEEM_HIGLIGHTS,Destacar,,,,Highlights
+REDEEM_TOKEN_REQUIRED_DESCRIPTION,"Se requieren tokens DHP",,,,"DHP Tokens required"
+REDEEM_QUANTITY_DESCRIPTION,"Usted obtiene",,,,"You get"
+REDEEM_BUTTON,"Canjear ahora",,,,"Redeem Now"
+INFO,Informacion,,,,Info
+USER_INFO_REDEMPTION,Redención,,,,Redemption
+USER_INFO_REDEMPTION_BUTTON,Redimir,,,,Redeem
+AVAILABLE_QUERIES_HOME_PAGE,Disponible,,,,Available
+COPY_CONFIRMATION_DETAIL,"Copiar detalles de confirmación",,,,"Copy Confirmation Details"
+COPYRIGHT,"Derechos de autor & # 9400; Fundación HIT 2020",,,,"Copyright &#9400; HIT Foundation 2020"
+APP_VERSION,"Version de aplicacion",,,,"App version"
+DEVICE_MODEL,"Modelo de dispositivo",,,,"Device model"
+OS_VERSION,"versión del sistema operativo",,,,"OS version"
+MANUFACTURER,Fabricante,,,,Manufacturer
+COPY,Copiar,,,,Copy
+ABOUT,"Acerca de",,,,About
+OK,Okay,,,,Ok
+REENTER_HEALTH_DATA_TITLE,"Los datos de salud están vacíos.",,,,"Health data is empty"
+REENTER_HEALTH_DATA_MESSAGE,"No se pudieron leer los datos de salud después de la actualización de la aplicación, vuelva a ingresar",,,,"Health data could not be read following app update, please reenter"
+VERIFY_PHONE_AGAIN_TITLE,"Verificación de SMS fallida",,,,"SMS verification failed"
+VERIFY_PHONE_AGAIN_MESSAGE,"Para completar su registro, verifique nuevamente",,,,"To complete your registration, please verify again"
+PLEASE_GET_MORE_HIT,"Por favor obtenga más DHP",,,,"Please get more DHP"
+GET_SMS_CODE_FAIL_TITLE,"Error al recibir el código de SMS",,,,"Failed to receive SMS code"
+GET_SMS_CODE_FAIL_CONTENT,"El formato del número de teléfono debe ser [+] [código de país] [número de suscriptor, incluido el código de área].",,,,"The format of the phone number must be [+][country code][subcriber number including area code]."
+INCOMPLETE_BASIC_HEATH_TITLE,"Datos básicos de salud incompletos",,,,"Incomplete basic health data"
+INCOMPLETE_BASIC_HEATH_CONTENT,"Mantenga su información de salud básica completa y actualizada para aprovechar al máximo la aplicación Centiva. Esta información se almacena solo en su dispositivo y se utiliza para seleccionar las solicitudes aplicables a usted. No se comparte con nadie.",,,,"Please keep your basic health information complete and up to date in order to get the most out of the Centiva app. This information is stored only on your device and used for selecting requests applicable to you. It is not shared with anyone."
+REDEMPTION_DETAILS,"Detalles de canje",,,,"Redemption details"
+SHOW_DETAILS_USER_DATA,"Mostrar detalles",,,,"Show Details"
+REDEMPTION_ID_DESCRIPTION,"ID de canje:",,,,"Redemption ID:"
+OFFER_PAGE_TITLE,"Detalles de la oferta",,,,"Offer Details"
+BY_CHOOSING_AGREE,"Al elegir ""Aceptar"", acepta nuestro ",,,,"By choosing ""Agree"" you accept our "
+VERIFY_PROVIDER,"Proveedor agregado",,,,"Provider Added"
+PROVIDER_NAME,"Nombre del proveedor",,,,"Provider name"
+PROVIDER_ADDR,"Dirección del proveedor",,,,"Provider address"
+YOUR_ID,"Tu identificación",,,,"Your id"
+VERIFY_PROVIDER_FAIL,"La información del proveedor no es válida.",,,,"The provider information is not valid."
+VERIFY_PROVIDER_SUCCESS,"El proveedor se agregó con éxito.",,,,"The provider was added successfully."
+VERIFY,Verificar,,,,Verify
+PROVIDER_LIST,Proveedores,,,,Providers
+VERIFY_PROVIDER_TITLE_FAIL,"Informacion invalida",,,,"Invalid information"
+ALREADY_ADDED_PROVIDER,"Proveedor ya registrado",,,,"Provider already registered"
+VERIFY_MNEMONIC_SAVE_BUTTON,Salvar,,,,Save
+TITLE_VERIFY_MNEMONIC,"Verificar respaldo",,,,"Verify backup"
+NUMBER_KEYBOARD_1,1,,,,1
+NUMBER_KEYBOARD_2,2,,,,2
+NUMBER_KEYBOARD_3,3,,,,3
+NUMBER_KEYBOARD_4,"4 4",,,,4
+NUMBER_KEYBOARD_5,"5 5",,,,5
+NUMBER_KEYBOARD_6,"6 6",,,,6
+NUMBER_KEYBOARD_7,"7 7",,,,7
+NUMBER_KEYBOARD_8,8,,,,8
+NUMBER_KEYBOARD_9,"9 9",,,,9
+NUMBER_KEYBOARD_0,"0 0",,,,0
+ADD_PROVIDER_TITLE,"Añadir proveedor",,,,"Add Provider"
+REVIEW_PROVIDER_TITLE,Proveedor,,,,Provider
+PATIENT_NAME,"Nombre del paciente",,,,"Patient name"
+NAME_NOT_PROVIDE,"Nombre no proporcionado",,,,"Name not provided"
+QR_SCAN_CONNECTION_ERROR,"Error de conexión",,,,"Connection error"
+QR_SCAN_USE_THE_SAME_ID_ERROR,"Esta identificación ya se usó",,,,"This ID already used"
+QR_SCAN_VERIFY_DATA_FALSE,"Error al verificar los datos",,,,"Failed to verify data"
+QR_SCAN_VERIFY_DATA_AGAIN_FALSE,"Error al verificar los datos",,,,"Failed to verify data"
+ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS,"Dirección no encontrada en la lista de buscadores autorizados",,,,"Address not found in list of authorized seekers"
+consent_alert_title,"Abrir URL en el navegador",,,,"Open URL in browser"
+consent_alert_agree,Seguir,,,,Continue
+fourth_agreement_covid,"Sus datos demográficos y de salud básicos se cifran con su PIN y se almacenan en el almacenamiento local de su dispositivo móvil. Cualquier información que proporcione a los buscadores de su información de salud se transmite directamente desde su dispositivo al buscador.",,,,"Your basic health and demographic data is encrypted with your PIN and stored on your mobile device’s local storage. Any data you provide to seekers of your health information is transmitted directly from your device to the seeker."
+fifth_agreement_covid,"Usted es el único responsable de la custodia de su información, como su PIN y las credenciales de correo electrónico de la cuenta.",,,,"You are solely responsible for the safekeeping of your information such as your PIN and account email credentials."
+covid19_homepage_status,"Estado actual",,,,"Current status"
+covid19_homepage_status_2,"Diagnosticado con COVID-19",,,,"Diagnosed with COVID-19"
+covid19_homepage_status_1,"Observando síntomas",,,,"Observing symptoms"
+covid19_homepage_status_0,Sano,,,,Healthy
+covid19_homepage_tested_question,"¿Te han hecho la prueba de COVID-19?",,,,"Have you been tested for COVID-19?"
+covid19_test_questions_title,"Prueba COVID-19",,,,"COVID-19 Testing"
+covid19_test_location,"Lugar donde se realizó la prueba COVID-19",,,,"Location where COVID-19 test was performed"
+covid19_test_diagnosed_question,"Como le han diagnosticado positivamente con COVID-19, ¿le gustaría compartir esta información con las personas con las que ha estado en contacto físico recientemente para apoyar el seguimiento y localización de la transmisión?",,,,"As you have been positively diagnosed with COVID-19, would you like to share this information with people you have recently been in physical contact with?"
+covid19_inform_contact_description,"Informe a un contacto del resultado de su prueba COVID-19",,,,"Inform a contact of your COVID-19 test outcome"
+covid19_inform_contact_sub_description,"(con quién ha estado en contacto en los últimos 10 días)",,,,"(who you have been in contact with within the last 10 days)"
+covid19_invited_description,"Has sido invitado por un contacto. Invite a contactos que puedan estar interesados en rastrear los síntomas.",,,,"You have been invited by a contact. Invite contacts who may be interested in tracking symptoms."
+covid19_invite_description,"Invite a contactos que puedan estar interesados en rastrear los síntomas.",,,,"Invite contacts who may be interested in tracking symptoms."
+covid19_information_description,"Durante los próximos días / semanas, recibirá cuestionarios a través de la aplicación (en su bandeja de entrada) para controlar sus síntomas y asesorar sobre los próximos pasos posibles.",,,,"During the coming days/weeks, you will receive questionnaires via the app (in your inbox) to monitor your symptoms and advise on potential next steps."
+covid19_test_location_label,"Lugar donde se realizó la prueba COVID-19",,,,"Location where COVID-19 test was performed"
+covid19_search_address_label,"Buscar dirección",,,,"Search for address"
+covid19_test_date_label,"Fecha en que se realizó la prueba COVID-19",,,,"Date when COVID-19 test was performed"
+covid19_day_label,Día,,,,Day
+covid19_month_label,Mes,,,,Month
+covid19_year_label,Año,,,,Year
+covid19_test_outcome_label,"Resultado de la prueba COVID-19",,,,"Outcome of COVID-19 test"
+covid19_test_outcome_positive_label,Positivo,,,,"Positive (Diagnosed with COVID-19)"
+covid19_test_outcome_negative_label,Negativo,,,,"Negative (No infection)"
+covid19_test_outcome_shareable_label,"¿Le gustaría compartir el resultado de su prueba COVID-19 de forma anónima con el custodio de datos para apoyar la lucha contra el coronavirus?",,,,"Would you like to share the outcome of your COVID-19 test anonymously with the data custodian to support the fight against the coronavirus?"
+covid19_yes_label,si,,,,Yes
+covid19_no_label,No,,,,No
+covid19_invite_contact_title,Compartir,,,,Share
+covid19_invite_contact_share_reminder,"¿Desea compartir el resultado de su prueba COVID-19 al informar a los contactos?",,,,"Do you want to share your COVID-19 test outcome when informing contacts?"
+covid19_invite_contact_tap_link_description,"Toque el enlace a continuación para invitar contactos.",,,,"Tap the link below to invite contacts."
+verify_email_1_title,"Ingresa con e-mail",,,,"Sign up with email"
+verify_email_1_get_email_description,"Por favor proporcione su dirección de correo electrónico. Se enviará un enlace de verificación a esta dirección de correo electrónico. Debe abrirse en este dispositivo para completar el inicio de sesión de la aplicación.",,,,"Please provide your email address. A verification link will be sent to this email address. It must be opened on this device in order to complete app sign-in."
+verify_email_1_email_description,"Correo electrónico",,,,Email
+verify_email_1_invalid_email_1,"¡Email inválido!",,,,"Invalid email!"
+verify_email_1_send_sign_in_email_button,"Enviar correo electrónico de inicio de sesión",,,,"Send sign in email"
+verify_email_2_title,"Verificar correo electrónico",,,,"Verify email"
+verify_email_2_get_link_description,"Haga clic en el enlace de verificación en este dispositivo para completar el inicio de sesión en la aplicación",,,,"Please click on the verification link on this device to complete app sign-in"
+covid19_symptoms_question,"¿Sufres alguno de los siguientes síntomas?",,,,"Are you suffering from any of the following symptoms?"
+covid19_symptoms_cough_label,Tos,,,,Cough
+covid19_symptoms_fever_label,Fiebre,,,,Fever
+covid19_symptoms_tiredness_label,Cansancio,,,,Tiredness
+covid19_symptoms_difficult_breathing_label,"Respiración dificultosa",,,,"Difficulty breathing"
+covid19_close_contact_question,"¿Alguien le notificó recientemente que le dieron un resultado positivo para COVID-19 y usted ha estado en contacto cercano con esa persona durante los 10 días anteriores a la prueba?",,,,"Has someone recently notified you of being tested positively for COVID-19, and you have been in close contact with that person within the 10 days before the test?"
+covid19_close_proximity_positive_question,"Como ha estado en contacto con un paciente con COVID-19 diagnosticado positivamente, siga las instrucciones locales de autoaislamiento (no salga de su casa por otra cosa que no sean necesidades críticas, alimentos, medicamentos, etc.)",,,,"As you have been in contact with a positively diagnosed COVID-19 patient, please follow local self-isolation guidance (not leaving your house for anything other than critical needs, food, medication,etc.)"
+covid19_symptoms_shareable_question,"¿Le gustaría compartir sus síntomas de forma anónima con el custodio de datos para apoyar la lucha contra el coronavirus?",,,,"Would you like to share your symptoms anonymously with the data custodian to support the fight against the coronavirus?"
+covid19_test_questions_subtitle,"Informe el resultado de una prueba de diagnóstico",,,,"Report result of a diagnostic test"
+covid19_test_confirmed_date_label,"Fecha en que se confirmó el resultado",,,,"Date when result was confirmed"
+covid19_invite_contact_text1,"De lo contrario, puede invitar a sus contactos a usar la aplicación.",,,,"Otherwise, you can invite your contacts to use the app."
+covid19_invite_contact_text2,"Podrá editar el texto de su mensaje antes de enviarlo.",,,,"You will be able to edit the text of your message before sending."
+covid19_invite_contact_text3,"Tenga en cuenta que compartir divulgará su identidad.",,,,"Please be aware that sharing will divulge your identity."
+covid19_invite_contact_button_label,"Compartir con contactos",,,,"Share with contacts"
+covid19_0_or_1_information1,"Durante el brote de pandemia de COVID-19, es esencial reducir la velocidad de transmisión. La aplicación le permite controlar su salud y rastrear ubicaciones para informarse si corría el riesgo de contraer el virus allí. Tras un diagnóstico positivo de COVID-19, informe a los contactos que conoce, con los que ha estado en contacto directo en los últimos 10 días.",,,,"During the COVID-19 pandemic outbreak, it is essential to slow down transmission. Use Centiva Geo check-ins and QR Scans to receive alerts for areas with increased exposure risk. Upon a positive COVID-19 diagnosis, report your test, and please inform contacts with whom you have been in direct contact within the last 10 days."
+covid19_0_or_1_information2,"Siga la estrategia nacional destinada a controlar el brote pandémico de COVID-19. Si se le pide, quédese en casa y aísle, use una máscara, mantenga una distancia segura de los demás y lávese las manos con frecuencia. En cualquier momento, siga las indicaciones de su médico.",,,,"Follow the national strategy intended to control the pandemic outbreak of COVID-19. If asked to, please stay home and isolate, wear a mask, keep a safe distance from others and wash your hands frequently. At any time, follow the guidance by your doctor."
+covid19_join_now_button,"Únete ahora",,,,"Join now"
+covid19_fever_question,"¿Tiene actualmente fiebre o un episodio febril (temperatura corporal> 37.5 ° C)?",,,,"Do you have currently a fever or feverish episode (body temperature > 37.5 °C)?"
+covid19_which_symtomp_question,"¿Qué síntomas estás experimentando actualmente?",,,,"Which symptoms are you currently experiencing?"
+covid19_shortness_of_breath,"Dificultad para respirar",,,,"Shortness of breath"
+covid19_sore_throat,"Dolor de garganta",,,,"Sore Throat"
+covid19_cough,Tos,,,,Cough
+covid19_chest_pain,"Dolor en el pecho",,,,"Chest Pain"
+covid19_headache,"Dolor de cabeza",,,,Headache
+covid19_fatigue,Fatiga,,,,Fatigue
+covid19_nausea,Náusea,,,,Nausea
+covid19_muscle_pain,"Dolor muscular",,,,"Muscle pain"
+covid19_runny_nose,"Nariz que moquea",,,,"Runny nose"
+covid19_diarrhea,Diarrea,,,,Diarrhea
+covid19_lost_of_smell_or_taste,"Pérdida del olfato o del gusto (sin tener la nariz tapada)",,,,"Loss of smell or taste (w/o having a blocked nose)"
+covid19_daily_check_button,"Chequeo diario",,,,"Daily Check"
+covid19_test_report_button,"Informar una prueba",,,,"Report a Test"
+covid19_share_with_contacts,"Compartir con contactos",,,,"Share with contacts"
+covid19_user_location_label,"Tu ubicación",,,,"Your location"
+covid19_symptom_questions_title,"Comprobación diaria de síntomas",,,,"Daily Symptom Check"
+covid19_check_in_successful_card,"Check-in exitoso: ",,,,"Check-in successful: "
+covid19_keep_your_health_status_update_reminder,"Mantenga actualizado su estado de salud:",,,,"Keep your health status up to date:"
+covid19_keep_others_safe_reminder,"Mantenga a otros a salvo:",,,,"Keep others safe:"
+covid_19_questionnaire_test_no_response_1,"Actualmente, no hay signos de que esté en riesgo de haber contraído el nuevo coronavirus. Respete las restricciones establecidas por su gobierno. ¡Asegúrese de practicar una buena higiene y distanciamiento físico!",,,,"Currently, there is no sign that you are at risk of having contracted the new coronavirus. Please adhere to the restrictions that have been set by your government. Make sure you are practicing good hygiene and physical distancing!"
+covid_19_questionnaire_test_no_response_2,"De acuerdo con su edad y condiciones preexistentes, debe controlar sus síntomas de forma regular.",,,,"According to your age and/or preexisting conditions you should monitor your symptoms on a regular basis."
+covid_19_questionnaire_test_no_response_3,"Reportó dificultad para respirar, tos y temperatura alta, llame a su médico o al hospital de inmediato. Indique que está llamando en relación con el nuevo coronavirus y que está en alto riesgo. Describe tus síntomas.",,,,"You reported shortness of breath, a cough and high temperature, call your doctor or a hospital immediately. State that you are calling in connection with the new coronavirus and that you are at high risk. Describe your symptoms."
+covid_19_questionnaire_test_no_response_4,"Experimenta síntomas relacionados con COVID-19 y ha estado en contacto con una persona diagnosticada con COVID-19. Existe una alta probabilidad de que haya contraído el nuevo coronavirus. Debe permanecer en casa durante al menos diez días y controlar sus síntomas.",,,,"You experience symptoms related to COVID-19, or you have been in contact with a person diagnosed with COVID-19. There is some likelihood that you have contracted the new coronavirus. You should monitor your symptoms."
+covid_19_questionnaire_test_no_understood_button,Entendido,,,,Understood
+covid_19_share_location_data_question,"¿Acepta compartir sus datos de registro de ubicación con el custodio de datos para alertar anónimamente a otros usuarios?",,,,"Do you agree to share your location check-in data with the data custodian in order to anonymously alert other users?"
+LANGUAGES.it,italiano,,,,Italian
+covid19_check_in_disabled,"Los registros no son compatibles con el diagnóstico de COVID-19.",,,,"Check-ins are not supported upon being diagnosed with COVID-19."
+warning,Advertencia,,,,Warning
+covid19_risk_alert,"Alerta de riesgo Covid-19",,,,"COVID-19 Risk Alert"
+covid19_risk_alert_info,"Un lugar que visitó tenía un mayor riesgo de exposición mientras estuvo aquí.",,,,"A location you visited had an increased exposure risk while you were there."
+covid19_alert_details_title,"Alerta de contacto Covid-19",,,,"COVID-19 Contact Alert"
+covid19_alert_details_info,"Una ubicación que visitó tenía un mayor riesgo de exposición mientras estuvo allí ",,,,"A location you visited had an increased exposure risk while you were there on the "
+covid19_alert_observe_symptoms,"Observe sus síntomas de manera activa durante los próximos días y aísle de manera apropiada según corresponda.",,,,"Please observe your symptoms actively over the coming days, and self isolate as appropriate."
+covid19_other_symtomps_placeholder,"Otro (indicar)",,,,"Other (please indicate)"
+covid_19_related_factors_first_question,"¿Está tomando medicamentos regularmente para:",,,,"Are you regularly taking medication for:"
+covid_19_related_factors_on_meds_hypertension,¿Hipertensión?,,,,"High Blood Pressure?"
+covid_19_related_factors_on_meds_diabetes,¿Diabetes?,,,,Diabetes?
+covid_19_related_factors_chronic_respirator_issues,"¿Problemas respiratorios crónicos (es decir, EPOC, asma, etc.)?",,,,"Chronic respiratory issues (i.e., COPD, asthma, etc.)?"
+covid_19_related_factors_on_meds_immunosuppression,"¿Inmunosupresión (por ejemplo, después de un trasplante de órgano)?",,,,"Immunosuppression (e.g. after organ transplantation)?"
+covid_19_related_factors_chemo_or_radio_therapy,"¿O está recibiendo quimioterapia / radioterapia para el tratamiento del cáncer?",,,,"Or are you undergoing chemo-/radiotherapy for cancer treatment?"
+covid_19_related_factors_second_question,"¿Estás sufriendo alguna de las siguientes enfermedades?",,,,"Are you suffering from any of the following diseases?"
+covid_19_related_factors_chronic_neurological_issues,"¿Problemas neurológicos crónicos (es decir, enfermedad de Parkinson, EM, etc.)?",,,,"Chronic neurological issues (i.e., Parkinson’s disease, MS, etc.)?"
+covid_19_related_factors_weakened_immune_system,"Sistema inmunitario debilitado (p. Ej., En tratamiento con esteroides)?",,,,"Weakened immune system (e.g., on steroidal treatment)?"
+covid_19_related_factors_blood_cancer,"Cáncer de sangre (leucemia) en cualquier etapa del tratamiento?",,,,"Blood cancer (leukemia) at any stage of treatment?"
+covid_19_related_factors_chronic_kidney_issues,"Problemas renales crónicos?",,,,"Chronic kidney issues?"
+covid_19_related_factors_chronic_heart_issues,"¿Problemas cardíacos crónicos (es decir, insuficiencia cardíaca)?",,,,"Chronic heart issues (i.e., heart failure)?"
+covid_19_related_factors_chronic_liver_issues,"¿Problemas hepáticos crónicos (es decir, hepatitis)?",,,,"Chronic liver issues (i.e., hepatitis)?"
+covid_19_related_factors_HIV_AIDS,"VIH / SIDA?",,,,HIV/AIDS?
+covid19_respiratory,"Síntomas respiratorios, p. tos",,,,"Respiratory symptoms, such as cough (usually dry), sore throat, shortness of breath"
+covid19_conjunctivitis,Conjuntivitis,,,,Conjunctivitis
+covid19_headcold,"Cabeza fría",,,,"Head cold"
+covid19_head_cold,"Cabeza fría",,,,"Head cold"
+searchable_place_holder,Buscar,,,,Search
+covid19_enter_place,"Ingrese solo ciudad / pueblo / aldea",,,,"Enter city/town/village only"
+covid19_enter_post_code,"Ingrese el código postal",,,,"Enter postal code"
+covid19_share_with_contacts_content1,"Ha estado en contacto con alguien a quien recientemente le diagnosticaron COVID-19. Por favor rastrea tus síntomas.",,,,"You have been in contact with someone who has recently been diagnosed with COVID-19. Please track your symptoms."
+covid19_share_with_contacts_content2,"¡Me gustaría compartir la aplicación Centiva con ustedes porque juntos podemos evitar que se propague el nuevo coronavirus!",,,,"I'd like to share the Centiva app with you because together we can prevent the new coronavirus from spreading!"
+covid19_check_in_button,Registrarse,,,,"Check in"
+covid19_risk_alert_info_verified,"Uno de los lugares que visitó tenía un alto riesgo de exposición.",,,,"One of the locations you visited had a high risk of exposure."
+covid_19_related_factors_adipositas,"Grado de obesidad lll (mórbido, IMC ≥ 40 kg / m²)",,,,"Obesity grade lll (morbid, BMI ≥ 40 kg/m²)"
+covid19_symptoms_version,"Recomendación de BAG a partir del 15 de mayo de 2020",,,,"BAG recommendation as of 15 May 2020"
+covid19_test_has_verification_code,"¿Has recibido un código de verificación?",,,,"Have you received a verification code?"
+choose_map_check_in,"Ubicación actual",,,,"Current Location"
+choose_qr_check_in,"Escanear código QR",,,,"Scan QR Code"
+covid19_check_in_button_home,"Registro de ubicación",,,,"Location Check in"
+covid19_test_verification_label,"Código de verificación",,,,"Verification code"
+covid19_test_verification_placeholder,"Ingrese el código de verificación",,,,"Enter verification code"
+covid19_test_basic_health_label,"Salud básica",,,,"Basic health"
+covid19_test_gender_label,Género,,,,Gender
+covid19_test_age_bracket_label,"Grupo de edad",,,,"Age bracket"
+send_feedback_email_title,retroalimentación,,,,feedback
+send_feed_back_email_title,"Comentarios del usuario de la aplicación",,,,"Feedback from app user"
+invite_contact_share_by_email,"Compartir por correo electrónico",,,,"Share by email"
+invite_contact_share_as_message,"Compartir como mensaje",,,,"Share as message"
+covid19_invite_contact_subject,"COVID-19 por Centiva",,,,"COVID-19 by Centiva"
+pub_health_fourth_agreement,"Your basic health and demographic data is encrypted with your PIN and stored on your mobile device’s local storage. Any data you provide to seekers of your health information is transmitted directly from your device to the seeker.",,,,"Your basic health and demographic data is encrypted with your PIN and stored on your mobile device’s local storage. Any data you provide to seekers of your health information is transmitted directly from your device to the seeker."
+pub_health_fifth_agreement,"You are solely responsible for the safekeeping of your information such as your PIN and account email credentials.",,,,"You are solely responsible for the safekeeping of your information such as your PIN and account email credentials."
+pub_health_homepage_status,"Current status",,,,"Current status"
+pub_health_homepage_status_2,"Diagnosed with COVID-19",,,,"Diagnosed with COVID-19"
+pub_health_homepage_status_1,"Observing symptoms",,,,"Observing symptoms"
+pub_health_homepage_status_0,Healthy,,,,Healthy
+pub_health_homepage_tested_question,"Have you been tested for COVID-19?",,,,"Have you been tested for COVID-19?"
+pub_health_test_questions_title,"COVID-19 Testing",,,,"COVID-19 Testing"
+pub_health_test_location,"Location where COVID-19 test was performed",,,,"Location where COVID-19 test was performed"
+pub_health_test_diagnosed_question,"As you have been positively diagnosed with COVID-19, would you like to share this information with people you have recently been in physical contact with?",,,,"As you have been positively diagnosed with COVID-19, would you like to share this information with people you have recently been in physical contact with?"
+pub_health_inform_contact_description,"Inform a contact of your COVID-19 test outcome",,,,"Inform a contact of your COVID-19 test outcome"
+pub_health_inform_contact_sub_description,"(who you have been in contact with within the last 10 days)",,,,"(who you have been in contact with within the last 10 days)"
+pub_health_invited_description,"You have been invited by a contact. Invite contacts who may be interested in tracking symptoms.",,,,"You have been invited by a contact. Invite contacts who may be interested in tracking symptoms."
+pub_health_invite_description,"Invite contacts who may be interested in tracking symptoms.",,,,"Invite contacts who may be interested in tracking symptoms."
+pub_health_information_description,"During the coming days/weeks, you will receive questionnaires via the app (in your inbox) to monitor your symptoms and advise on potential next steps.",,,,"During the coming days/weeks, you will receive questionnaires via the app (in your inbox) to monitor your symptoms and advise on potential next steps."
+pub_health_test_location_label,"Location where COVID-19 test was performed",,,,"Location where COVID-19 test was performed"
+pub_health_search_address_label,"Search for address",,,,"Search for address"
+pub_health_test_date_label,"Date when COVID-19 test was performed",,,,"Date when COVID-19 test was performed"
+pub_health_day_label,Day,,,,Day
+pub_health_month_label,Month,,,,Month
+pub_health_year_label,Year,,,,Year
+pub_health_test_outcome_label,"Outcome of COVID-19 test",,,,"Outcome of COVID-19 test"
+pub_health_test_outcome_positive_label,"Positive (Diagnosed with COVID-19)",,,,"Positive (Diagnosed with COVID-19)"
+pub_health_test_outcome_negative_label,"Negative (No infection)",,,,"Negative (No infection)"
+pub_health_test_outcome_shareable_label,"Would you like to share the outcome of your COVID-19 test anonymously with the data custodian to support the fight against the coronavirus?",,,,"Would you like to share the outcome of your COVID-19 test anonymously with the data custodian to support the fight against the coronavirus?"
+pub_health_yes_label,Yes,,,,Yes
+pub_health_no_label,No,,,,No
+pub_health_invite_contact_title,Share,,,,Share
+pub_health_invite_contact_share_reminder,"Do you want to share your COVID-19 test outcome when informing contacts?",,,,"Do you want to share your COVID-19 test outcome when informing contacts?"
+pub_health_invite_contact_tap_link_description,"Tap the link below to invite contacts.",,,,"Tap the link below to invite contacts."
+pub_health_symptoms_question,"Are you suffering from any of the following symptoms?",,,,"Are you suffering from any of the following symptoms?"
+pub_health_symptoms_cough_label,Cough,,,,Cough
+pub_health_symptoms_fever_label,Fever,,,,Fever
+pub_health_symptoms_tiredness_label,Tiredness,,,,Tiredness
+pub_health_symptoms_difficult_breathing_label,"Difficulty breathing",,,,"Difficulty breathing"
+pub_health_close_contact_question,"Has someone recently notified you of being tested positively for COVID-19, and you have been in close contact with that person within the 10 days before the test?",,,,"Has someone recently notified you of being tested positively for COVID-19, and you have been in close contact with that person within the 10 days before the test?"
+pub_health_close_proximity_positive_question,"As you have been in contact with a positively diagnosed COVID-19 patient, please follow local self-isolation guidance (not leaving your house for anything other than critical needs, food, medication,etc.)",,,,"As you have been in contact with a positively diagnosed COVID-19 patient, please follow local self-isolation guidance (not leaving your house for anything other than critical needs, food, medication,etc.)"
+pub_health_symptoms_shareable_question,"Would you like to share your symptoms anonymously with the data custodian to support the fight against the coronavirus?",,,,"Would you like to share your symptoms anonymously with the data custodian to support the fight against the coronavirus?"
+pub_health_test_questions_subtitle,"Report result of a diagnostic test",,,,"Report result of a diagnostic test"
+pub_health_test_confirmed_date_label,"Date when result was confirmed",,,,"Date when result was confirmed"
+pub_health_invite_contact_text1,"Otherwise, you can invite your contacts to use the app.",,,,"Otherwise, you can invite your contacts to use the app."
+pub_health_invite_contact_text2,"You will be able to edit the text of your message before sending.",,,,"You will be able to edit the text of your message before sending."
+pub_health_invite_contact_text3,"Please be aware that sharing will divulge your identity.",,,,"Please be aware that sharing will divulge your identity."
+pub_health_invite_contact_button_label,"Share with contacts",,,,"Share with contacts"
+pub_health_0_or_1_information1,"During the COVID-19 pandemic outbreak, it is essential to slow down transmission. Use Centiva Geo check-ins and QR Scans to receive alerts for areas with increased exposure risk. Upon a positive COVID-19 diagnosis, report your test, and please inform contacts with whom you have been in direct contact within the last 10 days.",,,,"During the COVID-19 pandemic outbreak, it is essential to slow down transmission. Use Centiva Geo check-ins and QR Scans to receive alerts for areas with increased exposure risk. Upon a positive COVID-19 diagnosis, report your test, and please inform contacts with whom you have been in direct contact within the last 10 days."
+pub_health_0_or_1_information2,"Follow the national strategy intended to control the pandemic outbreak of COVID-19. If asked to, please stay home and isolate, wear a mask, keep a safe distance from others and wash your hands frequently. At any time, follow the guidance by your doctor.",,,,"Follow the national strategy intended to control the pandemic outbreak of COVID-19. If asked to, please stay home and isolate, wear a mask, keep a safe distance from others and wash your hands frequently. At any time, follow the guidance by your doctor."
+pub_health_join_now_button,"Join now",,,,"Join now"
+pub_health_fever_question,"Do you have currently a fever or feverish episode (body temperature > 37.5 °C)?",,,,"Do you have currently a fever or feverish episode (body temperature > 37.5 °C)?"
+pub_health_which_symtomp_question,"Which symptoms are you currently experiencing?",,,,"Which symptoms are you currently experiencing?"
+pub_health_shortness_of_breath,"Shortness of breath",,,,"Shortness of breath"
+pub_health_sore_throat,"Sore Throat",,,,"Sore Throat"
+pub_health_cough,Cough,,,,Cough
+pub_health_chest_pain,"Chest Pain",,,,"Chest Pain"
+pub_health_headache,Headache,,,,Headache
+pub_health_fatigue,Fatigue,,,,Fatigue
+pub_health_nausea,Nausea,,,,Nausea
+pub_health_muscle_pain,"Muscle pain",,,,"Muscle pain"
+pub_health_runny_nose,"Runny nose",,,,"Runny nose"
+pub_health_diarrhea,Diarrhea,,,,Diarrhea
+pub_health_lost_of_smell_or_taste,"Loss of smell or taste (w/o having a blocked nose)",,,,"Loss of smell or taste (w/o having a blocked nose)"
+pub_health_daily_check_button,"Daily Check",,,,"Daily Check"
+pub_health_test_report_button,"Report a Test",,,,"Report a Test"
+pub_health_share_with_contacts,"Share with contacts",,,,"Share with contacts"
+pub_health_user_location_label,"Your location",,,,"Your location"
+pub_health_symptom_questions_title,"Daily Symptom Check",,,,"Daily Symptom Check"
+pub_health_check_in_successful_card,"Check-in successful: ",,,,"Check-in successful: "
+pub_health_keep_your_health_status_update_reminder,"Keep your health status up to date:",,,,"Keep your health status up to date:"
+pub_health_keep_others_safe_reminder,"Keep others safe:",,,,"Keep others safe:"
+pub_health_questionnaire_test_no_response_1,"Currently, there is no sign that you are at risk of having contracted the new coronavirus. Please adhere to the restrictions that have been set by your government. Make sure you are practicing good hygiene and physical distancing!",,,,"Currently, there is no sign that you are at risk of having contracted the new coronavirus. Please adhere to the restrictions that have been set by your government. Make sure you are practicing good hygiene and physical distancing!"
+pub_health_questionnaire_test_no_response_2,"According to your age and/or preexisting conditions you should monitor your symptoms on a regular basis.",,,,"According to your age and/or preexisting conditions you should monitor your symptoms on a regular basis."
+pub_health_questionnaire_test_no_response_3,"You reported shortness of breath, a cough and high temperature, call your doctor or a hospital immediately. State that you are calling in connection with the new coronavirus and that you are at high risk. Describe your symptoms.",,,,"You reported shortness of breath, a cough and high temperature, call your doctor or a hospital immediately. State that you are calling in connection with the new coronavirus and that you are at high risk. Describe your symptoms."
+pub_health_questionnaire_test_no_response_4,"You experience symptoms related to COVID-19, or you have been in contact with a person diagnosed with COVID-19. There is some likelihood that you have contracted the new coronavirus. You should monitor your symptoms.",,,,"You experience symptoms related to COVID-19, or you have been in contact with a person diagnosed with COVID-19. There is some likelihood that you have contracted the new coronavirus. You should monitor your symptoms."
+pub_health_questionnaire_test_no_understood_button,Understood,,,,Understood
+pub_health_share_location_data_question,"Do you agree to share your location check-in data with the data custodian in order to anonymously alert other users?",,,,"Do you agree to share your location check-in data with the data custodian in order to anonymously alert other users?"
+pub_health_check_in_disabled,"Check-ins are not supported upon being diagnosed with COVID-19.",,,,"Check-ins are not supported upon being diagnosed with COVID-19."
+pub_health_risk_alert,"COVID-19 Risk Alert",,,,"COVID-19 Risk Alert"
+pub_health_risk_alert_info,"A location you visited had an increased exposure risk while you were there.",,,,"A location you visited had an increased exposure risk while you were there."
+pub_health_alert_details_title,"COVID-19 Contact Alert",,,,"COVID-19 Contact Alert"
+pub_health_alert_details_info,"A location you visited had an increased exposure risk while you were there on the ",,,,"A location you visited had an increased exposure risk while you were there on the "
+pub_health_alert_observe_symptoms,"Please observe your symptoms actively over the coming days, and self isolate as appropriate.",,,,"Please observe your symptoms actively over the coming days, and self isolate as appropriate."
+pub_health_other_symtomps_placeholder,"Other (please indicate)",,,,"Other (please indicate)"
+pub_health_related_factors_first_question,"Are you regularly taking medication for:",,,,"Are you regularly taking medication for:"
+pub_health_related_factors_on_meds_hypertension,"High Blood Pressure?",,,,"High Blood Pressure?"
+pub_health_related_factors_on_meds_diabetes,Diabetes?,,,,Diabetes?
+pub_health_related_factors_chronic_respirator_issues,"Chronic respiratory issues (i.e., COPD, asthma, etc.)?",,,,"Chronic respiratory issues (i.e., COPD, asthma, etc.)?"
+pub_health_related_factors_on_meds_immunosuppression,"Immunosuppression (e.g. after organ transplantation)?",,,,"Immunosuppression (e.g. after organ transplantation)?"
+pub_health_related_factors_chemo_or_radio_therapy,"Or are you undergoing chemo-/radiotherapy for cancer treatment?",,,,"Or are you undergoing chemo-/radiotherapy for cancer treatment?"
+pub_health_related_factors_second_question,"Are you suffering from any of the following diseases?",,,,"Are you suffering from any of the following diseases?"
+pub_health_related_factors_chronic_neurological_issues,"Chronic neurological issues (i.e., Parkinson’s disease, MS, etc.)?",,,,"Chronic neurological issues (i.e., Parkinson’s disease, MS, etc.)?"
+pub_health_related_factors_weakened_immune_system,"Weakened immune system (e.g., on steroidal treatment)?",,,,"Weakened immune system (e.g., on steroidal treatment)?"
+pub_health_related_factors_blood_cancer,"Blood cancer (leukemia) at any stage of treatment?",,,,"Blood cancer (leukemia) at any stage of treatment?"
+pub_health_related_factors_chronic_kidney_issues,"Chronic kidney issues?",,,,"Chronic kidney issues?"
+pub_health_related_factors_chronic_heart_issues,"Chronic heart issues (i.e., heart failure)?",,,,"Chronic heart issues (i.e., heart failure)?"
+pub_health_related_factors_chronic_liver_issues,"Chronic liver issues (i.e., hepatitis)?",,,,"Chronic liver issues (i.e., hepatitis)?"
+pub_health_related_factors_HIV_AIDS,HIV/AIDS?,,,,HIV/AIDS?
+pub_health_respiratory,"Respiratory symptoms, such as cough (usually dry), sore throat, shortness of breath
+",,,,"Respiratory symptoms, such as cough (usually dry), sore throat, shortness of breath
+"
+pub_health_conjunctivitis,Conjunctivitis,,,,Conjunctivitis
+pub_health_headcold,"Head cold",,,,"Head cold"
+pub_health_head_cold,"Head cold",,,,"Head cold"
+pub_health_enter_place,"Enter city/town/village only",,,,"Enter city/town/village only"
+pub_health_enter_post_code,"Enter postal code",,,,"Enter postal code"
+pub_health_share_with_contacts_content1,"You have been in contact with someone who has recently been diagnosed with COVID-19. Please track your symptoms.",,,,"You have been in contact with someone who has recently been diagnosed with COVID-19. Please track your symptoms."
+pub_health_share_with_contacts_content2,"I'd like to share the Centiva app with you because together we can prevent the new coronavirus from spreading!",,,,"I'd like to share the Centiva app with you because together we can prevent the new coronavirus from spreading!"
+pub_health_check_in_button,"Check in",,,,"Check in"
+pub_health_risk_alert_info_verified,"One of the locations you visited had a high risk of exposure.",,,,"One of the locations you visited had a high risk of exposure."
+pub_health_related_factors_adipositas,"Obesity grade lll (morbid, BMI ≥ 40 kg/m²)",,,,"Obesity grade lll (morbid, BMI ≥ 40 kg/m²)"
+pub_health_symptoms_version,"BAG recommendation as of 15 May 2020",,,,"BAG recommendation as of 15 May 2020"
+pub_health_test_has_verification_code,"Have you received a verification code?",,,,"Have you received a verification code?"
+pub_health_check_in_button_home,"Location Check in",,,,"Location Check in"
+pub_health_test_verification_label,"Verification code",,,,"Verification code"
+pub_health_test_verification_placeholder,"Enter verification code",,,,"Enter verification code"
+pub_health_test_basic_health_label,"Basic health",,,,"Basic health"
+pub_health_test_gender_label,Gender,,,,Gender
+pub_health_test_age_bracket_label,"Age bracket",,,,"Age bracket"
+pub_health_invite_contact_subject,"COVID-19 by Centiva",,,,"COVID-19 by Centiva"
+join_now_button,"Join now",,,,"Join now"
+onboarding_bonus_description,"Onboarding bonus",,,,"Onboarding bonus"
+transaction_reward_title,"Query reward",,,,"Query reward"
+transaction_reward_description,"Reward for query",,,,"Reward for query"
+add_provider_manually_title,"Register with a provider",,,,"Register with a provider"
+add_provider_manually_description,"Scan a registration QR code, enter a provider registration link, or tap the registration link again and open using the (just installed) Centiva app. Tap <Skip> if you were not referred by your provider.",,,,"Scan a registration QR code, enter a provider registration link, or tap the registration link again and open using the (just installed) Centiva app. Tap <Skip> if you were not referred by your provider."
+remind_provider_mannually_description,"Please confirm that you wish to continue without adding a provider",,,,"Please confirm that you wish to continue without adding a provider"
+add_provider_manually_skip_btn,"Yes, continue",,,,"Yes, continue"
