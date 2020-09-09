@@ -608,8 +608,7 @@ pub_health_related_factors_chronic_kidney_issues,"Chronic kidney issues?"
 pub_health_related_factors_chronic_heart_issues,"Chronic heart issues (i.e., heart failure)?"
 pub_health_related_factors_chronic_liver_issues,"Chronic liver issues (i.e., hepatitis)?"
 pub_health_related_factors_HIV_AIDS,HIV/AIDS?
-pub_health_respiratory,"Respiratory symptoms, such as cough (usually dry), sore throat, shortness of breath
-"
+pub_health_respiratory,"Respiratory symptoms, such as cough (usually dry), sore throat, shortness of breath"
 pub_health_conjunctivitis,Conjunctivitis
 pub_health_headcold,"Head cold"
 pub_health_head_cold,"Head cold"
@@ -637,3 +636,8 @@ add_provider_manually_title,"Register with a provider"
 add_provider_manually_description,"Scan a registration QR code, enter a provider registration link, or tap the registration link again and open using the (just installed) Centiva app. Tap <Skip> if you were not referred by your provider."
 remind_provider_mannually_description,"Please confirm that you wish to continue without adding a provider"
 add_provider_manually_skip_btn,"Yes, continue"
+paste_registration_link_here,Paste registration link here
+copy_referral_link_tab,Copy link
+provide_referral_qr,Provide QR
+send_token_by_enter_address_tab,Send text
+scan_qr,Scan QR
