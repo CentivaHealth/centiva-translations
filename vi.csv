@@ -248,8 +248,8 @@ forgot_pin,"Quên mã PIN?",,,,"Forgot your PIN? "
 close_forgot_pin,Đóng,,,,Close
 forgot_pin_description,"Vui lòng cài đặt lại ứng dụng này và dùng Mã sao lưu để khôi phục ví",,,,"Please reset or re-install this app and use backup phrase to recover wallet"
 other,Khác,,,,Other
-consent_content,"Cảm ơn bạn đã sẵn sàng tham gia vào khảo sát. Bằng cách nhấp vào Đồng ý, bạn đồng ý rằng bạn sẵn sàng cung cấp dữ liệu được yêu cầu và đồng ý với dữ liệu cá nhân của bạn được xử lý như bảng khảo sát mô tả.",,,,"Thank you for your willingness to participate in the following data request. By clicking Agree, you consent that you are willing to provide the requested data and agree to your personal data being processed as described in the applicable privacy statement."
-consent_title,"Ý kiến của bạn quan trọng với chúng tôi",,,,"Your participation is appreciated"
+consent_content,"Cảm ơn bạn đã tham gia khảo sát. Bằng cách nhấp vào ""Đồng ý"", bạn chấp nhận cung cấp dữ liệu theo yêu cầu, đồng thời dữ liệu cá nhân của bạn sẽ được xử lý theo như chính sách quyền riêng tư hiện hành.",,,,"Thank you for your willingness to participate in the following data request. By clicking Agree, you consent that you are willing to provide the requested data and agree to your personal data being processed as described in the applicable privacy statement."
+consent_title,"Ý kiến của bạn rất quan trọng với chúng tôi",,,,"Your participation is appreciated"
 survey_information,"Miễn trừ trách nhiệm",,,,"Data Disclaimer"
 copy_success,"Đã sao chép",,,,Copied
 days_ago,"ngày trước",,,," days ago"
@@ -289,7 +289,7 @@ decline_and_abort_registration,"Không đồng ý",,,,Decline
 title_decline_and_abort_registration,"Bạn phải Đồng Ý điều khoản và chính sách quyền riêng tư để tiếp tục",,,,"You must agree the Terms and Pivacy Policy to continue"
 message_decline_and_abort_resgistration,"Bạn thật sự muốn thoát ứng dụng?",,,,"Do you really want to exit the application?"
 not_enough_xem_warning,"Ví của bạn không đủ XEM để thực hiện giao dịch",,,,"Your wallet does not have enough XEM to complete this transaction."
-please_get_more_xem,"Bạn vui lòng mua xem ",,,,"Please get more XEM "
+please_get_more_xem,"Bạn vui lòng mua XEM",,,,"Please get more XEM "
 here,"ở đây",,,,here
 message_permission_accept,"Quyền truy cập này sẽ chỉ được sử dụng để bảo mật đăng ký của bạn trên nền tảng Centiva. Ứng dụng này không thực hiện hoặc nhận bất kỳ cuộc gọi điện thoại nào.",,,,"This access will be used only to secure your registration on the Centiva platform. The app does not make or receive any telephone calls."
 language,"Ngôn ngữ:",,,,Language:
@@ -301,8 +301,9 @@ feedback_to_email,"Gửi phản hồi",,,,"Send feedback"
 SENT,"Đã gửi",,,,sent
 MESSAGE,"Tin nhắn",,,,message
 TIME_TRANSACTION_DETAIL,"Thời gian",,,,Time
-MAIL_SHARE_ERROR_TITLE,"Không có tài khoản Email",,,,"No Email Account Configured"
-MAIL_SHARE_ERROR_SUB_TITLE,"Vui lòng cài đặt tài khoản Email chúng tôi có thể gửi email đến địa chỉ của bạn",,,,"Please set up an email account in order to send email."
+MAIL_SHARE_ERROR_TITLE,"Chưa thiết lập tài khoản Email",,,,"No Email Account Configured"
+MAIL_SHARE_ERROR_SUB_TITLE,"Vui lòng thiết lập tài khoản Email 
+",,,,"Please set up an email account in order to send email."
 SHARE_OPTION_TITLE,"Chọn ứng dụng",,,,"Pick an app"
 STORE_BACKUP_PHRASE_BUTTON,"Lưu mã sao lưu",,,,"Store Backup Phrase"
 PASTE_BACKUP_PHRASE,"Dán mã sao lưu",,,,"Paste Backup Phrase"
@@ -325,7 +326,7 @@ USER_INFO_REDEMPTION_BUTTON,Gửi,,,,Redeem
 AVAILABLE_QUERIES_HOME_PAGE,Mới,,,,Available
 COPY_CONFIRMATION_DETAIL,"Sao chép thông tin xác nhận",,,,"Copy Confirmation Details"
 COPYRIGHT,"Bản quyền &#9400; HIT Foundation 2020",,,,"Copyright &#9400; HIT Foundation 2020"
-APP_VERSION,"Phiên bản app",,,,"App version"
+APP_VERSION,"Phiên bản ứng dụng",,,,"App version"
 DEVICE_MODEL,"Phiên bản thiết bị",,,,"Device model"
 OS_VERSION,"Phiên bản OS",,,,"OS version"
 MANUFACTURER,"Nhà sản xuất",,,,Manufacturer
@@ -628,11 +629,20 @@ pub_health_test_basic_health_label,"Basic health",,,,"Basic health"
 pub_health_test_gender_label,Gender,,,,Gender
 pub_health_test_age_bracket_label,"Age bracket",,,,"Age bracket"
 pub_health_invite_contact_subject,"COVID-19 by Centiva",,,,"COVID-19 by Centiva"
-join_now_button,"Join now",,,,"Join now"
-onboarding_bonus_description,"Onboarding bonus",,,,"Onboarding bonus"
-transaction_reward_title,"Query reward",,,,"Query reward"
-transaction_reward_description,"Reward for query",,,,"Reward for query"
-add_provider_manually_title,"Register with a provider",,,,"Register with a provider"
-add_provider_manually_description,"Scan a registration QR code, enter a provider registration link, or tap the registration link again and open using the (just installed) Centiva app. Tap <Skip> if you were not referred by your provider.",,,,"Scan a registration QR code, enter a provider registration link, or tap the registration link again and open using the (just installed) Centiva app. Tap <Skip> if you were not referred by your provider."
-remind_provider_mannually_description,"Please confirm that you wish to continue without adding a provider",,,,"Please confirm that you wish to continue without adding a provider"
-add_provider_manually_skip_btn,"Yes, continue",,,,"Yes, continue"
+join_now_button,"Tham gia ngay",,,,"Join now"
+onboarding_bonus_description,"Phần thường đăng ký",,,,"Onboarding bonus"
+transaction_reward_title,"Phần thưởng khảo sát",,,,"Query reward"
+transaction_reward_description,"Phần thưởng cho khảo sát",,,,"Reward for query"
+add_provider_manually_title,"Đăng ký nhà cung cấp",,,,"Register with a provider"
+add_provider_manually_description,"Quét mã QR đăng ký/ nhập đường dẫn đăng ký/ hoặc ấn vào và mở đường dẫn đăng ký  (chọn ứng dụng Centiva). Ấn <Bỏ qua> nếu bạn không được  giới thiệu bởi nhà cung cấp nào.",,,,"Scan a registration QR code, enter a provider registration link, or tap the registration link again and open using the (just installed) Centiva app. Tap <Skip> if you were not referred by your provider."
+remind_provider_mannually_description,"Không thêm nhà cung cấp và tiếp tục",,,,"Please confirm that you wish to continue without adding a provider"
+add_provider_manually_skip_btn,"Đồng ý, tiếp tục",,,,"Yes, continue"
+enter_9_words_backup_phrase,"Nhập mã khôi phục (9 từ)",,,,"Enter 9 words Backup Phrase"
+enter_24_words_backup_phrase,"Nhập mã khôi phục (24 từ)",,,,"Enter 24 words Backup Phrase"
+my_wallet_is_9_words_seed,"Mã khôi phục là mã 9 từ",,,,"My wallet backup is 9 words seed"
+my_wallet_is_24_words_seed,"Mã khôi phục là mã 24 từ",,,,"My wallet backup is 24 words seed"
+paste_registration_link_here,"Dán đường dẫn đăng ký ở đây",,,,"Paste registration link here"
+copy_referral_link_tab,"Chép đường dẫn",,,,"Copy link"
+provide_referral_qr,"Mã QR",,,,"Provide QR"
+send_token_by_enter_address_tab,"Dùng địa chỉ",,,,"Send text"
+scan_qr,"Dùng mã QR",,,,"Scan QR"
