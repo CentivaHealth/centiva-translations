@@ -379,34 +379,6 @@
     "ADDRESS_NOT_FOUND_IN_LIST_AUTHORIZED_SEEKERS": "L'indirizzo non è stato trovato nella lista di cercatori autorizzati",
     "consent_alert_title": "Apri URL nel browser",
     "consent_alert_agree": "Continua",
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     "verify_email_1_title": "Registrati con l'email",
     "verify_email_1_get_email_description": "Per favore, fornisci il tuo indirizzo email. Un link di verifica verrà inviato a questo indirizzo email. L'apertura del link dovrà avvenire su questo dispositivo per completare l'accesso all'app",
     "verify_email_1_email_description": "Email",
@@ -414,100 +386,15 @@
     "verify_email_1_send_sign_in_email_button": "Invia email di accesso",
     "verify_email_2_title": "Verifica email",
     "verify_email_2_get_link_description": "Clicca sul link di verifica su questo dispositivo per completare l'accesso all'app",
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     "LANGUAGES.it": "Italiano",
-    
     "warning": "Attenzione",
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     "searchable_place_holder": "Ricerca",
-    
-    
-    
-    
-    
-    
-    
-    
-    
     "choose_map_check_in": "Posizione attuale",
     "choose_qr_check_in": "Scansiona il codice QR",
-    
-    
-    
-    
-    
-    
     "send_feedback_email_title": "feedback",
     "send_feed_back_email_title": "Feedback from app user",
     "invite_contact_share_by_email": "Inviare e-mail",
     "invite_contact_share_as_message": "Messaggeria istantanea",
-    
     "pub_health_fourth_agreement": "I dati di base dell'utente, sanitari e demografici, vengono crittografati con un PIN e salvati nella memoria del  dispositivo mobile personale. Qualunque dato fornito ai soggetti interessati alla raccolta di informazioni sanitarie viene loro trasmesso direttamente dal dispositivo.",
     "pub_health_fifth_agreement": "L'utente è l'unico responsabile della custodia delle informazioni quali PIN ed email con le credenziali di accesso.",
     "pub_health_homepage_status": "Situazione attuale",
