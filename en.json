@@ -134,7 +134,7 @@
     "save_passphrase_description": "Please copy and save your backup passphrase in a secure location. You will need the passphrase to recover your wallet if you reinstall the app.",
     "next_word_match": "Next: Word Match ",
     "recipient": "Recipient ",
-    "hit_available_amount": "Available Amount: ",
+    "dhp_available_amount": "Available Amount: ",
     "tx_fee": "Transaction fee: ",
     "xem_available": "Available XEM:",
     "add_xem_to_your_wallet": "Add XEM to your wallet. Click ",
