@@ -509,5 +509,8 @@
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
-    "scan_qr": "Scan QR"
+    "scan_qr": "Scan QR",
+    "show_do_not_have_provider_meta_data": "Missing provider meta data",
+    "verify_provider_error_alert_title": "Verify provider fail",
+    "get_dynamic_content_fail_alert_message" : "Get dynamic content fail. Please try in an hour."
 }
