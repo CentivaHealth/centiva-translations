@@ -134,7 +134,7 @@
     "save_passphrase_description": "Please copy and save your backup passphrase in a secure location. You will need the passphrase to recover your wallet if you reinstall the app.",
     "next_word_match": "Next: Word Match ",
     "recipient": "Recipient ",
-    "dhp_available_amount": "Available Amount: ",
+    "hit_available_amount": "Available Amount: ",
     "tx_fee": "Transaction fee: ",
     "xem_available": "Available XEM:",
     "add_xem_to_your_wallet": "Add XEM to your wallet. Click ",
@@ -509,5 +509,6 @@
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
-    "scan_qr": "Scan QR"
+    "scan_qr": "Scan QR",
+    "remind_user_save_back_up": "Please save your backup on paper or take screenshot (order is important). This backup will allow you to recover your wallet in case of mobile failure."
 }
