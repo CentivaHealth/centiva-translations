@@ -524,8 +524,9 @@
     "my_wallet_is_9_words_seed": "私の財布のバックアップは9ワードのシードです",
     "my_wallet_is_24_words_seed": "私の財布のバックアップは24ワードのシードです",
     "paste_registration_link_here": "Paste registration link here",
-    "copy_referral_link_tab": "Copy link",
-    "provide_referral_qr": "Provide QR",
-    "send_token_by_enter_address_tab": "Send text",
-    "scan_qr": "Scan QR"
+    "copy_referral_link_tab": "リンクをコピーする",
+    "provide_referral_qr": "QRを提供する",
+    "send_token_by_enter_address_tab": "文章を送る",
+    "scan_qr": "Scan QR",
+    "contact_info": "連絡先"
 }

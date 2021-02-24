@@ -642,5 +642,7 @@
     "copy_referral_link_tab": "Копировать ссылку",
     "provide_referral_qr": "Предоставить QR",
     "send_token_by_enter_address_tab": "Послать текст",
-    "scan_qr": "Сканировать QR"
+    "scan_qr": "Сканировать QR",
+    "contact_info": "Контакты"
+
 }
