@@ -527,5 +527,6 @@
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
-    "scan_qr": "Scan QR"
+    "scan_qr": "Scan QR",
+    "earned_token": "des points que vous avez gagnés nécessaires pour l'enquête"
 }
