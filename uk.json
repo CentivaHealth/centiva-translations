@@ -519,14 +519,15 @@
     "add_provider_manually_description": "Скануйте реєстраційний QR-код, введіть посилання на реєстрацію провайдера або знову торкніться посилання реєстрації та відкрийте за допомогою (щойно встановленого) додатка Centiva. Торкніться <Skip>, якщо вас не посилав ваш постачальник послуг.",
     "remind_provider_mannually_description": "Підтвердьте, що хочете продовжувати, не додаючи постачальника",
     "add_provider_manually_skip_btn": "Так, продовжуйте",
-    "enter_9_words_backup_phrase": "Введіть 9 слів",
+    "enter_12_words_backup_phrase": "Введіть 12 слів",
     "enter_24_words_backup_phrase": "Введіть 24 слова Резервне словосполучення",
-    "my_wallet_is_9_words_seed": "Моя резервна копія гаманця - це 9 слів",
+    "my_wallet_is_12_words_seed": "Моя резервна копія гаманця - це 12 слів",
     "my_wallet_is_24_words_seed": "Моя резервна копія гаманця - це 24 насінні слова",
     "paste_registration_link_here": "Paste registration link here",
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
     "scan_qr": "Scan QR",
-    "earned_token": "балів, які ви заробили для опитування"
+    "earned_token": "балів, які ви заробили для опитування",
+    "contact_info": "Контактна інформація"
 }

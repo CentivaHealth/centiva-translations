@@ -519,14 +519,15 @@
     "add_provider_manually_description": "Quét mã QR đăng ký/ nhập đường dẫn đăng ký/ hoặc ấn vào và mở đường dẫn đăng ký  (chọn ứng dụng Centiva). Ấn <Bỏ qua> nếu bạn không được  giới thiệu bởi nhà cung cấp nào.",
     "remind_provider_mannually_description": "Không thêm nhà cung cấp và tiếp tục",
     "add_provider_manually_skip_btn": "Đồng ý, tiếp tục",
-    "enter_9_words_backup_phrase": "Nhập mã khôi phục (9 từ)",
+    "enter_12_words_backup_phrase": "Nhập mã khôi phục (12 từ)",
     "enter_24_words_backup_phrase": "Nhập mã khôi phục (24 từ)",
-    "my_wallet_is_9_words_seed": "Mã khôi phục là mã 9 từ",
+    "my_wallet_is_12_words_seed": "Mã khôi phục là mã 12 từ",
     "my_wallet_is_24_words_seed": "Mã khôi phục là mã 24 từ",
     "paste_registration_link_here": "Dán đường dẫn đăng ký ở đây",
     "copy_referral_link_tab": "Chép đường dẫn",
     "provide_referral_qr": "Mã QR",
     "send_token_by_enter_address_tab": "Dùng địa chỉ",
     "scan_qr": "Dùng mã QR",
-    "earned_token": "số điểm bạn đã kiếm được cho khảo sát"
+    "earned_token": "số điểm bạn đã kiếm được cho khảo sát",
+    "contact_info": "Thông tin liên lạc"
 }

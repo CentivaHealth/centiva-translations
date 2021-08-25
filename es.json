@@ -519,14 +519,15 @@
     "add_provider_manually_description": "Escanee un código QR de registro, ingrese un enlace de registro de proveedor o toque el enlace de registro nuevamente y ábralo usando la aplicación Centiva (recién instalada). Toque <Omitir> si su proveedor no lo refirió.",
     "remind_provider_mannually_description": "Confirme que desea continuar sin agregar un proveedor",
     "add_provider_manually_skip_btn": "Si continuar",
-    "enter_9_words_backup_phrase": "Ingrese 9 palabras Frase de respaldo",
+    "enter_12_words_backup_phrase": "Ingrese 12 palabras Frase de respaldo",
     "enter_24_words_backup_phrase": "Ingrese la frase de respaldo de 24 palabras",
-    "my_wallet_is_9_words_seed": "La copia de seguridad de mi billetera es semilla de 9 palabras",
+    "my_wallet_is_12_words_seed": "La copia de seguridad de mi billetera es semilla de 12 palabras",
     "my_wallet_is_24_words_seed": "La copia de seguridad de mi billetera es semilla de 24 palabras",
     "paste_registration_link_here": "Paste registration link here",
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
     "scan_qr": "Scan QR",
-    "earned_token": "de los puntos que ha ganado necesarios para la encuesta"
+    "earned_token": "de los puntos que ha ganado necesarios para la encuesta",
+    "contact_info": "Información del contacto"
 }
