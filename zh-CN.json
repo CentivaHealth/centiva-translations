@@ -529,5 +529,6 @@
     "send_token_by_enter_address_tab": "Send text",
     "scan_qr": "Scan QR",
     "earned_token": "您所获得的分数中需要进行调查",
-    "contact_info": "联系信息"
+    "contact_info": "联系信息",
+    "later": "Later"
 }
