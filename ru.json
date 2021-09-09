@@ -644,5 +644,6 @@
     "send_token_by_enter_address_tab": "Послать текст",
     "scan_qr": "Сканировать QR",
     "earned_token": "очков, которые вы заработали, необходимы для опроса",
-    "contact_info": "Контакты"
+    "contact_info": "Контакты",
+    "later": "позже"
 }

@@ -514,5 +514,6 @@
     "remind_user_save_back_up": "Please save your backup on paper or take screenshot (order is important). This backup will allow you to recover your wallet in case of mobile failure.",
     "get_dynamic_content_fail_alert_message": "Get dynamic content fail, please try in a hour.",
     "earned_token": "of the points that you have earned needed for survey",
-    "contact_info": "Contact intormation"
+    "contact_info": "Contact intormation",
+    "later": "Later"
 }
