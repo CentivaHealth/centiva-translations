@@ -502,9 +502,9 @@
     "add_provider_manually_description": "Scan a registration QR code, enter a provider registration link, or tap the registration link again and open using the (just installed) Centiva app. Tap <Skip> if you were not referred by your provider.",
     "remind_provider_mannually_description": "Please confirm that you wish to continue without adding a provider",
     "add_provider_manually_skip_btn": "Yes, continue",
-    "enter_9_words_backup_phrase": "Enter 9 words Backup Phrase",
+    "enter_12_words_backup_phrase": "Enter 12 words Backup Phrase",
     "enter_24_words_backup_phrase": "Enter 24 words Backup Phrase",
-    "my_wallet_is_9_words_seed": "My wallet backup is 9 words seed",
+    "my_wallet_is_12_words_seed": "My wallet backup is 12 words seed",
     "my_wallet_is_24_words_seed": "My wallet backup is 24 words seed",
     "paste_registration_link_here": "Paste registration link here",
     "copy_referral_link_tab": "Copy link",
@@ -513,5 +513,7 @@
     "scan_qr": "Scan QR",
     "remind_user_save_back_up": "Please save your backup on paper or take screenshot (order is important). This backup will allow you to recover your wallet in case of mobile failure.",
     "get_dynamic_content_fail_alert_message": "Get dynamic content fail, please try in a hour.",
-    "earned_token": "of the points that you have earned needed for survey"
+    "earned_token": "of the points that you have earned needed for survey",
+    "contact_info": "Contact intormation",
+    "later": "Later"
 }

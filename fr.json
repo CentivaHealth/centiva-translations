@@ -519,14 +519,16 @@
     "add_provider_manually_description": "Scannez un code QR d'enregistrement, entrez un lien d'enregistrement de fournisseur ou appuyez à nouveau sur le lien d'enregistrement et ouvrez à l'aide de l'application Centiva (qui vient d'être installée). Appuyez sur <Ignorer> si vous n'avez pas été référé par votre fournisseur.",
     "remind_provider_mannually_description": "Veuillez confirmer que vous souhaitez continuer sans ajouter de fournisseur",
     "add_provider_manually_skip_btn": "Oui, continuez",
-    "enter_9_words_backup_phrase": "Entrez 9 mots de phrase de sauvegarde",
+    "enter_12_words_backup_phrase": "Entrez 12 mots de phrase de sauvegarde",
     "enter_24_words_backup_phrase": "Entrez une phrase de sauvegarde de 24 mots",
-    "my_wallet_is_9_words_seed": "Ma sauvegarde de portefeuille est une graine de 9 mots",
+    "my_wallet_is_12_words_seed": "Ma sauvegarde de portefeuille est une graine de 12 mots",
     "my_wallet_is_24_words_seed": "Ma sauvegarde de portefeuille est une graine de 24 mots",
     "paste_registration_link_here": "Paste registration link here",
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
     "scan_qr": "Scan QR",
-    "earned_token": "des points que vous avez gagnés nécessaires pour l'enquête"
+    "earned_token": "des points que vous avez gagnés nécessaires pour l'enquête",
+    "contact_info": "Informations de contact",
+    "later": "Plus tard"
 }

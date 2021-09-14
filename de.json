@@ -517,14 +517,16 @@
     "add_provider_manually_description": "Scannen Sie einen Registrierungs-QR-Code, geben Sie einen Anbieterregistrierungslink ein oder tippen Sie erneut auf den Registrierungslink und öffnen Sie ihn mit der (gerade installierten) Centiva-App. Tippen Sie auf <Skip>, wenn Sie nicht von Ihrem Provider verwiesen wurden.",
     "remind_provider_mannually_description": "Bitte bestätigen Sie, dass Sie fortfahren möchten, ohne einen Anbieter hinzuzufügen",
     "add_provider_manually_skip_btn": "Ja, weiter",
-    "enter_9_words_backup_phrase": "Geben Sie Ihre Sicherungsphrase mit 9 Wörtern ein",
+    "enter_12_words_backup_phrase": "Geben Sie Ihre Sicherungsphrase mit 12 Wörtern ein",
     "enter_24_words_backup_phrase": "Geben Sie Ihre Sicherungsphrase mit 24 Wörtern ein",
-    "my_wallet_is_9_words_seed": "Meine Sicherungsphrase besteht aus 9 Wörtern",
+    "my_wallet_is_12_words_seed": "Meine Sicherungsphrase besteht aus 12 Wörtern",
     "my_wallet_is_24_words_seed": "Meine Sicherungsphrase besteht aus 24 Wörtern",
     "paste_registration_link_here": "Paste registration link here",
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
     "scan_qr": "Scan QR",
-    "earned_token": "der Punkte, die Sie für die Umfrage benötigt haben"
+    "earned_token": "der Punkte, die Sie für die Umfrage benötigt haben",
+    "contact_info": "Kontakt Informationen",
+    "later": "Später"
 }

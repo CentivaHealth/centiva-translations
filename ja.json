@@ -519,14 +519,16 @@
     "add_provider_manually_description": "登録QRコードをスキャンするか、プロバイダー登録リンクを入力するか、登録リンクをもう一度タップして、（インストールしたばかりの）Centivaアプリを使用して開きます。プロバイダーから紹介されていない場合は、<スキップ>をタップします。",
     "remind_provider_mannually_description": "プロバイダーを追加せずに続行することを確認してください",
     "add_provider_manually_skip_btn": "はい、続けます",
-    "enter_9_words_backup_phrase": "9語のバックアップフレーズを入力してください",
+    "enter_12_words_backup_phrase": "12語のバックアップフレーズを入力してください",
     "enter_24_words_backup_phrase": "24ワードのバックアップフレーズを入力してください",
-    "my_wallet_is_9_words_seed": "私の財布のバックアップは9ワードのシードです",
+    "my_wallet_is_12_words_seed": "私の財布のバックアップは12ワードのシードです",
     "my_wallet_is_24_words_seed": "私の財布のバックアップは24ワードのシードです",
     "paste_registration_link_here": "Paste registration link here",
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
     "scan_qr": "Scan QR",
-    "earned_token": "獲得したポイントのうち、調査に必要なもの"
+    "earned_token": "獲得したポイントのうち、調査に必要なもの",
+    "contact_info": "連絡先",
+    "later": "Later"
 }

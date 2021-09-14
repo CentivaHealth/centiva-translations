@@ -519,14 +519,16 @@
     "add_provider_manually_description": "扫描注册QR码，输入提供商注册链接，或再次点击注册链接，然后使用（已安装）Centiva应用程序打开。如果您的提供商没有推荐您，请点击<跳过>。",
     "remind_provider_mannually_description": "请确认您希望继续而不添加提供商",
     "add_provider_manually_skip_btn": "是的，继续",
-    "enter_9_words_backup_phrase": "输入9个字的备份词组",
+    "enter_12_words_backup_phrase": "输入12个字的备份词组",
     "enter_24_words_backup_phrase": "输入24个单词的备份短语",
-    "my_wallet_is_9_words_seed": "我的钱包备份是9字种子",
+    "my_wallet_is_12_words_seed": "我的钱包备份是12字种子",
     "my_wallet_is_24_words_seed": "我的钱包备份是24字种子",
     "paste_registration_link_here": "Paste registration link here",
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
     "scan_qr": "Scan QR",
-    "earned_token": "您所获得的分数中需要进行调查"
+    "earned_token": "您所获得的分数中需要进行调查",
+    "contact_info": "联系信息",
+    "later": "Later"
 }

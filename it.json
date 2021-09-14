@@ -519,14 +519,16 @@
     "add_provider_manually_description": "Scansiona un codice QR di registrazione, inserisci un link di registrazione del provider o tocca di nuovo il link di registrazione e aprilo utilizzando l'app Centiva (appena installata). Tocca <Salta> se non sei stato segnalato dal tuo fornitore.",
     "remind_provider_mannually_description": "Conferma di voler continuare senza aggiungere un provider",
     "add_provider_manually_skip_btn": "Sì, continua",
-    "enter_9_words_backup_phrase": "Immettere 9 parole Frase di backup",
+    "enter_12_words_backup_phrase": "Immettere 12 parole Frase di backup",
     "enter_24_words_backup_phrase": "Immettere 24 parole Frase di backup",
-    "my_wallet_is_9_words_seed": "Il backup del mio portafoglio è seme di 9 parole",
+    "my_wallet_is_12_words_seed": "Il backup del mio portafoglio è seme di 12 parole",
     "my_wallet_is_24_words_seed": "Il backup del mio portafoglio è seme di 24 parole",
     "paste_registration_link_here": "Paste registration link here",
     "copy_referral_link_tab": "Copy link",
     "provide_referral_qr": "Provide QR",
     "send_token_by_enter_address_tab": "Send text",
     "scan_qr": "Scan QR",
-    "earned_token": "dei punti guadagnati necessari per il sondaggio"
+    "earned_token": "dei punti guadagnati necessari per il sondaggio",
+    "contact_info": "informazioni sui contatti",
+    "later": "Later"
 }
